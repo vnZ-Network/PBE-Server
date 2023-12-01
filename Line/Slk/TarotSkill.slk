@@ -1,0 +1,4888 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M180
+F;P0;DG0G8;M285
+B;Y601;X8;D0 0 600 7
+O;L;S;D;V0;K47;T0;G100 0.001
+F;W1 1 14
+F;W2 2 20
+F;W3 3 12
+F;W4 5 14
+F;W6 6 17
+F;W7 7 47
+C;Y1;X1;K"N/A??ID"
+C;X2;K"Attribute Name"
+C;X3;K"Acquire Status"
+C;X4;K"Acquire Status Level"
+C;X5;K"Learned Skill"
+C;X6;K"Learned Skill Level"
+C;X7;K"Attribute Description"
+C;X8;K"Negative or not"
+C;Y2;X1;K"TarotSkillID"
+C;X2;K"Name"
+C;X3;K"GetStatus"
+C;X4;K"GetStatusLevel"
+C;X5;K"LearnSkill"
+C;X6;K"LearnSkillLevel"
+C;X7;K"Caption"
+C;X8;K"IsNegative"
+C;Y3;X1;K1
+C;X2;K"Max HP LV1"
+C;X3;K21001
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Max HP by 548"
+C;X8;K0
+C;Y4;X1;K2
+C;X2;K"Max HP LV2"
+C;X3;K21002
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Max HP by 1096"
+C;X8;K0
+C;Y5;X1;K3
+C;X2;K"Max HP LV3"
+C;X3;K21003
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Max HP by 1644"
+C;X8;K0
+C;Y6;X1;K4
+C;X2;K"Max HP LV4"
+C;X3;K21004
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Max HP by 2192"
+C;X8;K0
+C;Y7;X1;K5
+C;X2;K"Max HP LV5"
+C;X3;K21005
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Max HP by 2740"
+C;X8;K0
+C;Y8;X1;K6
+C;X2;K"Max HP LV6"
+C;X3;K21006
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Max HP by 3288"
+C;X8;K0
+C;Y9;X1;K7
+C;X2;K"Max HP LV7"
+C;X3;K21007
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Max HP by 3836"
+C;X8;K0
+C;Y10;X1;K8
+C;X2;K"Max HP LV8"
+C;X3;K21008
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Max HP by 4384"
+C;X8;K0
+C;Y11;X1;K9
+C;X2;K"Max HP LV9"
+C;X3;K21009
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Max HP by 4932"
+C;X8;K0
+C;Y12;X1;K10
+C;X2;K"Max HP LV10"
+C;X3;K21010
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Max HP by 5480"
+C;X8;K0
+C;Y13;X1;K11
+C;X2;K"Max HP LV1"
+C;X3;K21011
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Max HP by 548"
+C;X8;K1
+C;Y14;X1;K12
+C;X2;K"Max HP LV2"
+C;X3;K21012
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Max HP by 1096"
+C;X8;K1
+C;Y15;X1;K13
+C;X2;K"Max HP LV3"
+C;X3;K21013
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Max HP by 1644"
+C;X8;K1
+C;Y16;X1;K14
+C;X2;K"Max HP LV4"
+C;X3;K21014
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Max HP by 2192"
+C;X8;K1
+C;Y17;X1;K15
+C;X2;K"Max HP LV5"
+C;X3;K21015
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Max HP by 2740"
+C;X8;K1
+C;Y18;X1;K16
+C;X2;K"Max MP LV1"
+C;X3;K21016
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Max MP by 548"
+C;X8;K0
+C;Y19;X1;K17
+C;X2;K"Max MP LV2"
+C;X3;K21017
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Max MP by 1096"
+C;X8;K0
+C;Y20;X1;K18
+C;X2;K"Max MP LV3"
+C;X3;K21018
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Max MP by 1644"
+C;X8;K0
+C;Y21;X1;K19
+C;X2;K"Max MP LV4"
+C;X3;K21019
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Max MP by 2192"
+C;X8;K0
+C;Y22;X1;K20
+C;X2;K"Max MP LV5"
+C;X3;K21020
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Max MP by 2740"
+C;X8;K0
+C;Y23;X1;K21
+C;X2;K"Max MP LV6"
+C;X3;K21021
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Max MP by 3288"
+C;X8;K0
+C;Y24;X1;K22
+C;X2;K"Max MP LV7"
+C;X3;K21022
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Max MP by 3836"
+C;X8;K0
+C;Y25;X1;K23
+C;X2;K"Max MP LV8"
+C;X3;K21023
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Max MP by 4384"
+C;X8;K0
+C;Y26;X1;K24
+C;X2;K"Max MP LV9"
+C;X3;K21024
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Max MP by 4932"
+C;X8;K0
+C;Y27;X1;K25
+C;X2;K"Max MP LV10"
+C;X3;K21025
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Max MP by 5480"
+C;X8;K0
+C;Y28;X1;K26
+C;X2;K"Max MP LV1"
+C;X3;K21026
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Max MP by 548"
+C;X8;K1
+C;Y29;X1;K27
+C;X2;K"Max MP LV2"
+C;X3;K21027
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Max MP by 1096"
+C;X8;K1
+C;Y30;X1;K28
+C;X2;K"Max MP LV3"
+C;X3;K21028
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Max MP by 1644"
+C;X8;K1
+C;Y31;X1;K29
+C;X2;K"Max MP LV4"
+C;X3;K21029
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Max MP by 2192"
+C;X8;K1
+C;Y32;X1;K30
+C;X2;K"Max MP LV5"
+C;X3;K21030
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Max MP by 2740"
+C;X8;K1
+C;Y33;X1;K31
+C;X2;K"HP Recovery LV1"
+C;X3;K21031
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Recovers 2 HP every 5 sec."
+C;X8;K0
+C;Y34;X1;K32
+C;X2;K"HP Recovery LV2"
+C;X3;K21032
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Recovers 4 HP every 5 sec."
+C;X8;K0
+C;Y35;X1;K33
+C;X2;K"HP Recovery LV3"
+C;X3;K21033
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Recovers 6 HP every 5 sec."
+C;X8;K0
+C;Y36;X1;K34
+C;X2;K"HP Recovery LV4"
+C;X3;K21034
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Recovers 8 HP every 5 sec."
+C;X8;K0
+C;Y37;X1;K35
+C;X2;K"HP Recovery LV5"
+C;X3;K21035
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Recovers 10 HP every 5 sec."
+C;X8;K0
+C;Y38;X1;K36
+C;X2;K"HP Recovery LV6"
+C;X3;K21036
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Recovers 12 HP every 5 sec."
+C;X8;K0
+C;Y39;X1;K37
+C;X2;K"HP Recovery LV7"
+C;X3;K21037
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Recovers 14 HP every 5 sec."
+C;X8;K0
+C;Y40;X1;K38
+C;X2;K"HP Recovery LV8"
+C;X3;K21038
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Recovers 16 HP every 5 sec."
+C;X8;K0
+C;Y41;X1;K39
+C;X2;K"HP Recovery LV9"
+C;X3;K21039
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Recovers 18 HP every 5 sec."
+C;X8;K0
+C;Y42;X1;K40
+C;X2;K"HP Recovery LV10"
+C;X3;K21040
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Recovers 20 HP every 5 sec."
+C;X8;K0
+C;Y43;X1;K41
+C;X2;K"HP Recovery LV11"
+C;X3;K21041
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"HPRecover"
+C;X8;K1
+C;Y44;X1;K42
+C;X2;K"HP Recovery LV12"
+C;X3;K21042
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"HPRecover"
+C;X8;K1
+C;Y45;X1;K43
+C;X2;K"HP Recovery LV13"
+C;X3;K21043
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"HPRecover"
+C;X8;K1
+C;Y46;X1;K44
+C;X2;K"HP Recovery LV14"
+C;X3;K21044
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"HPRecover"
+C;X8;K1
+C;Y47;X1;K45
+C;X2;K"HP Recovery LV15"
+C;X3;K21045
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"HPRecover"
+C;X8;K1
+C;Y48;X1;K46
+C;X2;K"MP Recovery LV1"
+C;X3;K21046
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Recovers 2 MP every 5 sec."
+C;X8;K0
+C;Y49;X1;K47
+C;X2;K"MP Recovery LV2"
+C;X3;K21047
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Recovers 4 MP every 5 sec."
+C;X8;K0
+C;Y50;X1;K48
+C;X2;K"MP Recovery LV3"
+C;X3;K21048
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Recovers 6 MP every 5 sec."
+C;X8;K0
+C;Y51;X1;K49
+C;X2;K"MP Recovery LV4"
+C;X3;K21049
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Recovers 8 MP every 5 sec."
+C;X8;K0
+C;Y52;X1;K50
+C;X2;K"MP Recovery LV5"
+C;X3;K21050
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Recovers 10 MP every 5 sec."
+C;X8;K0
+C;Y53;X1;K51
+C;X2;K"MP Recovery LV6"
+C;X3;K21051
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Recovers 12 MP every 5 sec."
+C;X8;K0
+C;Y54;X1;K52
+C;X2;K"MP Recovery LV7"
+C;X3;K21052
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Recovers 14 MP every 5 sec."
+C;X8;K0
+C;Y55;X1;K53
+C;X2;K"MP Recovery LV8"
+C;X3;K21053
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Recovers 16 MP every 5 sec."
+C;X8;K0
+C;Y56;X1;K54
+C;X2;K"MP Recovery LV9"
+C;X3;K21054
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Recovers 18 MP every 5 sec."
+C;X8;K0
+C;Y57;X1;K55
+C;X2;K"MP Recovery LV10"
+C;X3;K21055
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Recovers 20 MP every 5 sec."
+C;X8;K0
+C;Y58;X1;K56
+C;X2;K"MP Recovery LV11"
+C;X3;K21056
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"MPRecover"
+C;X8;K1
+C;Y59;X1;K57
+C;X2;K"MP Recovery LV12"
+C;X3;K21057
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"MPRecover"
+C;X8;K1
+C;Y60;X1;K58
+C;X2;K"MP Recovery LV13"
+C;X3;K21058
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"MPRecover"
+C;X8;K1
+C;Y61;X1;K59
+C;X2;K"MP Recovery LV14"
+C;X3;K21059
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"MPRecover"
+C;X8;K1
+C;Y62;X1;K60
+C;X2;K"MP Recovery LV15"
+C;X3;K21060
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"MPRecover"
+C;X8;K1
+C;Y63;X1;K61
+C;X2;K"Accuracy LV1"
+C;X3;K21061
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Accuracy by 43"
+C;X8;K0
+C;Y64;X1;K62
+C;X2;K"Accuracy LV2"
+C;X3;K21062
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Accuracy by 86"
+C;X8;K0
+C;Y65;X1;K63
+C;X2;K"Accuracy LV3"
+C;X3;K21063
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Accuracy by 129"
+C;X8;K0
+C;Y66;X1;K64
+C;X2;K"Accuracy LV4"
+C;X3;K21064
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Accuracy by 172"
+C;X8;K0
+C;Y67;X1;K65
+C;X2;K"Accuracy LV5"
+C;X3;K21065
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Accuracy by 215"
+C;X8;K0
+C;Y68;X1;K66
+C;X2;K"Accuracy LV6"
+C;X3;K21066
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Accuracy by 258"
+C;X8;K0
+C;Y69;X1;K67
+C;X2;K"Accuracy LV7"
+C;X3;K21067
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Accuracy by 301"
+C;X8;K0
+C;Y70;X1;K68
+C;X2;K"Accuracy LV8"
+C;X3;K21068
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Accuracy by 344"
+C;X8;K0
+C;Y71;X1;K69
+C;X2;K"Accuracy LV9"
+C;X3;K21069
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Accuracy by 387"
+C;X8;K0
+C;Y72;X1;K70
+C;X2;K"Accuracy LV10"
+C;X3;K21070
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Accuracy by 430"
+C;X8;K0
+C;Y73;X1;K71
+C;X2;K"Accuracy LV1"
+C;X3;K21071
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Accuracy by 43"
+C;X8;K1
+C;Y74;X1;K72
+C;X2;K"Accuracy LV2"
+C;X3;K21072
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Accuracy by 86"
+C;X8;K1
+C;Y75;X1;K73
+C;X2;K"Accuracy LV3"
+C;X3;K21073
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Accuracy by 129"
+C;X8;K1
+C;Y76;X1;K74
+C;X2;K"Accuracy LV4"
+C;X3;K21074
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Accuracy by 172"
+C;X8;K1
+C;Y77;X1;K75
+C;X2;K"Accuracy LV5"
+C;X3;K21075
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Accuracy by 215"
+C;X8;K1
+C;Y78;X1;K76
+C;X2;K"Movement Speed LV1"
+C;X3;K21076
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Movement Speed by 1%"
+C;X8;K0
+C;Y79;X1;K77
+C;X2;K"Movement Speed LV1"
+C;X3;K21077
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Movement Speed by 1%"
+C;X8;K0
+C;Y80;X1;K78
+C;X2;K"Movement Speed LV1"
+C;X3;K21078
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Movement Speed by 1%"
+C;X8;K0
+C;Y81;X1;K79
+C;X2;K"Movement Speed LV1"
+C;X3;K21079
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Movement Speed by 1%"
+C;X8;K0
+C;Y82;X1;K80
+C;X2;K"Movement Speed LV1"
+C;X3;K21080
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Movement Speed by 1%"
+C;X8;K0
+C;Y83;X1;K81
+C;X2;K"Movement Speed LV1"
+C;X3;K21081
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Movement Speed by 1%"
+C;X8;K0
+C;Y84;X1;K82
+C;X2;K"Movement Speed LV1"
+C;X3;K21082
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Movement Speed by 1%"
+C;X8;K0
+C;Y85;X1;K83
+C;X2;K"Movement Speed LV1"
+C;X3;K21083
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Movement Speed by 1%"
+C;X8;K0
+C;Y86;X1;K84
+C;X2;K"Movement Speed LV1"
+C;X3;K21084
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Movement Speed by 1%"
+C;X8;K0
+C;Y87;X1;K85
+C;X2;K"Movement Speed LV1"
+C;X3;K21085
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Movement Speed by 1%"
+C;X8;K0
+C;Y88;X1;K86
+C;X2;K"Movement Speed LV1"
+C;X3;K21086
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Movement Speed by 1%"
+C;X8;K1
+C;Y89;X1;K87
+C;X2;K"Movement Speed LV1"
+C;X3;K21087
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Movement Speed by 1%"
+C;X8;K1
+C;Y90;X1;K88
+C;X2;K"Movement Speed LV1"
+C;X3;K21088
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Movement Speed by 1%"
+C;X8;K1
+C;Y91;X1;K89
+C;X2;K"Movement Speed LV1"
+C;X3;K21089
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Movement Speed by 1%"
+C;X8;K1
+C;Y92;X1;K90
+C;X2;K"Movement Speed LV1"
+C;X3;K21090
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Movement Speed by 1%"
+C;X8;K1
+C;Y93;X1;K91
+C;X2;K"Evasion LV1"
+C;X3;K21091
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Evasion by 11"
+C;X8;K0
+C;Y94;X1;K92
+C;X2;K"Evasion LV2"
+C;X3;K21092
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Evasion by 22"
+C;X8;K0
+C;Y95;X1;K93
+C;X2;K"Evasion LV3"
+C;X3;K21093
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Evasion by 33"
+C;X8;K0
+C;Y96;X1;K94
+C;X2;K"Evasion LV4"
+C;X3;K21094
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Evasion by 44"
+C;X8;K0
+C;Y97;X1;K95
+C;X2;K"Evasion LV5"
+C;X3;K21095
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Evasion by 55"
+C;X8;K0
+C;Y98;X1;K96
+C;X2;K"Evasion LV6"
+C;X3;K21096
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Evasion by 66"
+C;X8;K0
+C;Y99;X1;K97
+C;X2;K"Evasion LV7"
+C;X3;K21097
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Evasion by 77"
+C;X8;K0
+C;Y100;X1;K98
+C;X2;K"Evasion LV8"
+C;X3;K21098
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Evasion by 88"
+C;X8;K0
+C;Y101;X1;K99
+C;X2;K"Evasion LV9"
+C;X3;K21099
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Evasion by 99"
+C;X8;K0
+C;Y102;X1;K100
+C;X2;K"Evasion LV10"
+C;X3;K21100
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Evasion by 110"
+C;X8;K0
+C;Y103;X1;K101
+C;X2;K"Evasion LV1"
+C;X3;K21101
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Evasion by 11"
+C;X8;K1
+C;Y104;X1;K102
+C;X2;K"Evasion LV2"
+C;X3;K21102
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Evasion by 22"
+C;X8;K1
+C;Y105;X1;K103
+C;X2;K"Evasion LV3"
+C;X3;K21103
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Evasion by 33"
+C;X8;K1
+C;Y106;X1;K104
+C;X2;K"Evasion LV4"
+C;X3;K21104
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Evasion by 44"
+C;X8;K1
+C;Y107;X1;K105
+C;X2;K"Evasion LV5"
+C;X3;K21105
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Evasion by 55"
+C;X8;K1
+C;Y108;X1;K106
+C;X2;K"Strength LV1"
+C;X3;K21106
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Strength by 5"
+C;X8;K0
+C;Y109;X1;K107
+C;X2;K"Strength LV2"
+C;X3;K21107
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Strength by 10"
+C;X8;K0
+C;Y110;X1;K108
+C;X2;K"Strength LV3"
+C;X3;K21108
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Strength by 15"
+C;X8;K0
+C;Y111;X1;K109
+C;X2;K"Strength LV4"
+C;X3;K21109
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Strength by 20"
+C;X8;K0
+C;Y112;X1;K110
+C;X2;K"Strength LV5"
+C;X3;K21110
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Strength by 25"
+C;X8;K0
+C;Y113;X1;K111
+C;X2;K"Strength LV6"
+C;X3;K21111
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Strength by 30"
+C;X8;K0
+C;Y114;X1;K112
+C;X2;K"Strength LV7"
+C;X3;K21112
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Strength by 35"
+C;X8;K0
+C;Y115;X1;K113
+C;X2;K"Strength LV8"
+C;X3;K21113
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Strength by 40"
+C;X8;K0
+C;Y116;X1;K114
+C;X2;K"Strength LV9"
+C;X3;K21114
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Strength by 45"
+C;X8;K0
+C;Y117;X1;K115
+C;X2;K"Strength LV10"
+C;X3;K21115
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Strength by 50"
+C;X8;K0
+C;Y118;X1;K116
+C;X2;K"Strength LV1"
+C;X3;K21116
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Strength by 5"
+C;X8;K1
+C;Y119;X1;K117
+C;X2;K"Strength LV2"
+C;X3;K21117
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Strength by 10"
+C;X8;K1
+C;Y120;X1;K118
+C;X2;K"Strength LV3"
+C;X3;K21118
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Strength by 15"
+C;X8;K1
+C;Y121;X1;K119
+C;X2;K"Strength LV4"
+C;X3;K21119
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Strength by 20"
+C;X8;K1
+C;Y122;X1;K120
+C;X2;K"Strength LV5"
+C;X3;K21120
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Strength by 25"
+C;X8;K1
+C;Y123;X1;K121
+C;X2;K"Vitality LV1"
+C;X3;K21121
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Vitality by 5"
+C;X8;K0
+C;Y124;X1;K122
+C;X2;K"Vitality LV2"
+C;X3;K21122
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Vitality by 10"
+C;X8;K0
+C;Y125;X1;K123
+C;X2;K"Vitality LV3"
+C;X3;K21123
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Vitality by 15"
+C;X8;K0
+C;Y126;X1;K124
+C;X2;K"Vitality LV4"
+C;X3;K21124
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Vitality by 20"
+C;X8;K0
+C;Y127;X1;K125
+C;X2;K"Vitality LV5"
+C;X3;K21125
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Vitality by 25"
+C;X8;K0
+C;Y128;X1;K126
+C;X2;K"Vitality LV6"
+C;X3;K21126
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Vitality by 30"
+C;X8;K0
+C;Y129;X1;K127
+C;X2;K"Vitality LV7"
+C;X3;K21127
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Vitality by 35"
+C;X8;K0
+C;Y130;X1;K128
+C;X2;K"Vitality LV8"
+C;X3;K21128
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Vitality by 40"
+C;X8;K0
+C;Y131;X1;K129
+C;X2;K"Vitality LV9"
+C;X3;K21129
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Vitality by 45"
+C;X8;K0
+C;Y132;X1;K130
+C;X2;K"Vitality LV10"
+C;X3;K21130
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Vitality by 50"
+C;X8;K0
+C;Y133;X1;K131
+C;X2;K"Vitality LV1"
+C;X3;K21131
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Vitality by 5"
+C;X8;K1
+C;Y134;X1;K132
+C;X2;K"Vitality LV2"
+C;X3;K21132
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Vitality by 10"
+C;X8;K1
+C;Y135;X1;K133
+C;X2;K"Vitality LV3"
+C;X3;K21133
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Vitality by 15"
+C;X8;K1
+C;Y136;X1;K134
+C;X2;K"Vitality LV4"
+C;X3;K21134
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Vitality by 20"
+C;X8;K1
+C;Y137;X1;K135
+C;X2;K"Vitality LV5"
+C;X3;K21135
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Vitality by 25"
+C;X8;K1
+C;Y138;X1;K136
+C;X2;K"Dexterity LV1"
+C;X3;K21136
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Dexterity by 5"
+C;X8;K0
+C;Y139;X1;K137
+C;X2;K"Dexterity LV2"
+C;X3;K21137
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Dexterity by 10"
+C;X8;K0
+C;Y140;X1;K138
+C;X2;K"Dexterity LV3"
+C;X3;K21138
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Dexterity by 15"
+C;X8;K0
+C;Y141;X1;K139
+C;X2;K"Dexterity LV4"
+C;X3;K21139
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Dexterity by 20"
+C;X8;K0
+C;Y142;X1;K140
+C;X2;K"Dexterity LV5"
+C;X3;K21140
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Dexterity by 25"
+C;X8;K0
+C;Y143;X1;K141
+C;X2;K"Dexterity LV6"
+C;X3;K21141
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Dexterity by 30"
+C;X8;K0
+C;Y144;X1;K142
+C;X2;K"Dexterity LV7"
+C;X3;K21142
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Dexterity by 35"
+C;X8;K0
+C;Y145;X1;K143
+C;X2;K"Dexterity LV8"
+C;X3;K21143
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Dexterity by 40"
+C;X8;K0
+C;Y146;X1;K144
+C;X2;K"Dexterity LV9"
+C;X3;K21144
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Dexterity by 45"
+C;X8;K0
+C;Y147;X1;K145
+C;X2;K"Dexterity LV10"
+C;X3;K21145
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Dexterity by 50"
+C;X8;K0
+C;Y148;X1;K146
+C;X2;K"Dexterity LV1"
+C;X3;K21146
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Dexterity by 5"
+C;X8;K1
+C;Y149;X1;K147
+C;X2;K"Dexterity LV2"
+C;X3;K21147
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Dexterity by 10"
+C;X8;K1
+C;Y150;X1;K148
+C;X2;K"Dexterity LV3"
+C;X3;K21148
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Dexterity by 15"
+C;X8;K1
+C;Y151;X1;K149
+C;X2;K"Dexterity LV4"
+C;X3;K21149
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Dexterity by 20"
+C;X8;K1
+C;Y152;X1;K150
+C;X2;K"Dexterity LV5"
+C;X3;K21150
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Dexterity by 25"
+C;X8;K1
+C;Y153;X1;K151
+C;X2;K"Intellect LV1"
+C;X3;K21151
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Intellect by 5"
+C;X8;K0
+C;Y154;X1;K152
+C;X2;K"Intellect LV2"
+C;X3;K21152
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Intellect by 10"
+C;X8;K0
+C;Y155;X1;K153
+C;X2;K"Intellect LV3"
+C;X3;K21153
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Intellect by 15"
+C;X8;K0
+C;Y156;X1;K154
+C;X2;K"Intellect LV4"
+C;X3;K21154
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Intellect by 20"
+C;X8;K0
+C;Y157;X1;K155
+C;X2;K"Intellect LV5"
+C;X3;K21155
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Intellect by 25"
+C;X8;K0
+C;Y158;X1;K156
+C;X2;K"Intellect LV6"
+C;X3;K21156
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Intellect by 30"
+C;X8;K0
+C;Y159;X1;K157
+C;X2;K"Intellect LV7"
+C;X3;K21157
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Intellect by 35"
+C;X8;K0
+C;Y160;X1;K158
+C;X2;K"Intellect LV8"
+C;X3;K21158
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Intellect by 40"
+C;X8;K0
+C;Y161;X1;K159
+C;X2;K"Intellect LV9"
+C;X3;K21159
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Intellect by 45"
+C;X8;K0
+C;Y162;X1;K160
+C;X2;K"Intellect LV10"
+C;X3;K21160
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Intellect by 50"
+C;X8;K0
+C;Y163;X1;K161
+C;X2;K"Intellect LV1"
+C;X3;K21161
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Intellect by 5"
+C;X8;K1
+C;Y164;X1;K162
+C;X2;K"Intellect LV2"
+C;X3;K21162
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Intellect by 10"
+C;X8;K1
+C;Y165;X1;K163
+C;X2;K"Intellect LV3"
+C;X3;K21163
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Intellect by 15"
+C;X8;K1
+C;Y166;X1;K164
+C;X2;K"Intellect LV4"
+C;X3;K21164
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Intellect by 20"
+C;X8;K1
+C;Y167;X1;K165
+C;X2;K"Intellect LV5"
+C;X3;K21165
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Intellect by 25"
+C;X8;K1
+C;Y168;X1;K166
+C;X2;K"Spirit LV1"
+C;X3;K21166
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Spirit by 5"
+C;X8;K0
+C;Y169;X1;K167
+C;X2;K"Spirit LV2"
+C;X3;K21167
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Spirit by 10"
+C;X8;K0
+C;Y170;X1;K168
+C;X2;K"Spirit LV3"
+C;X3;K21168
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Spirit by 15"
+C;X8;K0
+C;Y171;X1;K169
+C;X2;K"Spirit LV4"
+C;X3;K21169
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Spirit by 20"
+C;X8;K0
+C;Y172;X1;K170
+C;X2;K"Spirit LV5"
+C;X3;K21170
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Spirit by 25"
+C;X8;K0
+C;Y173;X1;K171
+C;X2;K"Spirit LV6"
+C;X3;K21171
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Spirit by 30"
+C;X8;K0
+C;Y174;X1;K172
+C;X2;K"Spirit LV7"
+C;X3;K21172
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Spirit by 35"
+C;X8;K0
+C;Y175;X1;K173
+C;X2;K"Spirit LV8"
+C;X3;K21173
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Spirit by 40"
+C;X8;K0
+C;Y176;X1;K174
+C;X2;K"Spirit LV9"
+C;X3;K21174
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Spirit by 45"
+C;X8;K0
+C;Y177;X1;K175
+C;X2;K"Spirit LV10"
+C;X3;K21175
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Spirit by 50"
+C;X8;K0
+C;Y178;X1;K176
+C;X2;K"Spirit LV1"
+C;X3;K21176
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Spirit by 5"
+C;X8;K1
+C;Y179;X1;K177
+C;X2;K"Spirit LV2"
+C;X3;K21177
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Spirit by 10"
+C;X8;K1
+C;Y180;X1;K178
+C;X2;K"Spirit LV3"
+C;X3;K21178
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Spirit by 15"
+C;X8;K1
+C;Y181;X1;K179
+C;X2;K"Spirit LV4"
+C;X3;K21179
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Spirit by 20"
+C;X8;K1
+C;Y182;X1;K180
+C;X2;K"Spirit LV5"
+C;X3;K21180
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Spirit by 25"
+C;X8;K1
+C;Y183;X1;K181
+C;X2;K"Critstrike Chance LV1"
+C;X3;K21181
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critstrike Chance by 1%"
+C;X8;K0
+C;Y184;X1;K182
+C;X2;K"Critstrike Chance LV1"
+C;X3;K21182
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critstrike Chance by 1%"
+C;X8;K0
+C;Y185;X1;K183
+C;X2;K"Critstrike Chance LV1"
+C;X3;K21183
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critstrike Chance by 1%"
+C;X8;K0
+C;Y186;X1;K184
+C;X2;K"Critstrike Chance LV1"
+C;X3;K21184
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critstrike Chance by 1%"
+C;X8;K0
+C;Y187;X1;K185
+C;X2;K"Critstrike Chance LV1"
+C;X3;K21185
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critstrike Chance by 1%"
+C;X8;K0
+C;Y188;X1;K186
+C;X2;K"Critstrike Chance LV1"
+C;X3;K21186
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critstrike Chance by 1%"
+C;X8;K0
+C;Y189;X1;K187
+C;X2;K"Critstrike Chance LV1"
+C;X3;K21187
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critstrike Chance by 1%"
+C;X8;K0
+C;Y190;X1;K188
+C;X2;K"Critstrike Chance LV1"
+C;X3;K21188
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critstrike Chance by 1%"
+C;X8;K0
+C;Y191;X1;K189
+C;X2;K"Critstrike Chance LV1"
+C;X3;K21189
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critstrike Chance by 1%"
+C;X8;K0
+C;Y192;X1;K190
+C;X2;K"Critstrike Chance LV1"
+C;X3;K21190
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critstrike Chance by 1%"
+C;X8;K0
+C;Y193;X1;K191
+C;X2;K"Critstrike Chance LV1"
+C;X3;K21191
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Critstrike Chance by 1%"
+C;X8;K1
+C;Y194;X1;K192
+C;X2;K"Critstrike Chance LV1"
+C;X3;K21192
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Critstrike Chance by 1%"
+C;X8;K1
+C;Y195;X1;K193
+C;X2;K"Critstrike Chance LV1"
+C;X3;K21193
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Critstrike Chance by 1%"
+C;X8;K1
+C;Y196;X1;K194
+C;X2;K"Critstrike Chance LV1"
+C;X3;K21194
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Critstrike Chance by 1%"
+C;X8;K1
+C;Y197;X1;K195
+C;X2;K"Critstrike Chance LV1"
+C;X3;K21195
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Critstrike Chance by 1%"
+C;X8;K1
+C;Y198;X1;K196
+C;X2;K"Critstrike Damage LV1"
+C;X3;K21196
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critstrike Damage Bonus by 7"
+C;X8;K0
+C;Y199;X1;K197
+C;X2;K"Critstrike Damage LV2"
+C;X3;K21197
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critstrike Damage Bonus by 14"
+C;X8;K0
+C;Y200;X1;K198
+C;X2;K"Critstrike Damage LV3"
+C;X3;K21198
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critstrike Damage Bonus by 21"
+C;X8;K0
+C;Y201;X1;K199
+C;X2;K"Critstrike Damage LV4"
+C;X3;K21199
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critstrike Damage Bonus by 28"
+C;X8;K0
+C;Y202;X1;K200
+C;X2;K"Critstrike Damage LV5"
+C;X3;K21200
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critstrike Damage Bonus by 35"
+C;X8;K0
+C;Y203;X1;K201
+C;X2;K"Critstrike Damage LV6"
+C;X3;K21201
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critstrike Damage Bonus by 42"
+C;X8;K0
+C;Y204;X1;K202
+C;X2;K"Critstrike Damage LV7"
+C;X3;K21202
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critstrike Damage Bonus by 49"
+C;X8;K0
+C;Y205;X1;K203
+C;X2;K"Critstrike Damage LV8"
+C;X3;K21203
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critstrike Damage Bonus by 56"
+C;X8;K0
+C;Y206;X1;K204
+C;X2;K"Critstrike Damage LV9"
+C;X3;K21204
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critstrike Damage Bonus by 63"
+C;X8;K0
+C;Y207;X1;K205
+C;X2;K"Critstrike Damage LV10"
+C;X3;K21205
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critstrike Damage Bonus by 70"
+C;X8;K0
+C;Y208;X1;K206
+C;X2;K"Critstrike Damage LV1"
+C;X3;K21206
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Critstrike Damage Bonus by 7"
+C;X8;K1
+C;Y209;X1;K207
+C;X2;K"Critstrike Damage LV2"
+C;X3;K21207
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Critstrike Damage Bonus by 14"
+C;X8;K1
+C;Y210;X1;K208
+C;X2;K"Critstrike Damage LV3"
+C;X3;K21208
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Critstrike Damage Bonus by 21"
+C;X8;K1
+C;Y211;X1;K209
+C;X2;K"Critstrike Damage LV4"
+C;X3;K21209
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Critstrike Damage Bonus by 28"
+C;X8;K1
+C;Y212;X1;K210
+C;X2;K"Critstrike Damage LV5"
+C;X3;K21210
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Critstrike Damage Bonus by 35"
+C;X8;K1
+C;Y213;X1;K211
+C;X2;K"Sacred Strike Chance LV1"
+C;X3;K21211
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Sacred Strike Chance by 1%"
+C;X8;K0
+C;Y214;X1;K212
+C;X2;K"Sacred Strike Chance LV2"
+C;X3;K21212
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Sacred Strike Chance by 1%"
+C;X8;K0
+C;Y215;X1;K213
+C;X2;K"Sacred Strike Chance LV3"
+C;X3;K21213
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Sacred Strike Chance by 1%"
+C;X8;K0
+C;Y216;X1;K214
+C;X2;K"Sacred Strike Chance LV4"
+C;X3;K21214
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Sacred Strike Chance by 1%"
+C;X8;K0
+C;Y217;X1;K215
+C;X2;K"Sacred Strike Chance LV5"
+C;X3;K21215
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Sacred Strike Chance by 1%"
+C;X8;K0
+C;Y218;X1;K216
+C;X2;K"Sacred Strike Chance LV6"
+C;X3;K21216
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Sacred Strike Chance by 1%"
+C;X8;K0
+C;Y219;X1;K217
+C;X2;K"Sacred Strike Chance LV7"
+C;X3;K21217
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Sacred Strike Chance by 1%"
+C;X8;K0
+C;Y220;X1;K218
+C;X2;K"Sacred Strike Chance LV8"
+C;X3;K21218
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Sacred Strike Chance by 1%"
+C;X8;K0
+C;Y221;X1;K219
+C;X2;K"Sacred Strike Chance LV9"
+C;X3;K21219
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Sacred Strike Chance by 1%"
+C;X8;K0
+C;Y222;X1;K220
+C;X2;K"Sacred Strike Chance LV10"
+C;X3;K21220
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Sacred Strike Chance by 1%"
+C;X8;K0
+C;Y223;X1;K221
+C;X2;K"Sacred Strike Chance LV1"
+C;X3;K21221
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Sacred Strike Chance by 1%"
+C;X8;K1
+C;Y224;X1;K222
+C;X2;K"Sacred Strike Chance LV2"
+C;X3;K21222
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Sacred Strike Chance by 1%"
+C;X8;K1
+C;Y225;X1;K223
+C;X2;K"Sacred Strike Chance LV3"
+C;X3;K21223
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Sacred Strike Chance by 1%"
+C;X8;K1
+C;Y226;X1;K224
+C;X2;K"Sacred Strike Chance LV4"
+C;X3;K21224
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Sacred Strike Chance by 1%"
+C;X8;K1
+C;Y227;X1;K225
+C;X2;K"Sacred Strike Chance LV5"
+C;X3;K21225
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Sacred Strike Chance by 1%"
+C;X8;K1
+C;Y228;X1;K226
+C;X2;K"Lucky Strike Chance LV1"
+C;X3;K21226
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Lucky Strike Chance by 1%"
+C;X8;K0
+C;Y229;X1;K227
+C;X2;K"Lucky Strike Chance LV2"
+C;X3;K21227
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Lucky Strike Chance by 1%"
+C;X8;K0
+C;Y230;X1;K228
+C;X2;K"Lucky Strike Chance LV3"
+C;X3;K21228
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Lucky Strike Chance by 1%"
+C;X8;K0
+C;Y231;X1;K229
+C;X2;K"Lucky Strike Chance LV4"
+C;X3;K21229
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Lucky Strike Chance by 1%"
+C;X8;K0
+C;Y232;X1;K230
+C;X2;K"Lucky Strike Chance LV5"
+C;X3;K21230
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Lucky Strike Chance by 1%"
+C;X8;K0
+C;Y233;X1;K231
+C;X2;K"Lucky Strike Chance LV6"
+C;X3;K21231
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Lucky Strike Chance by 1%"
+C;X8;K0
+C;Y234;X1;K232
+C;X2;K"Lucky Strike Chance LV7"
+C;X3;K21232
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Lucky Strike Chance by 1%"
+C;X8;K0
+C;Y235;X1;K233
+C;X2;K"Lucky Strike Chance LV8"
+C;X3;K21233
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Lucky Strike Chance by 1%"
+C;X8;K0
+C;Y236;X1;K234
+C;X2;K"Lucky Strike Chance LV9"
+C;X3;K21234
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Lucky Strike Chance by 1%"
+C;X8;K0
+C;Y237;X1;K235
+C;X2;K"Lucky Strike Chance LV10"
+C;X3;K21235
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Lucky Strike Chance by 1%"
+C;X8;K0
+C;Y238;X1;K236
+C;X2;K"Lucky Strike Chance LV1"
+C;X3;K21236
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Lucky Strike Chance by 1%"
+C;X8;K1
+C;Y239;X1;K237
+C;X2;K"Lucky Strike Chance LV2"
+C;X3;K21237
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Lucky Strike Chance by 1%"
+C;X8;K1
+C;Y240;X1;K238
+C;X2;K"Lucky Strike Chance LV3"
+C;X3;K21238
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Lucky Strike Chance by 1%"
+C;X8;K1
+C;Y241;X1;K239
+C;X2;K"Lucky Strike Chance LV4"
+C;X3;K21239
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Lucky Strike Chance by 1%"
+C;X8;K1
+C;Y242;X1;K240
+C;X2;K"Lucky Strike Chance LV5"
+C;X3;K21240
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Lucky Strike Chance by 1%"
+C;X8;K1
+C;Y243;X1;K241
+C;X2;K"Min Physical Attack LV1"
+C;X3;K21241
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Min Physical Attack by 20"
+C;X8;K0
+C;Y244;X1;K242
+C;X2;K"Min Physical Attack LV2"
+C;X3;K21242
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Min Physical Attack by 40"
+C;X8;K0
+C;Y245;X1;K243
+C;X2;K"Min Physical Attack LV3"
+C;X3;K21243
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Min Physical Attack by 60"
+C;X8;K0
+C;Y246;X1;K244
+C;X2;K"Min Physical Attack LV4"
+C;X3;K21244
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Min Physical Attack by 80"
+C;X8;K0
+C;Y247;X1;K245
+C;X2;K"Min Physical Attack LV5"
+C;X3;K21245
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Min Physical Attack by 100"
+C;X8;K0
+C;Y248;X1;K246
+C;X2;K"Min Physical Attack LV6"
+C;X3;K21246
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Min Physical Attack by 120"
+C;X8;K0
+C;Y249;X1;K247
+C;X2;K"Min Physical Attack LV7"
+C;X3;K21247
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Min Physical Attack by 140"
+C;X8;K0
+C;Y250;X1;K248
+C;X2;K"Min Physical Attack LV8"
+C;X3;K21248
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Min Physical Attack by 160"
+C;X8;K0
+C;Y251;X1;K249
+C;X2;K"Min Physical Attack LV9"
+C;X3;K21249
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Min Physical Attack by 180"
+C;X8;K0
+C;Y252;X1;K250
+C;X2;K"Min Physical Attack LV10"
+C;X3;K21250
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Min Physical Attack by 200"
+C;X8;K0
+C;Y253;X1;K251
+C;X2;K"Min Physical Attack LV1"
+C;X3;K21251
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Min Physical Attack by 20"
+C;X8;K1
+C;Y254;X1;K252
+C;X2;K"Min Physical Attack LV2"
+C;X3;K21252
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Min Physical Attack by 40"
+C;X8;K1
+C;Y255;X1;K253
+C;X2;K"Min Physical Attack LV3"
+C;X3;K21253
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Min Physical Attack by 60"
+C;X8;K1
+C;Y256;X1;K254
+C;X2;K"Min Physical Attack LV4"
+C;X3;K21254
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Min Physical Attack by 80"
+C;X8;K1
+C;Y257;X1;K255
+C;X2;K"Min Physical Attack LV5"
+C;X3;K21255
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Min Physical Attack by 100"
+C;X8;K1
+C;Y258;X1;K256
+C;X2;K"Max Physical Attack LV1"
+C;X3;K21256
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Max Physical Attack by 20"
+C;X8;K0
+C;Y259;X1;K257
+C;X2;K"Max Physical Attack LV2"
+C;X3;K21257
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Max Physical Attack by 40"
+C;X8;K0
+C;Y260;X1;K258
+C;X2;K"Max Physical Attack LV3"
+C;X3;K21258
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Max Physical Attack by 60"
+C;X8;K0
+C;Y261;X1;K259
+C;X2;K"Max Physical Attack LV4"
+C;X3;K21259
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Max Physical Attack by 80"
+C;X8;K0
+C;Y262;X1;K260
+C;X2;K"Max Physical Attack LV5"
+C;X3;K21260
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Max Physical Attack by 100"
+C;X8;K0
+C;Y263;X1;K261
+C;X2;K"Max Physical Attack LV6"
+C;X3;K21261
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Max Physical Attack by 120"
+C;X8;K0
+C;Y264;X1;K262
+C;X2;K"Max Physical Attack LV7"
+C;X3;K21262
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Max Physical Attack by 140"
+C;X8;K0
+C;Y265;X1;K263
+C;X2;K"Max Physical Attack LV8"
+C;X3;K21263
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Max Physical Attack by 160"
+C;X8;K0
+C;Y266;X1;K264
+C;X2;K"Max Physical Attack LV9"
+C;X3;K21264
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Max Physical Attack by 180"
+C;X8;K0
+C;Y267;X1;K265
+C;X2;K"Max Physical Attack LV10"
+C;X3;K21265
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Max Physical Attack by 200"
+C;X8;K0
+C;Y268;X1;K266
+C;X2;K"Max Physical Attack LV1"
+C;X3;K21266
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Max Physical Attack by 20"
+C;X8;K1
+C;Y269;X1;K267
+C;X2;K"Max Physical Attack LV2"
+C;X3;K21267
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Max Physical Attack by 40"
+C;X8;K1
+C;Y270;X1;K268
+C;X2;K"Max Physical Attack LV3"
+C;X3;K21268
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Max Physical Attack by 60"
+C;X8;K1
+C;Y271;X1;K269
+C;X2;K"Max Physical Attack LV4"
+C;X3;K21269
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Max Physical Attack by 80"
+C;X8;K1
+C;Y272;X1;K270
+C;X2;K"Max Physical Attack LV5"
+C;X3;K21270
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Max Physical Attack by 100"
+C;X8;K1
+C;Y273;X1;K271
+C;X2;K"Magic Attack LV1"
+C;X3;K21271
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Magic Attack by 20"
+C;X8;K0
+C;Y274;X1;K272
+C;X2;K"Magic Attack LV2"
+C;X3;K21272
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Magic Attack by 40"
+C;X8;K0
+C;Y275;X1;K273
+C;X2;K"Magic Attack LV3"
+C;X3;K21273
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Magic Attack by 60"
+C;X8;K0
+C;Y276;X1;K274
+C;X2;K"Magic Attack LV4"
+C;X3;K21274
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Magic Attack by 80"
+C;X8;K0
+C;Y277;X1;K275
+C;X2;K"Magic Attack LV5"
+C;X3;K21275
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Magic Attack by 100"
+C;X8;K0
+C;Y278;X1;K276
+C;X2;K"Magic Attack LV6"
+C;X3;K21276
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Magic Attack by 120"
+C;X8;K0
+C;Y279;X1;K277
+C;X2;K"Magic Attack LV7"
+C;X3;K21277
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Magic Attack by 140"
+C;X8;K0
+C;Y280;X1;K278
+C;X2;K"Magic Attack LV8"
+C;X3;K21278
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Magic Attack by 160"
+C;X8;K0
+C;Y281;X1;K279
+C;X2;K"Magic Attack LV9"
+C;X3;K21279
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Magic Attack by 180"
+C;X8;K0
+C;Y282;X1;K280
+C;X2;K"Magic Attack LV10"
+C;X3;K21280
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Magic Attack by 200"
+C;X8;K0
+C;Y283;X1;K281
+C;X2;K"Magic Attack LV1"
+C;X3;K21281
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Magic Attack by 20"
+C;X8;K1
+C;Y284;X1;K282
+C;X2;K"Magic Attack LV2"
+C;X3;K21282
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Magic Attack by 40"
+C;X8;K1
+C;Y285;X1;K283
+C;X2;K"Magic Attack LV3"
+C;X3;K21283
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Magic Attack by 60"
+C;X8;K1
+C;Y286;X1;K284
+C;X2;K"Magic Attack LV4"
+C;X3;K21284
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Magic Attack by 80"
+C;X8;K1
+C;Y287;X1;K285
+C;X2;K"Magic Attack LV5"
+C;X3;K21285
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Magic Attack by 100"
+C;X8;K1
+C;Y288;X1;K286
+C;X2;K"Fire Attack LV1"
+C;X3;K21286
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Fire Attack by 17"
+C;X8;K0
+C;Y289;X1;K287
+C;X2;K"Fire Attack LV2"
+C;X3;K21287
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Fire Attack by 34"
+C;X8;K0
+C;Y290;X1;K288
+C;X2;K"Fire Attack LV3"
+C;X3;K21288
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Fire Attack by 51"
+C;X8;K0
+C;Y291;X1;K289
+C;X2;K"Fire Attack LV4"
+C;X3;K21289
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Fire Attack by 68"
+C;X8;K0
+C;Y292;X1;K290
+C;X2;K"Fire Attack LV5"
+C;X3;K21290
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Fire Attack by 85"
+C;X8;K0
+C;Y293;X1;K291
+C;X2;K"Fire Attack LV6"
+C;X3;K21291
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Fire Attack by 102"
+C;X8;K0
+C;Y294;X1;K292
+C;X2;K"Fire Attack LV7"
+C;X3;K21292
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Fire Attack by 119"
+C;X8;K0
+C;Y295;X1;K293
+C;X2;K"Fire Attack LV8"
+C;X3;K21293
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Fire Attack by 136"
+C;X8;K0
+C;Y296;X1;K294
+C;X2;K"Fire Attack LV9"
+C;X3;K21294
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Fire Attack by 153"
+C;X8;K0
+C;Y297;X1;K295
+C;X2;K"Fire Attack LV10"
+C;X3;K21295
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Fire Attack by 170"
+C;X8;K0
+C;Y298;X1;K296
+C;X2;K"Fire Attack LV1"
+C;X3;K21296
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Fire Attack by 17"
+C;X8;K1
+C;Y299;X1;K297
+C;X2;K"Fire Attack LV2"
+C;X3;K21297
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Fire Attack by 34"
+C;X8;K1
+C;Y300;X1;K298
+C;X2;K"Fire Attack LV3"
+C;X3;K21298
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Fire Attack by 51"
+C;X8;K1
+C;Y301;X1;K299
+C;X2;K"Fire Attack LV4"
+C;X3;K21299
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Fire Attack by 68"
+C;X8;K1
+C;Y302;X1;K300
+C;X2;K"Fire Attack LV5"
+C;X3;K21300
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Fire Attack by 85"
+C;X8;K1
+C;Y303;X1;K301
+C;X2;K"Ice Attack LV1"
+C;X3;K21301
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Ice Attack by 17"
+C;X8;K0
+C;Y304;X1;K302
+C;X2;K"Ice Attack LV2"
+C;X3;K21302
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Ice Attack by 34"
+C;X8;K0
+C;Y305;X1;K303
+C;X2;K"Ice Attack LV3"
+C;X3;K21303
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Ice Attack by 51"
+C;X8;K0
+C;Y306;X1;K304
+C;X2;K"Ice Attack LV4"
+C;X3;K21304
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Ice Attack by 68"
+C;X8;K0
+C;Y307;X1;K305
+C;X2;K"Ice Attack LV5"
+C;X3;K21305
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Ice Attack by 85"
+C;X8;K0
+C;Y308;X1;K306
+C;X2;K"Ice Attack LV6"
+C;X3;K21306
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Ice Attack by 102"
+C;X8;K0
+C;Y309;X1;K307
+C;X2;K"Ice Attack LV7"
+C;X3;K21307
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Ice Attack by 119"
+C;X8;K0
+C;Y310;X1;K308
+C;X2;K"Ice Attack LV8"
+C;X3;K21308
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Ice Attack by 136"
+C;X8;K0
+C;Y311;X1;K309
+C;X2;K"Ice Attack LV9"
+C;X3;K21309
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Ice Attack by 153"
+C;X8;K0
+C;Y312;X1;K310
+C;X2;K"Ice Attack LV10"
+C;X3;K21310
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Ice Attack by 170"
+C;X8;K0
+C;Y313;X1;K311
+C;X2;K"Ice Attack LV1"
+C;X3;K21311
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Ice Attack by 17"
+C;X8;K1
+C;Y314;X1;K312
+C;X2;K"Ice Attack LV2"
+C;X3;K21312
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Ice Attack by 34"
+C;X8;K1
+C;Y315;X1;K313
+C;X2;K"Ice Attack LV3"
+C;X3;K21313
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Ice Attack by 51"
+C;X8;K1
+C;Y316;X1;K314
+C;X2;K"Ice Attack LV4"
+C;X3;K21314
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Ice Attack by 68"
+C;X8;K1
+C;Y317;X1;K315
+C;X2;K"Ice Attack LV5"
+C;X3;K21315
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Ice Attack by 85"
+C;X8;K1
+C;Y318;X1;K316
+C;X2;K"Light Attack LV1"
+C;X3;K21316
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Light Attack by 17"
+C;X8;K0
+C;Y319;X1;K317
+C;X2;K"Light Attack LV2"
+C;X3;K21317
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Light Attack by 34"
+C;X8;K0
+C;Y320;X1;K318
+C;X2;K"Light Attack LV3"
+C;X3;K21318
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Light Attack by 51"
+C;X8;K0
+C;Y321;X1;K319
+C;X2;K"Light Attack LV4"
+C;X3;K21319
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Light Attack by 68"
+C;X8;K0
+C;Y322;X1;K320
+C;X2;K"Light Attack LV5"
+C;X3;K21320
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Light Attack by 85"
+C;X8;K0
+C;Y323;X1;K321
+C;X2;K"Light Attack LV6"
+C;X3;K21321
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Light Attack by 102"
+C;X8;K0
+C;Y324;X1;K322
+C;X2;K"Light Attack LV7"
+C;X3;K21322
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Light Attack by 119"
+C;X8;K0
+C;Y325;X1;K323
+C;X2;K"Light Attack LV8"
+C;X3;K21323
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Light Attack by 136"
+C;X8;K0
+C;Y326;X1;K324
+C;X2;K"Light Attack LV9"
+C;X3;K21324
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Light Attack by 153"
+C;X8;K0
+C;Y327;X1;K325
+C;X2;K"Light Attack LV10"
+C;X3;K21325
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Light Attack by 170"
+C;X8;K0
+C;Y328;X1;K326
+C;X2;K"Light Attack LV1"
+C;X3;K21326
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Light Attack by 17"
+C;X8;K1
+C;Y329;X1;K327
+C;X2;K"Light Attack LV2"
+C;X3;K21327
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Light Attack by 34"
+C;X8;K1
+C;Y330;X1;K328
+C;X2;K"Light Attack LV3"
+C;X3;K21328
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Light Attack by 51"
+C;X8;K1
+C;Y331;X1;K329
+C;X2;K"Light Attack LV4"
+C;X3;K21329
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Light Attack by 68"
+C;X8;K1
+C;Y332;X1;K330
+C;X2;K"Light Attack LV5"
+C;X3;K21330
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Light Attack by 85"
+C;X8;K1
+C;Y333;X1;K331
+C;X2;K"Dark Attack LV1"
+C;X3;K21331
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Dark Attack by 17"
+C;X8;K0
+C;Y334;X1;K332
+C;X2;K"Dark Attack LV2"
+C;X3;K21332
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Dark Attack by 34"
+C;X8;K0
+C;Y335;X1;K333
+C;X2;K"Dark Attack LV3"
+C;X3;K21333
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Dark Attack by 51"
+C;X8;K0
+C;Y336;X1;K334
+C;X2;K"Dark Attack LV4"
+C;X3;K21334
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Dark Attack by 68"
+C;X8;K0
+C;Y337;X1;K335
+C;X2;K"Dark Attack LV5"
+C;X3;K21335
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Dark Attack by 85"
+C;X8;K0
+C;Y338;X1;K336
+C;X2;K"Dark Attack LV6"
+C;X3;K21336
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Dark Attack by 102"
+C;X8;K0
+C;Y339;X1;K337
+C;X2;K"Dark Attack LV7"
+C;X3;K21337
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Dark Attack by 119"
+C;X8;K0
+C;Y340;X1;K338
+C;X2;K"Dark Attack LV8"
+C;X3;K21338
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Dark Attack by 136"
+C;X8;K0
+C;Y341;X1;K339
+C;X2;K"Dark Attack LV9"
+C;X3;K21339
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Dark Attack by 153"
+C;X8;K0
+C;Y342;X1;K340
+C;X2;K"Dark Attack LV10"
+C;X3;K21340
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Dark Attack by 170"
+C;X8;K0
+C;Y343;X1;K341
+C;X2;K"Dark Attack LV1"
+C;X3;K21341
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Dark Attack by 17"
+C;X8;K1
+C;Y344;X1;K342
+C;X2;K"Dark Attack LV2"
+C;X3;K21342
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Dark Attack by 34"
+C;X8;K1
+C;Y345;X1;K343
+C;X2;K"Dark Attack LV3"
+C;X3;K21343
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Dark Attack by 51"
+C;X8;K1
+C;Y346;X1;K344
+C;X2;K"Dark Attack LV4"
+C;X3;K21344
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Dark Attack by 68"
+C;X8;K1
+C;Y347;X1;K345
+C;X2;K"Dark Attack LV5"
+C;X3;K21345
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Dark Attack by 85"
+C;X8;K1
+C;Y348;X1;K346
+C;X2;K"Physical Penetration LV1"
+C;X3;K21346
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Physical Penetration by 1%"
+C;X8;K0
+C;Y349;X1;K347
+C;X2;K"Physical Penetration LV2"
+C;X3;K21347
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Physical Penetration by 2%"
+C;X8;K0
+C;Y350;X1;K348
+C;X2;K"Physical Penetration LV3"
+C;X3;K21348
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Physical Penetration"
+C;X8;K0
+C;Y351;X1;K349
+C;X2;K"Physical Penetration LV4"
+C;X3;K21349
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Physical Penetration"
+C;X8;K0
+C;Y352;X1;K350
+C;X2;K"Physical Penetration LV5"
+C;X3;K21350
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Physical Penetration"
+C;X8;K0
+C;Y353;X1;K351
+C;X2;K"Physical Penetration LV6"
+C;X3;K21351
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Physical Penetration"
+C;X8;K0
+C;Y354;X1;K352
+C;X2;K"Physical Penetration LV7"
+C;X3;K21352
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Physical Penetration"
+C;X8;K0
+C;Y355;X1;K353
+C;X2;K"Physical Penetration LV8"
+C;X3;K21353
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Physical Penetration"
+C;X8;K0
+C;Y356;X1;K354
+C;X2;K"Physical Penetration LV9"
+C;X3;K21354
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Physical Penetration"
+C;X8;K0
+C;Y357;X1;K355
+C;X2;K"Physical Penetration LV10"
+C;X3;K21355
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Physical Penetration"
+C;X8;K0
+C;Y358;X1;K356
+C;X2;K"Physical Penetration LV1"
+C;X3;K21356
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Physical Penetration by 1%"
+C;X8;K1
+C;Y359;X1;K357
+C;X2;K"Physical Penetration LV2"
+C;X3;K21357
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Physical Penetration"
+C;X8;K1
+C;Y360;X1;K358
+C;X2;K"Physical Penetration LV3"
+C;X3;K21358
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Physical Penetration"
+C;X8;K1
+C;Y361;X1;K359
+C;X2;K"Physical Penetration LV4"
+C;X3;K21359
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Physical Penetration"
+C;X8;K1
+C;Y362;X1;K360
+C;X2;K"Physical Penetration LV5"
+C;X3;K21360
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Physical Penetration"
+C;X8;K1
+C;Y363;X1;K361
+C;X2;K"Magic Penetration LV1"
+C;X3;K21361
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Magic Penetration by 1%"
+C;X8;K0
+C;Y364;X1;K362
+C;X2;K"Magic Penetration LV2"
+C;X3;K21362
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Magic Penetration by 2%"
+C;X8;K0
+C;Y365;X1;K363
+C;X2;K"Magic Penetration LV3"
+C;X3;K21363
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Magic Penetration"
+C;X8;K0
+C;Y366;X1;K364
+C;X2;K"Magic Penetration LV4"
+C;X3;K21364
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Magic Penetration"
+C;X8;K0
+C;Y367;X1;K365
+C;X2;K"Magic Penetration LV5"
+C;X3;K21365
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Magic Penetration"
+C;X8;K0
+C;Y368;X1;K366
+C;X2;K"Magic Penetration LV6"
+C;X3;K21366
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Magic Penetration"
+C;X8;K0
+C;Y369;X1;K367
+C;X2;K"Magic Penetration LV7"
+C;X3;K21367
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Magic Penetration"
+C;X8;K0
+C;Y370;X1;K368
+C;X2;K"Magic Penetration LV8"
+C;X3;K21368
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Magic Penetration"
+C;X8;K0
+C;Y371;X1;K369
+C;X2;K"Magic Penetration LV9"
+C;X3;K21369
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Magic Penetration"
+C;X8;K0
+C;Y372;X1;K370
+C;X2;K"Magic Penetration LV10"
+C;X3;K21370
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Magic Penetration"
+C;X8;K0
+C;Y373;X1;K371
+C;X2;K"Magic Penetration LV1"
+C;X3;K21371
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Magic Penetration by 1%"
+C;X8;K1
+C;Y374;X1;K372
+C;X2;K"Magic Penetration LV2"
+C;X3;K21372
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Magic Penetration"
+C;X8;K1
+C;Y375;X1;K373
+C;X2;K"Magic Penetration LV3"
+C;X3;K21373
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Magic Penetration"
+C;X8;K1
+C;Y376;X1;K374
+C;X2;K"Magic Penetration LV4"
+C;X3;K21374
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Magic Penetration"
+C;X8;K1
+C;Y377;X1;K375
+C;X2;K"Magic Penetration LV5"
+C;X3;K21375
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Magic Penetration"
+C;X8;K1
+C;Y378;X1;K376
+C;X2;K"Fire Penetration LV1"
+C;X3;K21376
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Fire Penetration by 1%"
+C;X8;K0
+C;Y379;X1;K377
+C;X2;K"Fire Penetration LV2"
+C;X3;K21377
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Fire Penetration by 2%"
+C;X8;K0
+C;Y380;X1;K378
+C;X2;K"Fire Penetration LV3"
+C;X3;K21378
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Fire Penetration by 3%"
+C;X8;K0
+C;Y381;X1;K379
+C;X2;K"Fire Penetration LV4"
+C;X3;K21379
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Fire Penetration by 4%"
+C;X8;K0
+C;Y382;X1;K380
+C;X2;K"Fire Penetration LV5"
+C;X3;K21380
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Fire Penetration by 5%"
+C;X8;K0
+C;Y383;X1;K381
+C;X2;K"Fire Penetration LV6"
+C;X3;K21381
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Fire Penetration"
+C;X8;K0
+C;Y384;X1;K382
+C;X2;K"Fire Penetration LV7"
+C;X3;K21382
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Fire Penetration"
+C;X8;K0
+C;Y385;X1;K383
+C;X2;K"Fire Penetration LV8"
+C;X3;K21383
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Fire Penetration"
+C;X8;K0
+C;Y386;X1;K384
+C;X2;K"Fire Penetration LV9"
+C;X3;K21384
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Fire Penetration"
+C;X8;K0
+C;Y387;X1;K385
+C;X2;K"Fire Penetration LV10"
+C;X3;K21385
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Fire Penetration"
+C;X8;K0
+C;Y388;X1;K386
+C;X2;K"Fire Penetration LV1"
+C;X3;K21386
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Fire Penetration by 1%"
+C;X8;K1
+C;Y389;X1;K387
+C;X2;K"Fire Penetration LV2"
+C;X3;K21387
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Fire Penetration by 2%"
+C;X8;K1
+C;Y390;X1;K388
+C;X2;K"Fire Penetration LV3"
+C;X3;K21388
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Fire Penetration by 3%"
+C;X8;K1
+C;Y391;X1;K389
+C;X2;K"Fire Penetration LV4"
+C;X3;K21389
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Fire Penetration"
+C;X8;K1
+C;Y392;X1;K390
+C;X2;K"Fire Penetration LV5"
+C;X3;K21390
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Fire Penetration"
+C;X8;K1
+C;Y393;X1;K391
+C;X2;K"Physical Defense LV1"
+C;X3;K21391
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Physical Defense by 8"
+C;X8;K0
+C;Y394;X1;K392
+C;X2;K"Physical Defense LV2"
+C;X3;K21392
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Physical Defense by 16"
+C;X8;K0
+C;Y395;X1;K393
+C;X2;K"Physical Defense LV3"
+C;X3;K21393
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Physical Defense by 24"
+C;X8;K0
+C;Y396;X1;K394
+C;X2;K"Physical Defense LV4"
+C;X3;K21394
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Physical Defense by 32"
+C;X8;K0
+C;Y397;X1;K395
+C;X2;K"Physical Defense LV5"
+C;X3;K21395
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Physical Defense by 40"
+C;X8;K0
+C;Y398;X1;K396
+C;X2;K"Physical Defense LV6"
+C;X3;K21396
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Physical Defense by 48"
+C;X8;K0
+C;Y399;X1;K397
+C;X2;K"Physical Defense LV7"
+C;X3;K21397
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Physical Defense by 56"
+C;X8;K0
+C;Y400;X1;K398
+C;X2;K"Physical Defense LV8"
+C;X3;K21398
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Physical Defense by 64"
+C;X8;K0
+C;Y401;X1;K399
+C;X2;K"Physical Defense LV9"
+C;X3;K21399
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Physical Defense by 72"
+C;X8;K0
+C;Y402;X1;K400
+C;X2;K"Physical Defense LV10"
+C;X3;K21400
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Physical Defense by 80"
+C;X8;K0
+C;Y403;X1;K401
+C;X2;K"Physical Defense LV1"
+C;X3;K21401
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Physical Defense by 8"
+C;X8;K1
+C;Y404;X1;K402
+C;X2;K"Physical Defense LV2"
+C;X3;K21402
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Physical Defense by 16"
+C;X8;K1
+C;Y405;X1;K403
+C;X2;K"Physical Defense LV3"
+C;X3;K21403
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Physical Defense by 24"
+C;X8;K1
+C;Y406;X1;K404
+C;X2;K"Physical Defense LV4"
+C;X3;K21404
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Physical Defense by 32"
+C;X8;K1
+C;Y407;X1;K405
+C;X2;K"Physical Defense LV5"
+C;X3;K21405
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Physical Defense by 40"
+C;X8;K1
+C;Y408;X1;K406
+C;X2;K"Magic Defense LV1"
+C;X3;K21406
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Magic Defense by 8"
+C;X8;K0
+C;Y409;X1;K407
+C;X2;K"Magic Defense LV2"
+C;X3;K21407
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Magic Defense by 16"
+C;X8;K0
+C;Y410;X1;K408
+C;X2;K"Magic Defense LV3"
+C;X3;K21408
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Magic Defense by 24"
+C;X8;K0
+C;Y411;X1;K409
+C;X2;K"Magic Defense LV4"
+C;X3;K21409
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Magic Defense by 32"
+C;X8;K0
+C;Y412;X1;K410
+C;X2;K"Magic Defense LV5"
+C;X3;K21410
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Magic Defense by 40"
+C;X8;K0
+C;Y413;X1;K411
+C;X2;K"Magic Defense LV6"
+C;X3;K21411
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Magic Defense by 48"
+C;X8;K0
+C;Y414;X1;K412
+C;X2;K"Magic Defense LV7"
+C;X3;K21412
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Magic Defense by 56"
+C;X8;K0
+C;Y415;X1;K413
+C;X2;K"Magic Defense LV8"
+C;X3;K21413
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Magic Defense by 64"
+C;X8;K0
+C;Y416;X1;K414
+C;X2;K"Magic Defense LV9"
+C;X3;K21414
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Magic Defense by 72"
+C;X8;K0
+C;Y417;X1;K415
+C;X2;K"Magic Defense LV10"
+C;X3;K21415
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Magic Defense by 80"
+C;X8;K0
+C;Y418;X1;K416
+C;X2;K"Magic Defense LV1"
+C;X3;K21416
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Magic Defense by 8"
+C;X8;K1
+C;Y419;X1;K417
+C;X2;K"Magic Defense LV2"
+C;X3;K21417
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Magic Defense by 16"
+C;X8;K1
+C;Y420;X1;K418
+C;X2;K"Magic Defense LV3"
+C;X3;K21418
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Magic Defense by 24"
+C;X8;K1
+C;Y421;X1;K419
+C;X2;K"Magic Defense LV4"
+C;X3;K21419
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Magic Defense by 32"
+C;X8;K1
+C;Y422;X1;K420
+C;X2;K"Magic Defense LV5"
+C;X3;K21420
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Magic Defense by 40"
+C;X8;K1
+C;Y423;X1;K421
+C;X2;K"Fire Resistance LV1"
+C;X3;K21421
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Fire Resistance by 1%"
+C;X8;K0
+C;Y424;X1;K422
+C;X2;K"Fire Resistance LV2"
+C;X3;K21422
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Fire Resistance by 2%"
+C;X8;K0
+C;Y425;X1;K423
+C;X2;K"Fire Resistance LV3"
+C;X3;K21423
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Fire Resistance by 3%"
+C;X8;K0
+C;Y426;X1;K424
+C;X2;K"Fire Resistance LV4"
+C;X3;K21424
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Fire Resistance by 4%"
+C;X8;K0
+C;Y427;X1;K425
+C;X2;K"Fire Resistance LV5"
+C;X3;K21425
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Fire Resistance"
+C;X8;K0
+C;Y428;X1;K426
+C;X2;K"Fire Resistance LV6"
+C;X3;K21426
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Fire Resistance"
+C;X8;K0
+C;Y429;X1;K427
+C;X2;K"Fire Resistance LV7"
+C;X3;K21427
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Fire Resistance"
+C;X8;K0
+C;Y430;X1;K428
+C;X2;K"Fire Resistance LV8"
+C;X3;K21428
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Fire Resistance"
+C;X8;K0
+C;Y431;X1;K429
+C;X2;K"Fire Resistance LV9"
+C;X3;K21429
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Fire Resistance"
+C;X8;K0
+C;Y432;X1;K430
+C;X2;K"Fire Resistance LV10"
+C;X3;K21430
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Fire Resistance"
+C;X8;K0
+C;Y433;X1;K431
+C;X2;K"Fire Resistance LV1"
+C;X3;K21431
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Fire Resistance by 1%"
+C;X8;K1
+C;Y434;X1;K432
+C;X2;K"Fire Resistance LV2"
+C;X3;K21432
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Fire Resistance by 2%"
+C;X8;K1
+C;Y435;X1;K433
+C;X2;K"Fire Resistance LV3"
+C;X3;K21433
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Fire Resistance"
+C;X8;K1
+C;Y436;X1;K434
+C;X2;K"Fire Resistance LV4"
+C;X3;K21434
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Fire Resistance"
+C;X8;K1
+C;Y437;X1;K435
+C;X2;K"Fire Resistance LV5"
+C;X3;K21435
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Fire Resistance"
+C;X8;K1
+C;Y438;X1;K436
+C;X2;K"Ice Resistance LV1"
+C;X3;K21436
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Ice Resistance by 1%"
+C;X8;K0
+C;Y439;X1;K437
+C;X2;K"Ice Resistance LV2"
+C;X3;K21437
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Ice Resistance by 2%"
+C;X8;K0
+C;Y440;X1;K438
+C;X2;K"Ice Resistance LV3"
+C;X3;K21438
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Ice Resistance by 3%"
+C;X8;K0
+C;Y441;X1;K439
+C;X2;K"Ice Resistance LV4"
+C;X3;K21439
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Ice Resistance by 4%"
+C;X8;K0
+C;Y442;X1;K440
+C;X2;K"Ice Resistance LV5"
+C;X3;K21440
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Ice Resistance"
+C;X8;K0
+C;Y443;X1;K441
+C;X2;K"Ice Resistance LV6"
+C;X3;K21441
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Ice Resistance"
+C;X8;K0
+C;Y444;X1;K442
+C;X2;K"Ice Resistance LV7"
+C;X3;K21442
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Ice Resistance"
+C;X8;K0
+C;Y445;X1;K443
+C;X2;K"Ice Resistance LV8"
+C;X3;K21443
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Ice Resistance"
+C;X8;K0
+C;Y446;X1;K444
+C;X2;K"Ice Resistance LV9"
+C;X3;K21444
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Ice Resistance"
+C;X8;K0
+C;Y447;X1;K445
+C;X2;K"Ice Resistance LV10"
+C;X3;K21445
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Ice Resistance"
+C;X8;K0
+C;Y448;X1;K446
+C;X2;K"Ice Resistance LV1"
+C;X3;K21446
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Ice Resistance by 1%"
+C;X8;K1
+C;Y449;X1;K447
+C;X2;K"Ice Resistance LV2"
+C;X3;K21447
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Ice Resistance by 2%"
+C;X8;K1
+C;Y450;X1;K448
+C;X2;K"Ice Resistance LV3"
+C;X3;K21448
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Ice Resistance"
+C;X8;K1
+C;Y451;X1;K449
+C;X2;K"Ice Resistance LV4"
+C;X3;K21449
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Ice Resistance"
+C;X8;K1
+C;Y452;X1;K450
+C;X2;K"Ice Resistance LV5"
+C;X3;K21450
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Ice Resistance"
+C;X8;K1
+C;Y453;X1;K451
+C;X2;K"Light Resistance LV1"
+C;X3;K21451
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Light Resistance by 1%"
+C;X8;K0
+C;Y454;X1;K452
+C;X2;K"Light Resistance LV2"
+C;X3;K21452
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Light Resistance by 2%"
+C;X8;K0
+C;Y455;X1;K453
+C;X2;K"Light Resistance LV3"
+C;X3;K21453
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Light Resistance by 3%"
+C;X8;K0
+C;Y456;X1;K454
+C;X2;K"Light Resistance LV4"
+C;X3;K21454
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Light Resistance by 4%"
+C;X8;K0
+C;Y457;X1;K455
+C;X2;K"Light Resistance LV5"
+C;X3;K21455
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Light Resistance"
+C;X8;K0
+C;Y458;X1;K456
+C;X2;K"Light Resistance LV6"
+C;X3;K21456
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Light Resistance"
+C;X8;K0
+C;Y459;X1;K457
+C;X2;K"Light Resistance LV7"
+C;X3;K21457
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Light Resistance"
+C;X8;K0
+C;Y460;X1;K458
+C;X2;K"Light Resistance LV8"
+C;X3;K21458
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Light Resistance"
+C;X8;K0
+C;Y461;X1;K459
+C;X2;K"Light Resistance LV9"
+C;X3;K21459
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Light Resistance"
+C;X8;K0
+C;Y462;X1;K460
+C;X2;K"Light Resistance LV10"
+C;X3;K21460
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Light Resistance"
+C;X8;K0
+C;Y463;X1;K461
+C;X2;K"Light Resistance LV1"
+C;X3;K21461
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Light Resistance by 1%"
+C;X8;K1
+C;Y464;X1;K462
+C;X2;K"Light Resistance LV2"
+C;X3;K21462
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Light Resistance by 2%"
+C;X8;K1
+C;Y465;X1;K463
+C;X2;K"Light Resistance LV3"
+C;X3;K21463
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Light Resistance"
+C;X8;K1
+C;Y466;X1;K464
+C;X2;K"Light Resistance LV4"
+C;X3;K21464
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Light Resistance"
+C;X8;K1
+C;Y467;X1;K465
+C;X2;K"Light Resistance LV5"
+C;X3;K21465
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Light Resistance"
+C;X8;K1
+C;Y468;X1;K466
+C;X2;K"Dark Resistance LV1"
+C;X3;K21466
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Dark Resistance by 1%"
+C;X8;K0
+C;Y469;X1;K467
+C;X2;K"Dark Resistance LV2"
+C;X3;K21467
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Dark Resistance by 2%"
+C;X8;K0
+C;Y470;X1;K468
+C;X2;K"Dark Resistance LV3"
+C;X3;K21468
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Dark Resistance by 3%"
+C;X8;K0
+C;Y471;X1;K469
+C;X2;K"Dark Resistance LV4"
+C;X3;K21469
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Dark Resistance by 4%"
+C;X8;K0
+C;Y472;X1;K470
+C;X2;K"Dark Resistance LV5"
+C;X3;K21470
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Dark Resistance"
+C;X8;K0
+C;Y473;X1;K471
+C;X2;K"Dark Resistance LV6"
+C;X3;K21471
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Dark Resistance"
+C;X8;K0
+C;Y474;X1;K472
+C;X2;K"Dark Resistance LV7"
+C;X3;K21472
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Dark Resistance"
+C;X8;K0
+C;Y475;X1;K473
+C;X2;K"Dark Resistance LV8"
+C;X3;K21473
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Dark Resistance"
+C;X8;K0
+C;Y476;X1;K474
+C;X2;K"Dark Resistance LV9"
+C;X3;K21474
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Dark Resistance"
+C;X8;K0
+C;Y477;X1;K475
+C;X2;K"Dark Resistance LV10"
+C;X3;K21475
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Dark Resistance"
+C;X8;K0
+C;Y478;X1;K476
+C;X2;K"Dark Resistance LV1"
+C;X3;K21476
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Dark Resistance by 1%"
+C;X8;K1
+C;Y479;X1;K477
+C;X2;K"Dark Resistance LV2"
+C;X3;K21477
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Dark Resistance by 2%"
+C;X8;K1
+C;Y480;X1;K478
+C;X2;K"Dark Resistance LV3"
+C;X3;K21478
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Dark Resistance"
+C;X8;K1
+C;Y481;X1;K479
+C;X2;K"Dark Resistance LV4"
+C;X3;K21479
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Dark Resistance"
+C;X8;K1
+C;Y482;X1;K480
+C;X2;K"Dark Resistance LV5"
+C;X3;K21480
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Dark Resistance"
+C;X8;K1
+C;Y483;X1;K481
+C;X2;K"Healing Effect LV1"
+C;X3;K21481
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Healing Effect by 1%"
+C;X8;K0
+C;Y484;X1;K482
+C;X2;K"Healing Effect LV2"
+C;X3;K21482
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Healing Effect by 2%"
+C;X8;K0
+C;Y485;X1;K483
+C;X2;K"Healing Effect LV3"
+C;X3;K21483
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Healing Effect by 3%"
+C;X8;K0
+C;Y486;X1;K484
+C;X2;K"Healing Effect LV4"
+C;X3;K21484
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Healing Effect"
+C;X8;K0
+C;Y487;X1;K485
+C;X2;K"Healing Effect LV5"
+C;X3;K21485
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Healing Effect"
+C;X8;K0
+C;Y488;X1;K486
+C;X2;K"Healing Effect LV6"
+C;X3;K21486
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Healing Effect"
+C;X8;K0
+C;Y489;X1;K487
+C;X2;K"Healing Effect LV7"
+C;X3;K21487
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Healing Effect"
+C;X8;K0
+C;Y490;X1;K488
+C;X2;K"Healing Effect LV8"
+C;X3;K21488
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Healing Effect"
+C;X8;K0
+C;Y491;X1;K489
+C;X2;K"Healing Effect LV9"
+C;X3;K21489
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Healing Effect"
+C;X8;K0
+C;Y492;X1;K490
+C;X2;K"Healing Effect LV10"
+C;X3;K21490
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Healing Effect"
+C;X8;K0
+C;Y493;X1;K491
+C;X2;K"Healing Effect LV1"
+C;X3;K21491
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Healing Effect by 1%"
+C;X8;K1
+C;Y494;X1;K492
+C;X2;K"Healing Effect LV2"
+C;X3;K21492
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Healing Effect by 2%"
+C;X8;K1
+C;Y495;X1;K493
+C;X2;K"Healing Effect LV3"
+C;X3;K21493
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Healing Effect"
+C;X8;K1
+C;Y496;X1;K494
+C;X2;K"Healing Effect LV4"
+C;X3;K21494
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Healing Effect"
+C;X8;K1
+C;Y497;X1;K495
+C;X2;K"Healing Effect LV5"
+C;X3;K21495
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Healing Effect"
+C;X8;K1
+C;Y498;X1;K496
+C;X2;K"Heal Taken Effect LV1"
+C;X3;K21496
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Heal Taken Effect by 1%"
+C;X8;K0
+C;Y499;X1;K497
+C;X2;K"Heal Taken Effect LV2"
+C;X3;K21497
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Heal Taken Effect by 2%"
+C;X8;K0
+C;Y500;X1;K498
+C;X2;K"Heal Taken Effect LV3"
+C;X3;K21498
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Heal Taken Effect by 3%"
+C;X8;K0
+C;Y501;X1;K499
+C;X2;K"Heal Taken Effect LV4"
+C;X3;K21499
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Heal Taken Effect"
+C;X8;K0
+C;Y502;X1;K500
+C;X2;K"Heal Taken Effect LV5"
+C;X3;K21500
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Heal Taken Effect"
+C;X8;K0
+C;Y503;X1;K501
+C;X2;K"Heal Taken Effect LV6"
+C;X3;K21501
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Heal Taken Effect"
+C;X8;K0
+C;Y504;X1;K502
+C;X2;K"Heal Taken Effect LV7"
+C;X3;K21502
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Heal Taken Effect"
+C;X8;K0
+C;Y505;X1;K503
+C;X2;K"Heal Taken Effect LV8"
+C;X3;K21503
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Heal Taken Effect"
+C;X8;K0
+C;Y506;X1;K504
+C;X2;K"Heal Taken Effect LV9"
+C;X3;K21504
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Heal Taken Effect"
+C;X8;K0
+C;Y507;X1;K505
+C;X2;K"Heal Taken Effect LV10"
+C;X3;K21505
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Heal Taken Effect"
+C;X8;K0
+C;Y508;X1;K506
+C;X2;K"Heal Taken Effect LV1"
+C;X3;K21506
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Heal Taken Effect by 1%"
+C;X8;K1
+C;Y509;X1;K507
+C;X2;K"Heal Taken Effect LV2"
+C;X3;K21507
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Heal Taken Effect by 2%"
+C;X8;K1
+C;Y510;X1;K508
+C;X2;K"Heal Taken Effect LV3"
+C;X3;K21508
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Heal Taken Effect"
+C;X8;K1
+C;Y511;X1;K509
+C;X2;K"Heal Taken Effect LV4"
+C;X3;K21509
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Heal Taken Effect"
+C;X8;K1
+C;Y512;X1;K510
+C;X2;K"Heal Taken Effect LV5"
+C;X3;K21510
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Heal Taken Effect"
+C;X8;K1
+C;Y513;X1;K511
+C;X2;K"Critical Block LV1"
+C;X3;K21511
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critical Block by 1%"
+C;X8;K0
+C;Y514;X1;K512
+C;X2;K"Critical Block LV2"
+C;X3;K21512
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critical Block by 1%"
+C;X8;K0
+C;Y515;X1;K513
+C;X2;K"Critical Block LV3"
+C;X3;K21513
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critical Block by 1%"
+C;X8;K0
+C;Y516;X1;K514
+C;X2;K"Critical Block LV4"
+C;X3;K21514
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critical Block by 1%"
+C;X8;K0
+C;Y517;X1;K515
+C;X2;K"Critical Block LV5"
+C;X3;K21515
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critical Block by 1%"
+C;X8;K0
+C;Y518;X1;K516
+C;X2;K"Critical Block LV6"
+C;X3;K21516
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critical Block by 1%"
+C;X8;K0
+C;Y519;X1;K517
+C;X2;K"Critical Block LV7"
+C;X3;K21517
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critical Block by 1%"
+C;X8;K0
+C;Y520;X1;K518
+C;X2;K"Critical Block LV8"
+C;X3;K21518
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critical Block by 1%"
+C;X8;K0
+C;Y521;X1;K519
+C;X2;K"Critical Block LV9"
+C;X3;K21519
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critical Block by 1%"
+C;X8;K0
+C;Y522;X1;K520
+C;X2;K"Critical Block LV10"
+C;X3;K21520
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critical Block by 1%"
+C;X8;K0
+C;Y523;X1;K521
+C;X2;K"Critical Block LV11"
+C;X3;K21521
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Critical Block"
+C;X8;K1
+C;Y524;X1;K522
+C;X2;K"Critical Block LV12"
+C;X3;K21522
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Critical Block"
+C;X8;K1
+C;Y525;X1;K523
+C;X2;K"Critical Block LV13"
+C;X3;K21523
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Critical Block"
+C;X8;K1
+C;Y526;X1;K524
+C;X2;K"Critical Block LV14"
+C;X3;K21524
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Critical Block"
+C;X8;K1
+C;Y527;X1;K525
+C;X2;K"Critical Block LV15"
+C;X3;K21525
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Critical Block"
+C;X8;K1
+C;Y528;X1;K526
+C;X2;K"Critical Reduction LV1"
+C;X3;K21526
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critical Reduction by 7"
+C;X8;K0
+C;Y529;X1;K527
+C;X2;K"Critical Reduction LV2"
+C;X3;K21527
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critical Reduction by 14"
+C;X8;K0
+C;Y530;X1;K528
+C;X2;K"Critical Reduction LV3"
+C;X3;K21528
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critical Reduction by 21"
+C;X8;K0
+C;Y531;X1;K529
+C;X2;K"Critical Reduction LV4"
+C;X3;K21529
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critical Reduction by 28"
+C;X8;K0
+C;Y532;X1;K530
+C;X2;K"Critical Reduction LV5"
+C;X3;K21530
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critical Reduction by 35"
+C;X8;K0
+C;Y533;X1;K531
+C;X2;K"Critical Reduction LV6"
+C;X3;K21531
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critical Reduction by 42"
+C;X8;K0
+C;Y534;X1;K532
+C;X2;K"Critical Reduction LV7"
+C;X3;K21532
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critical Reduction by 49"
+C;X8;K0
+C;Y535;X1;K533
+C;X2;K"Critical Reduction LV8"
+C;X3;K21533
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critical Reduction by 56"
+C;X8;K0
+C;Y536;X1;K534
+C;X2;K"Critical Reduction LV9"
+C;X3;K21534
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critical Reduction by 63"
+C;X8;K0
+C;Y537;X1;K535
+C;X2;K"Critical Reduction LV10"
+C;X3;K21535
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critical Reduction by 70"
+C;X8;K0
+C;Y538;X1;K536
+C;X2;K"Increases Critical Damage taken by LV1"
+C;X3;K21536
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critical Damage taken by 7"
+C;X8;K1
+C;Y539;X1;K537
+C;X2;K"Increases Critical Damage taken by LV2"
+C;X3;K21537
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critical Damage taken by 14"
+C;X8;K1
+C;Y540;X1;K538
+C;X2;K"Increases Critical Damage taken by LV3"
+C;X3;K21538
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critical Damage taken by 21"
+C;X8;K1
+C;Y541;X1;K539
+C;X2;K"Increases Critical Damage taken by LV4"
+C;X3;K21539
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critical Damage taken by 28"
+C;X8;K1
+C;Y542;X1;K540
+C;X2;K"Increases Critical Damage taken by LV5"
+C;X3;K21540
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Critical Damage taken by 35"
+C;X8;K1
+C;Y543;X1;K541
+C;X2;K"Increases Ice Penetration by LV1"
+C;X3;K21541
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Ice Penetration by 1%"
+C;X8;K0
+C;Y544;X1;K542
+C;X2;K"Increases Ice Penetration by LV2"
+C;X3;K21542
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Ice Penetration by 2%"
+C;X8;K0
+C;Y545;X1;K543
+C;X2;K"Increases Ice Penetration by LV3"
+C;X3;K21543
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Ice Penetration by 3%"
+C;X8;K0
+C;Y546;X1;K544
+C;X2;K"Increases Ice Penetration by LV4"
+C;X3;K21544
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Ice Penetration by 4%"
+C;X8;K0
+C;Y547;X1;K545
+C;X2;K"Increases Ice Penetration by LV5"
+C;X3;K21545
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Ice Penetration by 5%"
+C;X8;K0
+C;Y548;X1;K546
+C;X2;K"Increases Ice Penetration by LV6"
+C;X3;K21546
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Ice Penetration"
+C;X8;K0
+C;Y549;X1;K547
+C;X2;K"Increases Ice Penetration by LV7"
+C;X3;K21547
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Ice Penetration"
+C;X8;K0
+C;Y550;X1;K548
+C;X2;K"Increases Ice Penetration by LV8"
+C;X3;K21548
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Ice Penetration"
+C;X8;K0
+C;Y551;X1;K549
+C;X2;K"Increases Ice Penetration by LV9"
+C;X3;K21549
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Ice Penetration"
+C;X8;K0
+C;Y552;X1;K550
+C;X2;K"Increases Ice Penetration by LV10"
+C;X3;K21550
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Ice Penetration"
+C;X8;K0
+C;Y553;X1;K551
+C;X2;K"Ice Penetration LV1"
+C;X3;K21551
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Ice Penetration by 1%"
+C;X8;K1
+C;Y554;X1;K552
+C;X2;K"Ice Penetration LV2"
+C;X3;K21552
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Ice Penetration by 2%"
+C;X8;K1
+C;Y555;X1;K553
+C;X2;K"Ice Penetration LV3"
+C;X3;K21553
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Ice Penetration by 3%"
+C;X8;K1
+C;Y556;X1;K554
+C;X2;K"Ice Penetration LV4"
+C;X3;K21554
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Ice Penetration"
+C;X8;K1
+C;Y557;X1;K555
+C;X2;K"Ice Penetration LV5"
+C;X3;K21555
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Ice Penetration"
+C;X8;K1
+C;Y558;X1;K556
+C;X2;K"Increases Light Penetration by LV1"
+C;X3;K21556
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Light Penetration by 1%"
+C;X8;K0
+C;Y559;X1;K557
+C;X2;K"Increases Light Penetration by LV2"
+C;X3;K21557
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Light Penetration by 2%"
+C;X8;K0
+C;Y560;X1;K558
+C;X2;K"Increases Light Penetration by LV3"
+C;X3;K21558
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Light Penetration by 3%"
+C;X8;K0
+C;Y561;X1;K559
+C;X2;K"Increases Light Penetration by LV4"
+C;X3;K21559
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Light Penetration by 4%"
+C;X8;K0
+C;Y562;X1;K560
+C;X2;K"Increases Light Penetration by LV5"
+C;X3;K21560
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Light Penetration by 5%"
+C;X8;K0
+C;Y563;X1;K561
+C;X2;K"Increases Light Penetration by LV6"
+C;X3;K21561
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Light Penetration"
+C;X8;K0
+C;Y564;X1;K562
+C;X2;K"Increases Light Penetration by LV7"
+C;X3;K21562
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Light Penetration"
+C;X8;K0
+C;Y565;X1;K563
+C;X2;K"Increases Light Penetration by LV8"
+C;X3;K21563
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Light Penetration"
+C;X8;K0
+C;Y566;X1;K564
+C;X2;K"Increases Light Penetration by LV9"
+C;X3;K21564
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Light Penetration"
+C;X8;K0
+C;Y567;X1;K565
+C;X2;K"Increases Light Penetration by LV10"
+C;X3;K21565
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Light Penetration"
+C;X8;K0
+C;Y568;X1;K566
+C;X2;K"Light Penetration LV1"
+C;X3;K21566
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Light Penetration by 1%"
+C;X8;K1
+C;Y569;X1;K567
+C;X2;K"Light Penetration LV2"
+C;X3;K21567
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Light Penetration by 2%"
+C;X8;K1
+C;Y570;X1;K568
+C;X2;K"Light Penetration LV3"
+C;X3;K21568
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Light Penetration by 3%"
+C;X8;K1
+C;Y571;X1;K569
+C;X2;K"Light Penetration LV4"
+C;X3;K21569
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Light Penetration"
+C;X8;K1
+C;Y572;X1;K570
+C;X2;K"Light Penetration LV5"
+C;X3;K21570
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Light Penetration"
+C;X8;K1
+C;Y573;X1;K571
+C;X2;K"Increases Dark Penetration by LV1"
+C;X3;K21571
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Dark Penetration by 1%"
+C;X8;K0
+C;Y574;X1;K572
+C;X2;K"Increases Dark Penetration by LV2"
+C;X3;K21572
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Dark Penetration by 2%"
+C;X8;K0
+C;Y575;X1;K573
+C;X2;K"Increases Dark Penetration by LV3"
+C;X3;K21573
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Dark Penetration by 3%"
+C;X8;K0
+C;Y576;X1;K574
+C;X2;K"Increases Dark Penetration by LV4"
+C;X3;K21574
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Dark Penetration by 4%"
+C;X8;K0
+C;Y577;X1;K575
+C;X2;K"Increases Dark Penetration by LV5"
+C;X3;K21575
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Increases Dark Penetration by 5%"
+C;X8;K0
+C;Y578;X1;K576
+C;X2;K"Increases Dark Penetration by LV6"
+C;X3;K21576
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Dark Penetration"
+C;X8;K0
+C;Y579;X1;K577
+C;X2;K"Increases Dark Penetration by LV7"
+C;X3;K21577
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Dark Penetration"
+C;X8;K0
+C;Y580;X1;K578
+C;X2;K"Increases Dark Penetration by LV8"
+C;X3;K21578
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Dark Penetration"
+C;X8;K0
+C;Y581;X1;K579
+C;X2;K"Increases Dark Penetration by LV9"
+C;X3;K21579
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Dark Penetration"
+C;X8;K0
+C;Y582;X1;K580
+C;X2;K"Increases Dark Penetration by LV10"
+C;X3;K21580
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Dark Penetration"
+C;X8;K0
+C;Y583;X1;K581
+C;X2;K"Dark Penetration LV1"
+C;X3;K21581
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Dark Penetration by 1%"
+C;X8;K1
+C;Y584;X1;K582
+C;X2;K"Dark Penetration LV2"
+C;X3;K21582
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Dark Penetration by 2%"
+C;X8;K1
+C;Y585;X1;K583
+C;X2;K"Dark Penetration LV3"
+C;X3;K21583
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Reduces Dark Penetration by 3%"
+C;X8;K1
+C;Y586;X1;K584
+C;X2;K"Dark Penetration LV4"
+C;X3;K21584
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Dark Penetration"
+C;X8;K1
+C;Y587;X1;K585
+C;X2;K"Dark Penetration LV5"
+C;X3;K21585
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Dark Penetration"
+C;X8;K1
+C;Y588;X1;K591
+C;X2;K"Heart Mirror "
+C;X3;K21611
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"When your HP is below 20%, recovers 30,000 HP. Cooldown: 30 min."
+C;X8;K0
+C;Y589;X1;K592
+C;X2;K"Tactical Retreat"
+C;X3;K21612
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"When your HP is below 30%, increases Movement Speed by 50%.\nLasts for 15 sec. Cooldown: 30 min."
+C;X8;K0
+C;Y590;X1;K593
+C;X2;K"Counterattack"
+C;X3;K21613
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"When your HP is below 20%, increases Physical and Magic Attack by 4500.\nLasts for 20 sec. Cooldown: 30 min."
+C;X8;K0
+C;Y591;X1;K594
+C;X2;K"Stay Healthy"
+C;X3;K21614
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"When your HP is below 70%, reduces Physical and Magic Attack by 20%.\nLasts for 20 sec. Cooldown: 30 sec."
+C;X8;K1
+C;Y592;X1;K595
+C;X2;K"Emerald Dragon Heir"
+C;X3;K21615
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Has a 0.1% chance to activate upon being attacked.\nSummons four Emerald Dragon's Heirs, which will scatter.\nKill any one of them to get a buff that increases Max HP by 10%,\nreduces Physical and Magic Attack by 10% and recovers HP by 50,000.\nLasts for 10 min. Cooldown: 1 hr."
+C;X8;K0
+C;Y593;X1;K596
+C;X2;K"White Tiger Heir"
+C;X3;K21616
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Has a 0.1% chance to activate upon being attacked.\nSummons four White Tiger's Heirs, which will scatter.\nKill any one of them to get a buff that increases Physical Attack\nby 10%, reduces Evasion by 20%, and recovers MP by 100,000.\nLasts for 3 min. Cooldown: 1 hr."
+C;X8;K0
+C;Y594;X1;K597
+C;X2;K"Scarlet Phoenix Heir"
+C;X3;K21617
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Has a 0.1% chance to activate upon being attacked.\nSummons four Scarlet Phoenix's Heirs, which will scatter.\nKill any one of them to get a buff that increases Magic Attack\nby 10% and Fire Attack by 100%.\nLasts for 30 sec. Cooldown: 1 hr.\nStuns enemies within 10 meters when the effect expires."
+C;X8;K0
+C;Y595;X1;K598
+C;X2;K"Obsidian Turtle Heir"
+C;X3;K21618
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Has a 0.1% chance to activate upon being attacked.\nSummons four Obsidian Turtle's Heirs, which will scatter.\nKill any one of them to get a buff that increases Physical and Magic Resistance by 70%.\nLasts for 30 sec. Cooldown: 1 hr. Moving will end the status immediately."
+C;X8;K0
+C;Y596;X1;K599
+C;X2;K"Fate Reversal"
+C;X3;K21619
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"When your HP is below 10%, summons a holy angel to heal you and your allies.\nHeals nearby targets by 20,000 HP. Range: 10 meters. Cooldown: 1 hr."
+C;X8;K0
+C;Y597;X1;K600
+C;X2;K"Valiance"
+C;X3;K21622
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"When your HP is below 10%, casts an effect with 12 meters range.\nIncreases your allies' Accuracy by 1000, Physical and Magic Attack by 1000, and Max HP by 3500.\nLasts for 20 sec. Cooldown: 1 hr."
+C;X8;K0
+C;Y598;X1;K601
+C;X2;K"Oppression"
+C;X3;K21623
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"When your HP is below 10%, casts an effect with 12 meters range.\nReduces enemy Evasion by 3000, and Physical and Magic Defense by 1500.\nLasts for 20 sec. Cooldown: 1 hr."
+C;X8;K0
+C;Y599;X1;K602
+C;X2;K"Evilbane Drill"
+C;X3;K21624
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"Has a 1% chance to trigger upon a skill strike.\nIncreases your Elemental Penetration by 100% for 1 min. Cooldown: 10 min."
+C;X8;K0
+C;Y600;X1;K603
+C;X2;K"Rage of the Fire Demon"
+C;X3;K21620
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"When your HP is below 10%, summons a furious fire demon to burn nearby enemies.\nDeals Magic and Fire Damage to targets within 15 meters.\nCooldown: 1 hr."
+C;X8;K0
+C;Y601;X1;K604
+C;X2;K"Roar of the Ice Spirit"
+C;X3;K21621
+C;X4;K1
+C;X5;K0
+C;X6;K0
+C;X7;K"When your HP is below 10%, summons a cruel ice demon to freeze nearby enemies.\nFreezes targets within 15 meters. Cooldown: 1 hr."
+C;X8;K0
+E

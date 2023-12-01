@@ -1,0 +1,4611 @@
+ID;PGnumeric;N;E
+B;Y1329;X24;D0 0 1328 23
+O;G100 0.001000;L;V0
+C;Y1;X1;K"NPC Number"
+C;X2;K"Comment"
+C;X3;K"N/A????"
+C;X4;K"Option 0"
+C;X5;K"Option 1"
+C;X6;K"Option 2"
+C;X7;K"Option 3"
+C;X8;K"Option 4"
+C;X9;K"Option 5"
+C;X10;K"Option 6"
+C;X11;K"Option 7"
+C;X12;K"Option 8"
+C;X13;K"Option 9"
+C;X14;K"Option 10"
+C;X15;K"Option 11"
+C;X16;K"Option 12"
+C;X17;K"Option 13"
+C;X18;K"Option 14"
+C;X19;K"Option 15"
+C;X20;K"Option 16"
+C;X21;K"Option 17"
+C;X22;K"Option 18"
+C;X23;K"Option 19"
+C;X24;K"Option 20"
+C;Y2;X1;K"NpcID"
+C;X3;K"FileName"
+C;X4;K"Option0"
+C;X5;K"Option1"
+C;X6;K"Option2"
+C;X7;K"Option3"
+C;X8;K"Option4"
+C;X9;K"Option5"
+C;X10;K"Option6"
+C;X11;K"Option7"
+C;X12;K"Option8"
+C;X13;K"Option9"
+C;X14;K"Option10"
+C;X15;K"Option11"
+C;X16;K"Option12"
+C;X17;K"Option13"
+C;X18;K"Option14"
+C;X19;K"Option15"
+C;X20;K"Option16"
+C;X21;K"Option17"
+C;X22;K"Option18"
+C;X23;K"Option19"
+C;X24;K"Option20"
+C;Y3;X1;K3001
+C;X3;K"Script\_New\Ectype\Ins45\Enter.s"
+C;X4;K"Enter Instance [Normal]"
+C;X5;K"Enter Instance [Hard]"
+C;X6;K"Enter Instance [Nightmare]"
+C;X7;K"Return"
+C;X8;K"Reset"
+C;Y4;X1;K3002
+C;X3;K"Script\_New\Ectype\Ins60\Enter.s"
+C;X4;K"Enter Instance [Normal]"
+C;X5;K"Enter Instance [Hard]"
+C;X6;K"Enter Instance [Nightmare]"
+C;X7;K"Return"
+C;X8;K"Reset"
+C;Y5;X1;K3003
+C;X3;K"Script\_New\Ectype\Ins75\Enter.s"
+C;X4;K"Enter Instance [Normal]"
+C;X5;K"Enter Instance [Hard]"
+C;X6;K"Enter Instance [Nightmare]"
+C;X7;K"Return"
+C;X8;K"Reset"
+C;Y6;X1;K3004
+C;X3;K"Script\_New\Ectype\Ins90\Enter.s"
+C;X4;K"Enter Instance [Normal]"
+C;X5;K"Enter Instance [Hard]"
+C;X6;K"Enter Instance [Nightmare]"
+C;X7;K"Return"
+C;X8;K"Reset"
+C;Y14;X1;K1919
+C;X3;K"Script\_New\Ectype\Exit.s"
+C;Y15;X1;K1935
+C;X3;K"Script\_New\Ectype\Exit.s"
+C;Y16;X1;K1970
+C;X3;K"Script\_New\Ectype\Exit.s"
+C;Y17;X1;K1966
+C;X3;K"Script\_New\Ectype\Exit.s"
+C;Y18;X1;K1925
+C;X3;K"Script\_New\Ectype\Exit.s"
+C;Y19;X1;K1909
+C;X3;K"Script\_New\Ectype\Exit.s"
+C;X4;K"Return to Atlantis Hall"
+C;Y20;X1;K1902
+C;X3;K"Script\_New\Ectype\Exit.s"
+C;X4;K"Return to Atlantis Hall"
+C;Y21;X1;K2028
+C;X3;K"Script\_New\Ectype\Exit.s"
+C;X4;K"Return to Atlantis Hall"
+C;Y23;X1;K1900
+C;X3;K"SCRIPT\Ectype\Ectype-kuloudao-Npc-1900.s"
+C;X4;K"Can you send me across?"
+C;Y24;X1;K1901
+C;X3;K"Script\_New\Ectype\Ins60\Stage2.s"
+C;X4;K"Can you send me across?"
+C;X5;K"Challenge Marcell"
+C;Y26;X1;K1986
+C;X3;K"Script\_New\Ectype\Ins75\Portal1.s"
+C;X4;K"Through Portal"
+C;Y27;X1;K1987
+C;X3;K"Script\_New\Ectype\Ins75\Portal2.s"
+C;X4;K"Through Portal"
+C;Y28;X1;K1988
+C;X3;K"Script\_New\Ectype\Ins75\Portal3.s"
+C;X4;K"Through Portal"
+C;Y29;X1;K1989
+C;X3;K"Script\_New\Ectype\Ins75\Portal4.s"
+C;X4;K"Through Portal"
+C;Y30;X1;K2006
+C;X3;K"Script\_New\Ectype\Ins75\Stage3.s"
+C;X4;K"Summon Arch Priestess"
+C;Y31;X1;K2007
+C;X3;K"Script\_New\Ectype\Ins75\Stage3.s"
+C;X4;K"Summon Arch Priestess"
+C;Y32;X1;K2008
+C;X3;K"Script\_New\Ectype\Ins75\Stage3.s"
+C;X4;K"Summon Arch Priestess"
+C;Y33;X1;K2009
+C;X3;K"Script\_New\Ectype\Ins75\Stage3.s"
+C;X4;K"Summon Arch Priestess"
+C;Y34;X1;K1982
+C;X3;K"Script\_New\Ectype\Exit.s"
+C;X4;K"Exit Giza Pyramid"
+C;Y35;X1;K1983
+C;X3;K"Script\_New\Ectype\Exit.s"
+C;X4;K"Exit Giza Pyramid"
+C;Y36;X1;K1984
+C;X3;K"Script\_New\Ectype\Exit.s"
+C;X4;K"Exit Giza Pyramid"
+C;Y37;X1;K1985
+C;X3;K"Script\_New\Ectype\Exit.s"
+C;X4;K"Exit Giza Pyramid"
+C;Y38;X1;K1990
+C;X3;K"Script\_New\Ectype\Ins75\Stage4-1.s"
+C;X4;K"Touch statue."
+C;Y39;X1;K1994
+C;X3;K"Script\_New\Ectype\Ins75\Stage4-1.s"
+C;X4;K"Touch statue."
+C;Y40;X1;K1998
+C;X3;K"Script\_New\Ectype\Ins75\Stage4-1.s"
+C;X4;K"Touch statue."
+C;Y41;X1;K2002
+C;X3;K"Script\_New\Ectype\Ins75\Stage4-1.s"
+C;X4;K"Touch statue."
+C;Y42;X1;K1991
+C;X3;K"Script\_New\Ectype\Ins75\Stage4-2.s"
+C;X4;K"Touch statue."
+C;Y43;X1;K1995
+C;X3;K"Script\_New\Ectype\Ins75\Stage4-2.s"
+C;X4;K"Touch statue."
+C;Y44;X1;K1999
+C;X3;K"Script\_New\Ectype\Ins75\Stage4-2.s"
+C;X4;K"Touch statue."
+C;Y45;X1;K2003
+C;X3;K"Script\_New\Ectype\Ins75\Stage4-2.s"
+C;X4;K"Touch statue."
+C;Y46;X1;K1992
+C;X3;K"Script\_New\Ectype\Ins75\Stage4-3.s"
+C;X4;K"Touch statue."
+C;Y47;X1;K1996
+C;X3;K"Script\_New\Ectype\Ins75\Stage4-3.s"
+C;X4;K"Touch statue."
+C;Y48;X1;K2000
+C;X3;K"Script\_New\Ectype\Ins75\Stage4-3.s"
+C;X4;K"Touch statue."
+C;Y49;X1;K2004
+C;X3;K"Script\_New\Ectype\Ins75\Stage4-3.s"
+C;X4;K"Touch statue."
+C;Y50;X1;K1993
+C;X3;K"Script\_New\Ectype\Ins75\Stage4-4.s"
+C;X4;K"Touch statue."
+C;Y51;X1;K1997
+C;X3;K"Script\_New\Ectype\Ins75\Stage4-4.s"
+C;X4;K"Touch statue."
+C;Y52;X1;K2001
+C;X3;K"Script\_New\Ectype\Ins75\Stage4-4.s"
+C;X4;K"Touch statue."
+C;Y53;X1;K2005
+C;X3;K"Script\_New\Ectype\Ins75\Stage4-4.s"
+C;X4;K"Touch statue."
+C;Y55;X1;K1920
+C;X3;K"Script\_New\Ectype\Ins90\Stage1.s"
+C;X4;K"Blow Trumpet of War"
+C;Y56;X1;K1921
+C;X3;K"Script\_New\Ectype\Ins90\Tele1.s"
+C;X4;K"Teleport to the other side"
+C;Y57;X1;K1922
+C;X3;K"Script\_New\Ectype\Ins90\Tele2.s"
+C;X4;K"Teleport to the other side"
+C;Y58;X1;K1923
+C;X3;K"Script\_New\Ectype\Ins90\Tele3.s"
+C;X4;K"Teleport to the other side"
+C;Y59;X1;K1924
+C;X3;K"Script\_New\Ectype\Ins90\Tele4.s"
+C;X4;K"Teleport to the other side"
+C;Y61;X1;K1932
+C;X3;K"Script\_New\Ectype\Ins90\Lilith.s"
+C;X4;K"Bring Feather of the Night Witch to Lilith"
+C;Y72;X1;K999
+C;X3;K"Script\Npc\NPC-134.s"
+C;X4;K"Receive Today's Free Food"
+C;X5;K"Celestial - Exchange for 70 Phys. Attack Potion "
+C;X6;K"Lord - Exchange for 70 Phys. Attack Potion"
+C;X7;K"Of - Exchange for 120 Phys. Attack Potion"
+C;X8;K"BoI - Exchange for 4 Lucky Strike Potion"
+C;X9;K"Celestial Lord Of BoI / Ticket x2 - Exchange for Blood of Deities"
+C;X10;K"Celestial Lord Of BoI / Ticket x2 - Exchange for Power of Deities"
+C;X11;K"Celestial Lord Of BoI / Ticket x2 - Exchange for Will of Deities"
+C;Y73;X1;K265
+C;X3;K"SCRIPT\Npc\NPC-lingqudunpai265.s"
+C;X4;K"Receive Shield"
+C;Y74;X1;K31
+C;X3;K"SCRIPT\Npc\NPC-yiwujiedu31.s"
+C;X4;K"N/A????"
+C;Y75;X1;K240
+C;X3;K"Script\Npc\NPC-jianyuchuansong240.s"
+C;X4;K"Exit Jail"
+C;Y76;X1;K294
+C;X3;K"Script\HuoDong\HD-waerjilidekaoyan-NPC.s"
+C;X4;K"I want to take part in the trials."
+C;X5;K"Become a Conjurer"
+C;X6;K"Become a Magister"
+C;X7;K"Become an Illusionist"
+C;X8;K"Happy Halloween!"
+C;Y77;X1;K189
+C;X3;K"Script\Quest\QUEST-npc189.s"
+C;X4;K"Donate 100"
+C;X5;K"Donate 500"
+C;X6;K"Donate 1000"
+C;Y78;X1;K1701
+C;X3;K"Script\HuoDong\HD-shiliandongku-NPC2.s"
+C;X4;K"Trials end in advance"
+C;Y79;X1;K1702
+C;X3;K"Script\HuoDong\HD-shiliandongku-NPC2.s"
+C;X4;K"Trials end in advance"
+C;Y80;X1;K1703
+C;X3;K"Script\HuoDong\HD-shiliandongku-NPC2.s"
+C;X4;K"Trials end in advance"
+C;Y81;X1;K1704
+C;X3;K"Script\HuoDong\HD-shiliandongku-NPC2.s"
+C;X4;K"Trials end in advance"
+C;Y82;X1;K1705
+C;X3;K"Script\HuoDong\HD-shiliandongku-NPC2.s"
+C;X4;K"Trials end in advance"
+C;Y83;X1;K1706
+C;X3;K"Script\HuoDong\HD-shiliandongku-NPC2.s"
+C;X4;K"Trials end in advance"
+C;Y84;X1;K1707
+C;X3;K"Script\HuoDong\HD-shiliandongku-NPC2.s"
+C;X4;K"Trials end in advance"
+C;Y85;X1;K1708
+C;X3;K"Script\HuoDong\HD-shiliandongku-NPC2.s"
+C;X4;K"Trials end in advance"
+C;Y86;X1;K199
+C;X3;K"Script\HuoDong\HD-NPC-wakuang.s"
+C;X4;K"Receive Collection Tool"
+C;X5;K"Foraging Grounds Teleport"
+C;Y87;X1;K200
+C;X3;K"Script\HuoDong\HD-NPC-wakuangchuanchu1.s"
+C;X4;K"Exit Foraging Grounds"
+C;Y88;X1;K226
+C;X3;K"Script\HuoDong\HD-NPC-wakuangchuanchu2.s"
+C;X4;K"Exit Elite Foraging Grounds"
+C;Y89;X1;K227
+C;X3;K"Script\Npc\NPC-duihuancailiao.s"
+C;X4;K"Exchange 25 Copper Ore"
+C;X5;K"Exchange 25 Crystal"
+C;X6;K"Exchange 25 Linen"
+C;X7;K"Exchange 25 Galaxygrass"
+C;X8;K"Exchange 25 Iron Ore"
+C;X9;K"Exchange 25 Quartz Exchange"
+C;X10;K"Exchange 25 Hemp"
+C;X11;K"Exchange 25 Flameflowers"
+C;X12;K"Exchange 25 Silver Ore"
+C;X13;K"Exchange 25 Aquamarines"
+C;X14;K"Exchange 25 Cotton"
+C;X15;K"Exchange 25 Violet Lotuses"
+C;Y90;X1;K1711
+C;X3;K"Script\HuoDong\HD-guaji-leishengjitan.s"
+C;X4;K"Enter Pilgrim's Temple"
+C;Y91;X1;K1712
+C;X3;K"Script\HuoDong\HD-guaji-shengmingzhishu.s"
+C;X4;K"Enter Tree of Life"
+C;X5;K"Receive Free Heaven Tree Seed"
+C;Y92;X1;K1714
+C;X3;K"Script\HuoDong\HD-guaji-guajichuansong.s"
+C;X4;K"Exit here"
+C;Y93;X1;K1715
+C;X3;K"Script\HuoDong\HD-guaji-guajichuansong-shengmingzhishu.s"
+C;X4;K"Offer Heaven Tree Fruit for 6 Hours EXP Gain"
+C;X5;K"Offer 3 Heaven Tree Seed for 3 Hours EXP Gain"
+C;X6;K"Offer 6 Heaven Tree Seed for 6 Hours EXP Gain"
+C;X7;K"Exit here"
+C;Y94;X1;K1735
+C;X3;K"SCRIPT\HuoDong\HD-leishengdezhufu-NPC.s"
+C;X4;K"Donate 20 Common Rock"
+C;X5;K"Donate 20 Artistic Statue"
+C;X6;K"Donate 20 Raw Jade"
+C;X7;K"Donate 20 Pure Jade"
+C;X8;K"Donate 20 Obsidian Powder"
+C;X9;K"Donate 20 Flawless Obsidian"
+C;X10;K"Donate 20 Carbite"
+C;X11;K"Donate 20 Perfect Carbite Statues"
+C;Y95;X1;K1713
+C;X3;K"SCRIPT\HuoDong\HD-leishengdezhufu-NPC1.s"
+C;X4;K"Receive Thor's rewards"
+C;X5;K"Thunder Mantle(7d)-T.Crystalx1"
+C;X6;K"Thunder Mantle(30d)-T.Crystalx2"
+C;X7;K"Exit Thor's Altar"
+C;Y97;X1;K233
+C;X3;K"Script\HuoDong\HD-liumangxinzhen-NPC1.s"
+C;X4;K"Hexagram Array"
+C;X5;K"Check Party Members' Gem"
+C;Y98;X1;K1716
+C;X3;K"Script\HuoDong\HD-liumangxinzhen-SHUIJING1.s"
+C;X4;K"Use Music Gem"
+C;Y99;X1;K1717
+C;X3;K"Script\HuoDong\HD-liumangxinzhen-SHUIJING2.s"
+C;X4;K"Use Music Gem"
+C;Y100;X1;K1718
+C;X3;K"Script\HuoDong\HD-liumangxinzhen-SHUIJING3.s"
+C;X4;K"Use Music Gem"
+C;Y101;X1;K1719
+C;X3;K"Script\HuoDong\HD-liumangxinzhen-SHUIJING4.s"
+C;X4;K"Use Music Gem"
+C;Y102;X1;K1720
+C;X3;K"Script\HuoDong\HD-liumangxinzhen-SHUIJING5.s"
+C;X4;K"Use Music Gem"
+C;Y103;X1;K1721
+C;X3;K"Script\HuoDong\HD-liumangxinzhen-SHUIJING6.s"
+C;X4;K"Use Music Gem"
+C;Y105;X1;K1724
+C;X3;K"Script\HuoDong\HD-julongzhixue-NPC.s"
+C;X4;K"Exchange Dragonscale (LV1 - LV5)"
+C;X5;K"Exchange Dragonscale (LV6 - LV10)"
+C;X6;K"Exchange Dragonscale (LV11)"
+C;X7;K"Exchange Dragonscale (LV12)"
+C;X8;K"Exchange Dragonscale (LV13)"
+C;X9;K"Exchange Dragonscale (LV14)"
+C;X10;K"Exchange Dragonscale (LV15)"
+C;X11;K"Exchange Dragonscale (LV16)"
+C;X12;K"Exchange Dragonscale (LV17)"
+C;X13;K"Exchange Dragonscale (LV18)"
+C;Y107;X1;K310
+C;X3;K"Script\Npc\NPC-rongyuxipk.s"
+C;X4;K"Clear the Sin"
+C;X5;K"Proof of Penance Exchange"
+C;X6;K"2000 Glory for Medal of Victory"
+C;X7;K"1800 Glory for Medal of Victory"
+C;X8;K"1500 Glory for Medal of Victory"
+C;X9;K"1250 Glory for Medal of Victory"
+C;X10;K"1000 Glory for Medal of Victory"
+C;Y108;X1;K181
+C;X3;K"Script\Ectype\DFW-2\npc-181-Entrance.s"
+C;X4;K"Participate in Pursuit of Rapture (1 - 6 people)"
+C;X5;K"Return to Pursuit of Rapture"
+C;Y109;X1;K1733
+C;X3;K"Script\Ectype\Ectype-yijiwaiwei-NPC-1733.s"
+C;X4;K"Enter the Outer Ruins"
+C;X5;K"Return to the Outer Ruins"
+C;X6;K"Accept Shovels"
+C;X7;K"Return to Atlantis"
+C;Y110;X1;K487
+C;X3;K"Script\Ectype\Ectype-yijiwaiwei-NPC-487.s"
+C;X4;K"Summon Quetzalcoatl's Guard"
+C;X5;K"Summon Quetzalcoatl"
+C;Y111;X1;K1725
+C;X3;K"Script\HuoDong\HD-shiluodeyiji-NPC2.s"
+C;X4;K"Return Ruins"
+C;Y112;X1;K1726
+C;X3;K"Script\HuoDong\HD-shiluodeyiji-NPC2.s"
+C;X4;K"Return Ruins"
+C;Y113;X1;K1727
+C;X3;K"Script\HuoDong\HD-shiluodeyiji-NPC2.s"
+C;X4;K"Return Ruins"
+C;Y114;X1;K1728
+C;X3;K"Script\HuoDong\HD-shiluodeyiji-NPC2.s"
+C;X4;K"Return Ruins"
+C;Y115;X1;K1729
+C;X3;K"Script\HuoDong\HD-shiluodeyiji-NPC2.s"
+C;X4;K"Return Ruins"
+C;Y116;X1;K1730
+C;X3;K"Script\HuoDong\HD-shiluodeyiji-NPC2.s"
+C;X4;K"Return Ruins"
+C;Y117;X1;K1731
+C;X3;K"Script\HuoDong\HD-shiluodeyiji-NPC2.s"
+C;X4;K"Return Ruins"
+C;Y118;X1;K1732
+C;X3;K"Script\HuoDong\HD-shiluodeyiji-NPC2.s"
+C;X4;K"Return Ruins"
+C;Y119;X1;K1535
+C;X3;K"Script\Npc\NPC-jianghuyouyi.s"
+C;X4;K"Heal"
+C;Y120;X1;K1536
+C;X3;K"Script\Npc\NPC-jianghuyouyi-2.s"
+C;X4;K"Heal"
+C;Y121;X1;K198
+C;X3;K"Script\Npc\NPC-jianghuyouyi.s"
+C;X4;K"Heal"
+C;Y122;X1;K1734
+C;X3;K"Script\HuoDong\HD-yijiwajue-NPC.s"
+C;X4;K"Divination - 100 coins"
+C;Y124;X1;K305
+C;X3;K"Script\HuoDong\HD-jinzitamenpiao-NPC.s"
+C;X4;K"Begin Qualification"
+C;X5;K"Teleport to the Secret Room in the Pyramid"
+C;Y125;X1;K306
+C;X3;K"Script\HuoDong\HD-jinzitamenpiao-NPC2.s"
+C;X4;K"File Form PYR-1035"
+C;X5;K"Proof Exchange for Rewards"
+C;X6;K"Enter Queen's Catacomb in the Pyramid."
+C;X7;K"Enter Behemoth's Lair in the Pyramid."
+C;X8;K"Enter Secret Maze in the Pyramid."
+C;X9;K"Enter Hexagram Array in the Pyramid."
+C;Y126;X1;K1770
+C;X3;K"Script\HuoDong\HD-jinzitamenpiao-NPC3.s"
+C;X4;K"Teleport to Atlantis"
+C;Y127;X1;K1756
+C;X3;K"SCRIPT\HuoDong\HD-yunshidekuijia-NPC.s"
+C;X4;K"Armor of the Brave"
+C;Y128;X1;K314
+C;X3;K"SCRIPT\HuoDong\HD-leishengdezhufu-NPCchuansong.s"
+C;X4;K"Enter Thor's Altar"
+C;Y129;X1;K1757
+C;X3;K"SCRIPT\Npc\NPC-duihuanshengwang.s"
+C;X4;K"Submit 1 Knight Medal"
+C;X5;K"Submit 10 Knight Medals"
+C;Y131;X1;K331
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-zhuangbei-zhanshi.s"
+C;X12;K"Exchange for Fallen Angel's Feather"
+C;Y132;X1;K332
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-zhuangbei-qishi.s"
+C;X13;K"Exchange for Fallen Angel's Feather"
+C;Y133;X1;K333
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-zhuangbei-cike.s"
+C;X12;K"Exchange for Fallen Angel's Feather"
+C;Y134;X1;K334
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-zhuangbei-fashi.s"
+C;X12;K"Exchange for Fallen Angel's Feather"
+C;Y135;X1;K335
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-zhuangbei-mushi.s"
+C;X13;K"Exchange for Fallen Angel's Feather"
+C;Y137;X1;K315
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-out.s"
+C;X4;K"Exit Pyramid"
+C;Y138;X1;K319
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-out.s"
+C;X4;K"Exit Pyramid"
+C;Y139;X1;K323
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-out.s"
+C;X4;K"Exit Pyramid"
+C;Y140;X1;K328
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-out.s"
+C;X4;K"Exit Pyramid"
+C;Y141;X1;K327
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-LMtoJS.s"
+C;X4;K"Teleport to Behemoth's Lair"
+C;Y142;X1;K320
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-JStoLM.s"
+C;X4;K"Teleport to Hexagram Array"
+C;Y143;X1;K318
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-WHtoMS.s"
+C;X4;K"Teleport to Maze of Mystery"
+C;Y144;X1;K324
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-MStoWH.s"
+C;X4;K"Teleport to Queen's Catacomb"
+C;Y146;X1;K1061
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-WHtoJS.s"
+C;X4;K"Teleport to Behemoth's Lair"
+C;Y147;X1;K1062
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-JStoWH.s"
+C;X4;K"Teleport to Queen's Catacomb"
+C;Y148;X1;K1063
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-MStoLM.s"
+C;X4;K"Teleport to Hexagram Array"
+C;Y149;X1;K1064
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-LMtoMS.s"
+C;X4;K"Teleport to Maze of Mystery"
+C;Y151;X1;K329
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-LMtoBOSS.s"
+C;X4;K"Donate Key"
+C;X5;K"Enter Boss's Room"
+C;Y152;X1;K321
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-JStoBOSS.s"
+C;X4;K"Donate Key"
+C;X5;K"Enter Boss's Room"
+C;X6;K"[Quest] Key to the Behemoth's Lair"
+C;Y153;X1;K316
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-WHtoBOSS.s"
+C;X4;K"Donate Key"
+C;X5;K"Enter Boss's Room"
+C;Y154;X1;K1753
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-MStoBOSS.s"
+C;X4;K"Donate Key"
+C;X5;K"Enter Boss's Room"
+C;Y155;X1;K1754
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-MStoBOSS.s"
+C;X4;K"Donate Key"
+C;X5;K"Enter Boss's Room"
+C;Y156;X1;K322
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-JStoBIGBOSS.s"
+C;X4;K"To Osiris' Temple"
+C;X5;K"Back to Behemoth's Lair"
+C;Y157;X1;K317
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-WHtoBIGBOSS.s"
+C;X4;K"To Osiris' Temple"
+C;X5;K"Back to Queen's Catacomb"
+C;Y158;X1;K326
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-MStoBIGBOSS.s"
+C;X4;K"To Osiris' Temple"
+C;X5;K"Back to Maze of Mystery"
+C;Y159;X1;K330
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-LMtoBIGBOSS.s"
+C;X4;K"To Osiris' Temple"
+C;X5;K"Back to Hexagram Array"
+C;Y161;X1;K1736
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-MS-1736.s"
+C;X4;K"Teleport"
+C;Y162;X1;K1737
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-MS-1737.s"
+C;X4;K"Teleport"
+C;Y163;X1;K1738
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-MS-1738.s"
+C;X4;K"Teleport"
+C;Y164;X1;K1739
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-MS-1739.s"
+C;X4;K"Teleport"
+C;Y165;X1;K1740
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-MS-1740.s"
+C;X4;K"Teleport"
+C;Y166;X1;K1741
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-MS-1741.s"
+C;X4;K"Teleport"
+C;Y167;X1;K1742
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-MS-1742.s"
+C;X4;K"Teleport"
+C;Y168;X1;K1743
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-MS-1743.s"
+C;X4;K"Teleport"
+C;Y169;X1;K1744
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-MS-1744.s"
+C;X4;K"Teleport"
+C;Y170;X1;K1745
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-MS-1745.s"
+C;X4;K"Teleport"
+C;Y171;X1;K1746
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-MS-1746.s"
+C;X4;K"Teleport"
+C;Y172;X1;K1747
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-MS-1747.s"
+C;X4;K"Teleport"
+C;Y173;X1;K1748
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-MS-1748.s"
+C;X4;K"Teleport"
+C;Y174;X1;K1749
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-MS-1749.s"
+C;X4;K"Teleport"
+C;Y175;X1;K1750
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-MS-1750.s"
+C;X4;K"Teleport"
+C;Y176;X1;K1751
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-MS-1751.s"
+C;X4;K"Teleport"
+C;Y177;X1;K1752
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-MS-1752.s"
+C;X4;K"Teleport"
+C;Y178;X1;K1755
+C;X3;K"SCRIPT\HuoDong\HD-jinzita-NPC-anquanditu.s"
+C;X4;K"Back to Pyramid"
+C;X5;K"Back to Atlantis"
+C;Y180;X1;K191
+C;X3;K"Script\HuoDong\2013Chunjie\191-NPC.s"
+C;X4;K"Blessings be, to you and yours!"
+C;Y182;X1;K16
+C;X3;K"SCRIPT\Npc\NPC-tansuoshengwang16.s"
+C;X4;K"Exchange for 1 Broken Bharata Scroll"
+C;X5;K"Exchange for 10 Broken Bharata Scroll"
+C;X6;K"Exchange for 1 Broken Veda Scroll"
+C;X7;K"Exchange for 10 Broken Veda Scroll"
+C;Y183;X1;K17
+C;X3;K"SCRIPT\Npc\NPC-tansuoshengwang17.s"
+C;X4;K"Exchange for 1 Movement of Anthem"
+C;X5;K"Exchange for 10 Movement of Anthem"
+C;X6;K"Exchange for 1 Silver Goblet"
+C;X7;K"Exchange for 10 Silver Goblet"
+C;Y184;X1;K18
+C;X3;K"SCRIPT\Npc\NPC-tansuoshengwang18.s"
+C;X4;K"Exchange for 1 Gold Apple"
+C;X5;K"Exchange for 10 Gold Apple"
+C;X6;K"Exchange for 1 Medusa's Eye"
+C;X7;K"Exchange for 10 Medusa's Eye"
+C;Y185;X1;K19
+C;X3;K"SCRIPT\Npc\NPC-tansuoshengwang19.s"
+C;X4;K"Exchange for 1 Embossed Sphinx Slate"
+C;X5;K"Exchange for 10 Embossed Sphinx Slate"
+C;X6;K"Exchange for 1 Solar Bird Feather"
+C;X7;K"Exchange for 10 Solar Bird Feather"
+C;Y186;X1;K20
+C;X3;K"SCRIPT\Npc\NPC-tansuoshengwang20.s"
+C;X4;K"Exchange for 1 Sculpture Chisel"
+C;X5;K"Exchange for 10 Sculpture Chisel"
+C;X6;K"Exchange for 1 Eye of the Statue"
+C;X7;K"Exchange for 10 Eye of the Statue"
+C;Y189;X1;K348
+C;X3;K"SCRIPT\Npc\NPC-xinshouchuansong.s"
+C;X4;K"Exit Temple"
+C;X5;K"Back to [Outer Starway] "
+C;X6;K"Exit to Expedition Camp"
+C;Y190;X1;K349
+C;X3;K"SCRIPT\Npc\NPC-xinshouchuansong.s"
+C;X4;K"Exit Temple"
+C;X5;K"Back to [Outer Starway] "
+C;X6;K"Exit to Expedition Camp"
+C;Y191;X1;K350
+C;X3;K"SCRIPT\Npc\NPC-xinshouchuansong.s"
+C;X4;K"Exit Temple"
+C;X5;K"Back to [Outer Starway] "
+C;X6;K"Exit to Expedition Camp"
+C;Y192;X1;K351
+C;X3;K"SCRIPT\Npc\NPC-xinshouchuansong.s"
+C;X4;K"Exit Temple"
+C;X5;K"Back to [Outer Starway] "
+C;X6;K"Exit to Expedition Camp"
+C;Y193;X1;K352
+C;X3;K"SCRIPT\Npc\NPC-xinshouchuansong.s"
+C;X4;K"Exit Temple"
+C;X5;K"Back to [Outer Starway] "
+C;X6;K"Exit to Expedition Camp"
+C;Y194;X1;K353
+C;X3;K"SCRIPT\Npc\NPC-xinshouchuansong.s"
+C;X4;K"Exit Temple"
+C;X5;K"Back to [Outer Starway] "
+C;X6;K"Exit to Expedition Camp"
+C;Y195;X1;K354
+C;X3;K"SCRIPT\Npc\NPC-xinshouchuansong.s"
+C;X4;K"Exit Temple"
+C;X5;K"Back to [Outer Starway] "
+C;X6;K"Exit to Expedition Camp"
+C;Y196;X1;K355
+C;X3;K"SCRIPT\Npc\NPC-xinshouchuansong.s"
+C;X4;K"Exit Temple"
+C;X5;K"Back to [Outer Starway] "
+C;X6;K"Exit to Expedition Camp"
+C;Y197;X1;K356
+C;X3;K"SCRIPT\Npc\NPC-xinshouchuansong.s"
+C;X4;K"Exit Temple"
+C;X5;K"Back to [Outer Starway] "
+C;X6;K"Exit to Expedition Camp"
+C;Y198;X1;K357
+C;X3;K"SCRIPT\Npc\NPC-xinshouchuansong.s"
+C;X4;K"Exit Temple"
+C;X5;K"Back to [Outer Starway] "
+C;X6;K"Exit to Expedition Camp"
+C;Y199;X1;K358
+C;X3;K"SCRIPT\Npc\NPC-xinshouchuansong.s"
+C;X4;K"Exit Temple"
+C;X5;K"Back to [Outer Starway] "
+C;X6;K"Exit to Expedition Camp"
+C;Y200;X1;K359
+C;X3;K"SCRIPT\Npc\NPC-xinshouchuansong.s"
+C;X4;K"Exit Temple"
+C;X5;K"Back to [Outer Starway] "
+C;X6;K"Exit to Expedition Camp"
+C;Y202;X1;K336
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu.s"
+C;X4;K"Tutorial: Basic Controls"
+C;X5;K"Tutorial: New Quests"
+C;X6;K"Tutorial: Combat"
+C;X7;K"Tutorial: Collecting Items"
+C;Y203;X1;K337
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu.s"
+C;X4;K"Tutorial: Basic Controls"
+C;X5;K"Tutorial: New Quests"
+C;X6;K"Tutorial: Combat"
+C;X7;K"Tutorial: Collecting Items"
+C;Y204;X1;K338
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu.s"
+C;X4;K"Tutorial: Basic Controls"
+C;X5;K"Tutorial: New Quests"
+C;X6;K"Tutorial: Combat"
+C;X7;K"Tutorial: Collecting Items"
+C;Y205;X1;K339
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu.s"
+C;X4;K"Tutorial: Basic Controls"
+C;X5;K"Tutorial: New Quests"
+C;X6;K"Tutorial: Combat"
+C;X7;K"Tutorial: Collecting Items"
+C;Y206;X1;K340
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu.s"
+C;X4;K"Tutorial: Basic Controls"
+C;X5;K"Tutorial: New Quests"
+C;X6;K"Tutorial: Combat"
+C;X7;K"Tutorial: Collecting Items"
+C;Y207;X1;K341
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu.s"
+C;X4;K"Tutorial: Basic Controls"
+C;X5;K"Tutorial: New Quests"
+C;X6;K"Tutorial: Combat"
+C;X7;K"Tutorial: Collecting Items"
+C;Y208;X1;K342
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu.s"
+C;X4;K"Tutorial: Basic Controls"
+C;X5;K"Tutorial: New Quests"
+C;X6;K"Tutorial: Combat"
+C;X7;K"Tutorial: Collecting Items"
+C;Y209;X1;K343
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu.s"
+C;X4;K"Tutorial: Basic Controls"
+C;X5;K"Tutorial: New Quests"
+C;X6;K"Tutorial: Combat"
+C;X7;K"Tutorial: Collecting Items"
+C;Y210;X1;K344
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu.s"
+C;X4;K"Tutorial: Basic Controls"
+C;X5;K"Tutorial: New Quests"
+C;X6;K"Tutorial: Combat"
+C;X7;K"Tutorial: Collecting Items"
+C;Y211;X1;K345
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu.s"
+C;X4;K"Tutorial: Basic Controls"
+C;X5;K"Tutorial: New Quests"
+C;X6;K"Tutorial: Combat"
+C;X7;K"Tutorial: Collecting Items"
+C;Y212;X1;K346
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu.s"
+C;X4;K"Tutorial: Basic Controls"
+C;X5;K"Tutorial: New Quests"
+C;X6;K"Tutorial: Combat"
+C;X7;K"Tutorial: Collecting Items"
+C;Y213;X1;K347
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu.s"
+C;X4;K"Tutorial: Basic Controls"
+C;X5;K"Tutorial: New Quests"
+C;X6;K"Tutorial: Combat"
+C;X7;K"Tutorial: Collecting Items"
+C;Y215;X1;K366
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu1.s"
+C;X4;K"Tutorial: Catching Pets"
+C;Y216;X1;K373
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu1.s"
+C;X4;K"Tutorial: Catching Pets"
+C;Y217;X1;K380
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu1.s"
+C;X4;K"Tutorial: Catching Pets"
+C;Y218;X1;K387
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu1.s"
+C;X4;K"Tutorial: Catching Pets"
+C;Y219;X1;K394
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu1.s"
+C;X4;K"Tutorial: Catching Pets"
+C;Y220;X1;K401
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu1.s"
+C;X4;K"Tutorial: Catching Pets"
+C;Y221;X1;K408
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu1.s"
+C;X4;K"Tutorial: Catching Pets"
+C;Y222;X1;K415
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu1.s"
+C;X4;K"Tutorial: Catching Pets"
+C;Y223;X1;K422
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu1.s"
+C;X4;K"Tutorial: Catching Pets"
+C;Y224;X1;K429
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu1.s"
+C;X4;K"Tutorial: Catching Pets"
+C;Y225;X1;K436
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu1.s"
+C;X4;K"Tutorial: Catching Pets"
+C;Y226;X1;K443
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu1.s"
+C;X4;K"Tutorial: Catching Pets"
+C;Y228;X1;K1767
+C;X3;K"SCRIPT\HuoDong\HD-duobaoqibing-NPC.s"
+C;X4;K"Enter in Swift Form - 20000 Coins"
+C;X5;K"Enter in Random Form - 9000 Coins"
+C;X6;K"Re-enter Wonderland"
+C;Y229;X1;K1551
+C;X3;K"SCRIPT\Npc\NPC-sabake.s"
+C;X4;K"Cold Steel (Berzerker)"
+C;X5;K"Frost Flare (Champion)"
+C;X6;K"Black Ice (Slayer)"
+C;X7;K"Frozen Flame (Magus)"
+C;X8;K"Binding Void (Heretic)"
+C;X9;K"Blinding Fire (Summoner)"
+C;Y230;X1;K73
+C;X3;K"SCRIPT\Npc\NPC-huoqi.s"
+C;X4;K"More Demigods"
+C;Y232;X1;K365
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu2.s"
+C;X4;K"Tutorial: Using Mounts"
+C;Y233;X1;K372
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu2.s"
+C;X4;K"Tutorial: Using Mounts"
+C;Y234;X1;K379
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu2.s"
+C;X4;K"Tutorial: Using Mounts"
+C;Y235;X1;K386
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu2.s"
+C;X4;K"Tutorial: Using Mounts"
+C;Y236;X1;K393
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu2.s"
+C;X4;K"Tutorial: Using Mounts"
+C;Y237;X1;K400
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu2.s"
+C;X4;K"Tutorial: Using Mounts"
+C;Y238;X1;K407
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu2.s"
+C;X4;K"Tutorial: Using Mounts"
+C;Y239;X1;K414
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu2.s"
+C;X4;K"Tutorial: Using Mounts"
+C;Y240;X1;K421
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu2.s"
+C;X4;K"Tutorial: Using Mounts"
+C;Y241;X1;K428
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu2.s"
+C;X4;K"Tutorial: Using Mounts"
+C;Y242;X1;K435
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu2.s"
+C;X4;K"Tutorial: Using Mounts"
+C;Y243;X1;K442
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu2.s"
+C;X4;K"Tutorial: Using Mounts"
+C;Y245;X1;K1539
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu3.s"
+C;X4;K"Tutorial: Fortifying Mounts"
+C;Y247;X1;K1530
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu4.s"
+C;X4;K"Tutorial: Fortifying Pets"
+C;X5;K"Tutorial: Pet Skills - Unseal"
+C;X6;K"Tutorial: Pet Skills - Universe Emblems"
+C;Y249;X1;K1531
+C;X3;K"SCRIPT\Npc\NPC-xinshoubangzhu5.s"
+C;X4;K"Tutorial: Pet Skills - Learning"
+C;Y251;X1;K1553
+C;X3;K"SCRIPT\Npc\NPC-huoyuedufagongzi.s"
+C;X4;K"Exchange +11 Combine Scroll for 3 +10 Hammer"
+C;X5;K"Exchange +9 Combine Scroll for 3 +8 Hammer"
+C;Y252;X1;K1554
+C;X3;K"SCRIPT\Npc\NPC-lingqubaoguo.s"
+C;X4;K"Transfer Reward Bag LV30"
+C;X5;K"Transfer Reward Bag LV60"
+C;Y253;X1;K1769
+C;X3;K"SCRIPT\Npc\NPC-duihuanlongzuoji.s"
+C;X4;K"Exchange 300 Soul Essence Fragment"
+C;X5;K"Give 1 Soul Essence Fragment (1/300 Chance)"
+C;Y255;X1;K49
+C;X3;K"SCRIPT\Npc\NPC-chuansong-49.s"
+C;X4;K"Teleport to Exit Tutankhamun's Crypt"
+C;Y256;X1;K263
+C;X3;K"SCRIPT\Npc\NPC-luodite.s"
+C;X4;K"Get Chromatic Seashell"
+C;X5;K"Receive Aegean Map"
+C;X6;K"Receive Aegean Map Info"
+C;Y258;X1;K241
+C;X3;K"SCRIPT\Npc\NPC-AMXT-241.s"
+C;X4;K"Teleport to Tutankhamun's Crypt"
+C;X5;K"Exchange for Red Key"
+C;Y259;X1;K243
+C;X3;K"SCRIPT\Npc\NPC-DMTF-243.s"
+C;X4;K"Exchange for Blue Key"
+C;X5;K"Frighten The Tomb Keeper"
+C;Y260;X1;K242
+C;X3;K"SCRIPT\Npc\NPC-HB-242.s"
+C;X4;K"Exchange for Green Key"
+C;X5;K"To Pharaoh Ramesses's Crypt"
+C;Y261;X1;K245
+C;X3;K"SCRIPT\Npc\NPC-KBSNF-245.s"
+C;X4;K"Exchange for Purple Key"
+C;Y262;X1;K58
+C;X3;K"SCRIPT\Npc\NPC-lengmuxiang-58.s"
+C;X4;K"Open Chest"
+C;Y263;X1;K60
+C;X3;K"SCRIPT\Npc\NPC-sanmuxiang-60.s"
+C;X4;K"Open Chest"
+C;Y264;X1;K301
+C;X3;K"SCRIPT\Npc\NPC-TuTe-301.s"
+C;X4;K"buy Penance Verdict by 1,000G "
+C;X5;K"Enter Karnak Temple's Gallery"
+C;X6;K"Enter Karnak Temple's Adytum"
+C;X7;K"Receive Proof of Courage"
+C;X8;K"Receive Proof of Courage"
+C;X9;K"Enter Karnak Temple's Adytum"
+C;Y265;X1;K59
+C;X3;K"SCRIPT\Npc\NPC-yuanmuxiang-59.s"
+C;X4;K"Open Chest"
+C;Y266;X1;K61
+C;X3;K"SCRIPT\Npc\NPC-zhengmuxiang-61.s"
+C;X4;K"Open Chest"
+C;Y268;X1;K56
+C;X3;K"Script\HuoDong\2013Chunjie\56-NPC.s"
+C;X4;K"Happy New Year! A new year, a new beginning!"
+C;Y269;X1;K1771
+C;X3;K"SCRIPT\Npc\NPC-liuqian1771.s"
+C;X4;K"Magic Transformation"
+C;X5;K"Input Ancient Ruins Elite Card Number"
+C;X6;K"Take Ancient Ruins Elite Card Reward"
+C;X7;K"Receive Knowledge Champion's Pack"
+C;X8;K"Receive Treasure Probe"
+C;X9;K"Charge Treasure Probe"
+C;X10;K"Four Detachment Exchange Title"
+C;X11;K"One Detachment Exchange Badge"
+C;Y271;X1;K1532
+C;X3;K"SCRIPT\Npc\NPC-1532-Jadeluo.s"
+C;X4;K"Join Rainbow Sonata"
+C;X5;K"Dragon Egg Exchange"
+C;Y272;X1;K1782
+C;X3;K"SCRIPT\Npc\NPC-qianmi1782.s"
+C;X4;K"Input Ancient Ruins Elite Card Number"
+C;X5;K"Take Ancient Ruins Elite Card Reward"
+C;Y273;X1;K1783
+C;X3;K"SCRIPT\Npc\NPC-qianmi1782.s"
+C;X4;K"Input Ancient Ruins Elite Card Number"
+C;X5;K"Take Ancient Ruins Elite Card Reward"
+C;Y274;X1;K1784
+C;X3;K"SCRIPT\Npc\NPC-qianmi1782.s"
+C;X4;K"Input Ancient Ruins Elite Card Number"
+C;X5;K"Take Ancient Ruins Elite Card Reward"
+C;Y276;X1;K23
+C;X3;K"SCRIPT\Npc\NPC-23.s"
+C;X4;K"Teleport to Chrono Lair Level 1"
+C;Y277;X1;K63
+C;X3;K"SCRIPT\Npc\NPC-Rshuijing-63.s"
+C;X4;K"Obtain Incantation of Seal(Red)"
+C;X5;K"Remove Seal"
+C;Y278;X1;K64
+C;X3;K"SCRIPT\Npc\NPC-Bshuijing-64.s"
+C;X4;K"Obtain Incantation of Seal(Blue)"
+C;X5;K"Remove Seal"
+C;Y279;X1;K65
+C;X3;K"SCRIPT\Npc\NPC-Yshuijing-65.s"
+C;X4;K"Obtain Incantation of Seal(Golden)"
+C;X5;K"Remove Seal"
+C;Y280;X1;K66
+C;X3;K"SCRIPT\Npc\NPC-Gshuijing-66.s"
+C;X4;K"Obtain Incantation of Seal(Green)"
+C;X5;K"Remove Seal"
+C;Y282;X1;K1557
+C;X3;K"Script\Npc\NPC-natasha-1557.s"
+C;X4;K"Accept the Chronicles quest"
+C;X5;K"Herb of Light: 30 Pts."
+C;X6;K"Herb of Magic: 30 Pts."
+C;X7;K"Fountain of Healing: 100 Pts."
+C;X8;K"Fountain of Mana: 100 Pts."
+C;X9;K"Exchange for Basic Energy Potion -300 Points"
+C;X10;K"Exchange for Medium Energy Potion -400 Points"
+C;X11;K"Exchange for Advanced Energy Potion -600 Points"
+C;X12;K"Embed Charm: 1000 Pts."
+C;X13;K"Soul Insignia Charm: 1000 Pts."
+C;X14;K"Crystal of Double EXP: 2000 Pts."
+C;X15;K"Receive lost item of scenario quest"
+C;X16;K"Receive quest item for Demigod"
+C;Y283;X1;K130
+C;X3;K"Script\Npc\NPC-Atlas-130.s"
+C;X4;K"Exchange for Poseidon Stamp"
+C;X5;K"Receive Poseidon's Blessings"
+C;X6;K"Happy Halloween!"
+C;X7;K"May your family have all the good luck!"
+C;Y284;X1;K1534
+C;X3;K"Script\Npc\NPC-Seerfo-1534.s"
+C;X4;K"[Event]Lv.45 accept[Light of Devotion]"
+C;X5;K"[Event]Lv.45 complete[Light of Devotion]"
+C;X6;K"Exchange 5 Tutorship Rime"
+C;X7;K"Exchange 20 Tutorship Rime"
+C;Y286;X1;K100
+C;X3;K"Script\Npc\AV-NPC-100-Organs01.s"
+C;X4;K"Press this button."
+C;Y287;X1;K101
+C;X3;K"Script\Npc\AV-NPC-101-Organs02.s"
+C;X4;K"Press this button."
+C;Y288;X1;K102
+C;X3;K"Script\Npc\AV-NPC-102-Organs03.s"
+C;X4;K"Press this button."
+C;Y289;X1;K103
+C;X3;K"Script\Npc\AV-NPC-103-Organs04.s"
+C;X4;K"Teleport to inner circle"
+C;Y290;X1;K104
+C;X3;K"Script\Npc\AV-NPC-104-Organs05.s"
+C;X4;K"Scatter [Scorpion Blood] on the Statue"
+C;Y291;X1;K105
+C;X3;K"Script\Npc\AV-NPC-105-Organs06.s"
+C;X4;K"Scatter [Bone Powder] on the Statue"
+C;Y292;X1;K106
+C;X3;K"Script\Npc\AV-NPC-106-Organs07.s"
+C;X4;K"Accept Ancient Power's Aid"
+C;Y293;X1;K107
+C;X3;K"Script\Npc\AV-NPC-107-Organs14.s"
+C;X4;K"Teleport to 3-color button trigger"
+C;Y294;X1;K108
+C;X3;K"Script\Npc\AV-NPC-108-Organs13.s"
+C;X4;K"Accept Ancient Power's Aid"
+C;Y295;X1;K110
+C;X3;K"Script\Npc\AV-NPC-110-Organs11.s"
+C;X4;K"Teleport through magic gate"
+C;Y296;X1;K111
+C;X3;K"Script\Npc\AV-NPC-111-Organs12.s"
+C;X4;K"Teleport through magic gate"
+C;X5;K"Teleport to Cave of Haze Portal"
+C;Y297;X1;K112
+C;X3;K"Script\Npc\AV-NPC-112-Skeleton01.s"
+C;X4;K"Read to acquire the power of killing Vanished Soldier."
+C;X5;K"Embed Skull Medal into bottom groove."
+C;Y298;X1;K113
+C;X3;K"Script\Npc\AV-NPC-113-Devil01.s"
+C;X4;K"Read to acquire the power of killing Alien Beast."
+C;X5;K"Embed Beastial Medal into bottom groove."
+C;Y299;X1;K114
+C;X3;K"Script\Npc\AV-NPC-114-ghost01.s"
+C;X4;K"Read Scroll to acquire the power of killing Fiendish Eye."
+C;X5;K"Embed Ghost Medal into bottom groove."
+C;Y300;X1;K115
+C;X3;K"Script\Npc\AV-NPC-115-Undead01.s"
+C;X4;K"Release Ghost Medal's Power"
+C;Y301;X1;K119
+C;X3;K"Script\Npc\AV-NPC-119-Organs08.s"
+C;X4;K"Activate Spell Pillar"
+C;Y302;X1;K120
+C;X3;K"Script\Npc\AV-NPC-120-Organs09.s"
+C;X4;K"Activate Spell Pillar"
+C;Y303;X1;K121
+C;X3;K"Script\Npc\AV-NPC-121-Organs10.s"
+C;X4;K"Activate Spell Pillar"
+C;Y305;X1;K264
+C;X3;K"Script\Npc\NPC-264.s"
+C;X4;K"Receive Aegean Map"
+C;X5;K"Receive Aegean Map Info"
+C;Y306;X1;K266
+C;X3;K"Script\Npc\NPC-266.s"
+C;X4;K"Receive Aegean Map"
+C;X5;K"Receive Aegean Map Info"
+C;Y307;X1;K268
+C;X3;K"Script\Npc\NPC-268.s"
+C;X4;K"Receive Aegean Map"
+C;X5;K"Receive Aegean Map Info"
+C;Y308;X1;K57
+C;X3;K"Script\Npc\NPC-57.s"
+C;X4;K"Receive Aegean Map"
+C;X5;K"Receive Aegean Map Info"
+C;Y309;X1;K267
+C;X3;K"Script\Npc\NPC-267.s"
+C;X4;K"Receive Aegean Map"
+C;X5;K"Receive Aegean Map Info"
+C;Y310;X1;K202
+C;X3;K"Script\Npc\NPC-202.s"
+C;X4;K"Exchange 10 Raw Jade for a Mermaid Potion"
+C;Y311;X1;K269
+C;X3;K"Script\Npc\NPC-269.s"
+C;X4;K"Receive Aegean Map"
+C;X5;K"Receive Aegean Map Info"
+C;Y313;X1;K133
+C;X3;K"Script\Npc\NPC-133.s"
+C;X4;K"Receive Today's Free Food"
+C;X5;K"Celestial - Exchange for 70 Phys. Attack Potion "
+C;X6;K"Lord - Exchange for 70 Phys. Attack Potion"
+C;X7;K"Of - Exchange for 120 Phys. Attack Potion"
+C;X8;K"BoI - Exchange for 4 Lucky Strike Potion"
+C;X9;K"Celestial Lord Of BoI / Ticket x2 - Exchange for Blood of Deities"
+C;X10;K"Celestial Lord Of BoI / Ticket x2 - Exchange for Power of Deities"
+C;X11;K"Celestial Lord Of BoI / Ticket x2 - Exchange for Will of Deities"
+C;X13;K"Cheers! For all your wishes to come true!"
+C;Y315;X1;K91
+C;X3;K"Script\Npc\NPC-91-falao.s"
+C;X4;K"Teleport"
+C;Y316;X1;K92
+C;X3;K"Script\Npc\NPC-92-falao.s"
+C;X4;K"Open Pharaoh's Coffin"
+C;Y317;X1;K93
+C;X3;K"Script\Npc\NPC-93-falao.s"
+C;X4;K"Open Pharaoh's Coffin"
+C;Y318;X1;K94
+C;X3;K"Script\Npc\NPC-94-falao.s"
+C;X4;K"Open Pharaoh's Coffin"
+C;Y319;X1;K95
+C;X3;K"Script\Npc\NPC-95-falao.s"
+C;X4;K"Open Pharaoh's Coffin"
+C;Y320;X1;K96
+C;X3;K"Script\Npc\NPC-96-baoxiang.s"
+C;X4;K"Open"
+C;Y322;X1;K67
+C;X3;K"Script\Npc\NPC-67.s"
+C;X4;K"Enter [Outer Starway]"
+C;X5;K"Accept Quest [Star Shard]"
+C;Y323;X1;K75
+C;X3;K"Script\Npc\NPC-75.s"
+C;X4;K"Exit [Outer Starway]"
+C;X5;K"Exchange for Wish Charm"
+C;X6;K"Back to [Constellation Temple]"
+C;Y324;X1;K135
+C;X3;K"Script\HuoDong\HD-leishengdezhufu-lingjiangli-NPC135.s"
+C;X4;K"Receive Thor's EXP reward."
+C;X5;K"Summon Mjollnir's Power"
+C;X6;K"Receive Thor's Chest"
+C;X7;K"Receive Relic-Thor Possession"
+C;X8;K"[Thor Emblem] - 36000 coins"
+C;Y326;X1;K1789
+C;X3;K"Script\Npc\HD-Pyramid-NPC-1789.s"
+C;X4;K"Enter Hall of Illusion"
+C;X5;K"Receive racing reward"
+C;X6;K"Search complete."
+C;Y328;X1;K1791
+C;X3;K"Script\Npc\HD-Pyramid-NPC-1791_1795_1799_1804.s"
+C;X4;K"Exit Queen's Catacomb Hallucination"
+C;Y329;X1;K1795
+C;X3;K"Script\Npc\HD-Pyramid-NPC-1791_1795_1799_1804.s"
+C;X4;K"Exit Behemoth's Lair Hallucination"
+C;Y330;X1;K1799
+C;X3;K"Script\Npc\HD-Pyramid-NPC-1791_1795_1799_1804.s"
+C;X4;K"Exit Maze of Mystery Hallucination"
+C;Y331;X1;K1804
+C;X3;K"Script\Npc\HD-Pyramid-NPC-1791_1795_1799_1804.s"
+C;X4;K"Exit Hexagram Array Hallucination"
+C;Y332;X1;K1792
+C;X3;K"Script\Npc\HD-Pyramid-NPC-1792.s"
+C;X4;K"Offer Queen's Key"
+C;X5;K"Teleport"
+C;Y333;X1;K1793
+C;X3;K"Script\Npc\HD-Pyramid-NPC-1793.s"
+C;X4;K"Enter Set's Temple"
+C;Y335;X1;K1796
+C;X3;K"Script\Npc\HD-Pyramid-NPC-1796.s"
+C;X4;K"Offer Behemoth's Key"
+C;X5;K"Teleport"
+C;Y336;X1;K1797
+C;X3;K"Script\Npc\HD-Pyramid-NPC-1797.s"
+C;X4;K"Enter Set's Temple"
+C;Y338;X1;K1800
+C;X3;K"Script\Npc\HD-Pyramid-NPC-1800_1801.s"
+C;X4;K"Offer Labyrinth Key"
+C;X5;K"Teleport"
+C;Y339;X1;K1801
+C;X3;K"Script\Npc\HD-Pyramid-NPC-1800_1801.s"
+C;X4;K"Offer Labyrinth Key"
+C;X5;K"Teleport"
+C;Y340;X1;K1802
+C;X3;K"Script\Npc\HD-Pyramid-NPC-1802.s"
+C;X4;K"Enter Set's Temple"
+C;Y342;X1;K1805
+C;X3;K"Script\Npc\HD-Pyramid-NPC-1805.s"
+C;X4;K"Offer Hexagram Key"
+C;X5;K"Teleport"
+C;Y343;X1;K1806
+C;X3;K"Script\Npc\HD-Pyramid-NPC-1806.s"
+C;X4;K"Enter Set's Temple"
+C;Y344;X1;K1807
+C;X3;K"Script\Npc\HD-Pyramid-NPC-1807.s"
+C;X4;K"Back to Pyramid illusion"
+C;X5;K"Exit Hall of Illusion"
+C;Y345;X1;K1808
+C;X3;K"Script\Npc\HD-Pyramid-NPC-1808.s"
+C;X4;K"Back to Atlantis"
+C;Y346;X1;K1809
+C;X3;K"Script\Npc\HD-Pyramid-NPC-1809_1812.s"
+C;X4;K"Enter Queen's Catacomb Hallucination"
+C;Y347;X1;K1810
+C;X3;K"Script\Npc\HD-Pyramid-NPC-1809_1812.s"
+C;X4;K"Enter Queen's Catacomb Hallucination"
+C;Y348;X1;K1811
+C;X3;K"Script\Npc\HD-Pyramid-NPC-1809_1812.s"
+C;X4;K"Enter Queen's Catacomb Hallucination"
+C;Y349;X1;K1812
+C;X3;K"Script\Npc\HD-Pyramid-NPC-1809_1812.s"
+C;X4;K"Enter Queen's Catacomb Hallucination"
+C;Y350;X1;K1813
+C;X3;K"Script\Npc\HD-Pyramid-NPC-1813_1816.s"
+C;X4;K"Enter Behemoth's Lair Hallucination"
+C;Y351;X1;K1814
+C;X3;K"Script\Npc\HD-Pyramid-NPC-1813_1816.s"
+C;X4;K"Enter Behemoth's Lair Hallucination"
+C;Y352;X1;K1815
+C;X3;K"Script\Npc\HD-Pyramid-NPC-1813_1816.s"
+C;X4;K"Enter Behemoth's Lair Hallucination"
+C;Y353;X1;K1816
+C;X3;K"Script\Npc\HD-Pyramid-NPC-1813_1816.s"
+C;X4;K"Enter Behemoth's Lair Hallucination"
+C;Y354;X1;K1817
+C;X3;K"Script\Npc\HD-Pyramid-NPC-1817_1820.s"
+C;X4;K"Enter Maze of Mystery Hallucination"
+C;Y355;X1;K1818
+C;X3;K"Script\Npc\HD-Pyramid-NPC-1817_1820.s"
+C;X4;K"Enter Maze of Mystery Hallucination"
+C;Y356;X1;K1819
+C;X3;K"Script\Npc\HD-Pyramid-NPC-1817_1820.s"
+C;X4;K"Enter Maze of Mystery Hallucination"
+C;Y357;X1;K1820
+C;X3;K"Script\Npc\HD-Pyramid-NPC-1817_1820.s"
+C;X4;K"Enter Maze of Mystery Hallucination"
+C;Y358;X1;K1821
+C;X3;K"Script\Npc\HD-Pyramid-NPC-1821_1824.s"
+C;X4;K"Enter Hexagram Array Hallucination"
+C;Y359;X1;K1822
+C;X3;K"Script\Npc\HD-Pyramid-NPC-1821_1824.s"
+C;X4;K"Enter Hexagram Array Hallucination"
+C;Y360;X1;K1823
+C;X3;K"Script\Npc\HD-Pyramid-NPC-1821_1824.s"
+C;X4;K"Enter Hexagram Array Hallucination"
+C;Y361;X1;K1824
+C;X3;K"Script\Npc\HD-Pyramid-NPC-1821_1824.s"
+C;X4;K"Enter Hexagram Array Hallucination"
+C;Y362;X1;K1825
+C;X3;K"Script\Npc\HD-Pyramid-NPC-MS-1825.s"
+C;X4;K"Teleport"
+C;Y363;X1;K1826
+C;X3;K"Script\Npc\HD-Pyramid-NPC-MS-1826.s"
+C;X4;K"Teleport"
+C;Y364;X1;K1827
+C;X3;K"Script\Npc\HD-Pyramid-NPC-MS-1827.s"
+C;X4;K"Teleport"
+C;Y365;X1;K1828
+C;X3;K"Script\Npc\HD-Pyramid-NPC-MS-1828.s"
+C;X4;K"Teleport"
+C;Y366;X1;K1829
+C;X3;K"Script\Npc\HD-Pyramid-NPC-MS-1829.s"
+C;X4;K"Teleport"
+C;Y367;X1;K1830
+C;X3;K"Script\Npc\HD-Pyramid-NPC-MS-1830.s"
+C;X4;K"Teleport"
+C;Y368;X1;K1831
+C;X3;K"Script\Npc\HD-Pyramid-NPC-MS-1831.s"
+C;X4;K"Teleport"
+C;Y369;X1;K1832
+C;X3;K"Script\Npc\HD-Pyramid-NPC-MS-1832.s"
+C;X4;K"Teleport"
+C;Y370;X1;K1833
+C;X3;K"Script\Npc\HD-Pyramid-NPC-MS-1833.s"
+C;X4;K"Teleport"
+C;Y371;X1;K1834
+C;X3;K"Script\Npc\HD-Pyramid-NPC-MS-1834.s"
+C;X4;K"Teleport"
+C;Y372;X1;K1835
+C;X3;K"Script\Npc\HD-Pyramid-NPC-MS-1835.s"
+C;X4;K"Teleport"
+C;Y373;X1;K1836
+C;X3;K"Script\Npc\HD-Pyramid-NPC-MS-1836.s"
+C;X4;K"Teleport"
+C;Y374;X1;K1837
+C;X3;K"Script\Npc\HD-Pyramid-NPC-MS-1837.s"
+C;X4;K"Teleport"
+C;Y375;X1;K1838
+C;X3;K"Script\Npc\HD-Pyramid-NPC-MS-1838.s"
+C;X4;K"Teleport"
+C;Y376;X1;K1839
+C;X3;K"Script\Npc\HD-Pyramid-NPC-MS-1839.s"
+C;X4;K"Teleport"
+C;Y377;X1;K1840
+C;X3;K"Script\Npc\HD-Pyramid-NPC-MS-1840.s"
+C;X4;K"Teleport"
+C;Y378;X1;K1841
+C;X3;K"Script\Npc\HD-Pyramid-NPC-MS-1841.s"
+C;X4;K"Teleport"
+C;Y379;X1;K1565
+C;X3;K"Script\Npc\NPC-duihuanchongwu1565.s"
+C;X4;K"100 Colorful Meteors for Sacred Chroma Stone"
+C;X5;K"Exchange for Ancient Pet: Furios"
+C;X6;K"Exchange for Ancient Pet: Latamantis"
+C;X7;K"Exchange for Ancient Pet: Skygrand "
+C;X8;K"Exchange for Ancient Pet: Sphinx"
+C;X9;K"Exchange for Ancient Pet: Athena"
+C;X10;K"Exchange Flame Kirin (STR)"
+C;X11;K"Exchange Flame Kirin (INT)"
+C;Y381;X1;K51
+C;X3;K"Script\Npc\NPC-duowafu-51.s"
+C;X4;K"Alchemy Solution Exchange"
+C;Y382;X1;K143
+C;X3;K"Script\Npc\NPC-143.s"
+C;X4;K"Memory Stone's Enlightenment"
+C;X5;K"Memory Stone's Enlightenment"
+C;X6;K"Teleport to trapped lightless abyss"
+C;X7;K"Teleport to trapped lightless abyss"
+C;Y383;X1;K216
+C;X3;K"Script\Npc\NPC-216.s"
+C;X4;K"Matlock's Heart Exchange"
+C;X5;K"Matlock's Heart Exchange"
+C;Y384;X1;K98
+C;X3;K"Script\Npc\AV-NPC-98.s"
+C;X4;K"Check magic materials contribution schedule"
+C;X5;K"Donate Shield of Ghosts*30"
+C;X6;K"Donate Eye of Terror*30"
+C;X7;K"Donate Mermaid Scale*30"
+C;X8;K"Donate Lizard Horn*60"
+C;X9;K"Donate Snake Hair*60"
+C;X10;K"Donate Pharaoh's Blood*60"
+C;X11;K"Donate Guardian's Edge*60"
+C;X12;K"Donate Lizard's Tail*60"
+C;X13;K"Donate Vine of Protection*60"
+C;X14;K"Donate Karth's Rage*60"
+C;X15;K"Donate Shining Sand*60"
+C;X16;K"Donate Tomb Raiding Shovel*60"
+C;X17;K"Donate Shining Sand*60"
+C;X18;K"Donate Tomb Raiding Shovel*60"
+C;X19;K"Donate Chained Ice Heart*60"
+C;Y386;X1;K1842
+C;X3;K"Script\Npc\AV-NPC-1842-send.s"
+C;X4;K"Portal"
+C;Y387;X1;K1843
+C;X3;K"Script\Npc\AV-NPC-1843-stone1.s"
+C;X4;K"Chrono Teleport"
+C;Y388;X1;K1844
+C;X3;K"Script\Npc\AV-NPC-1844-door.s"
+C;X4;K"Portal"
+C;Y389;X1;K1845
+C;X3;K"Script\Npc\AV-NPC-1845-door.s"
+C;X4;K"Portal"
+C;Y390;X1;K1846
+C;X3;K"Script\Npc\AV-NPC-1846-door.s"
+C;X4;K"Portal"
+C;Y391;X1;K1847
+C;X3;K"Script\Npc\AV-NPC-1847-send.s"
+C;X4;K"Portal"
+C;Y392;X1;K1848
+C;X3;K"Script\Npc\AV-NPC-1848-Lever.s"
+C;X4;K"Pull Wrench"
+C;Y393;X1;K1849
+C;X3;K"Script\Npc\AV-NPC-1849-Lever.s"
+C;X4;K"Pull Wrench"
+C;Y394;X1;K1850
+C;X3;K"Script\Npc\AV-NPC-1850-Lever.s"
+C;X4;K"Pull Wrench"
+C;Y395;X1;K1851
+C;X3;K"Script\Npc\AV-NPC-1851-Lever.s"
+C;X4;K"Pull Wrench"
+C;Y396;X1;K1852
+C;X3;K"Script\Npc\AV-NPC-1852-send.s"
+C;X4;K"Portal"
+C;Y397;X1;K1853
+C;X3;K"Script\Npc\AV-NPC-1853-send.s"
+C;X4;K"Portal"
+C;Y398;X1;K1854
+C;X3;K"Script\Npc\AV-NPC-1854-send.s"
+C;X4;K"Portal"
+C;Y399;X1;K1855
+C;X3;K"Script\Npc\AV-NPC-1855-send.s"
+C;X4;K"Portal"
+C;Y400;X1;K1856
+C;X3;K"Script\Npc\AV-NPC-1856-send.s"
+C;X4;K"Portal"
+C;Y401;X1;K1857
+C;X3;K"Script\Npc\AV-NPC-1857-send.s"
+C;X4;K"Portal"
+C;Y402;X1;K1858
+C;X3;K"Script\Npc\AV-NPC-1858-deliver.s"
+C;X4;K"Chrono Teleport"
+C;X5;K"To"XII"Room"
+C;Y403;X1;K1859
+C;X3;K"Script\Npc\AV-NPC-1859-send.s"
+C;X4;K"Portal"
+C;Y404;X1;K1860
+C;X3;K"Script\Npc\AV-NPC-1860-deliver.s"
+C;X4;K"Chrono Teleport"
+C;X5;K"To"V"Room"
+C;X6;K"To"XIII"Room"
+C;Y405;X1;K1861
+C;X3;K"Script\Npc\AV-NPC-1861-send.s"
+C;X4;K"Portal"
+C;Y406;X1;K1862
+C;X3;K"Script\Npc\AV-NPC-1862-send.s"
+C;X4;K"Portal"
+C;Y407;X1;K1863
+C;X3;K"Script\Npc\AV-NPC-1863-send.s"
+C;X4;K"Portal"
+C;Y408;X1;K1864
+C;X3;K"Script\Npc\AV-NPC-1864-send.s"
+C;X4;K"Portal"
+C;Y409;X1;K1865
+C;X3;K"Script\Npc\AV-NPC-1865-send.s"
+C;X4;K"Portal"
+C;Y410;X1;K1866
+C;X3;K"Script\Npc\AV-NPC-1866-send.s"
+C;X4;K"Portal"
+C;Y411;X1;K1867
+C;X3;K"Script\Npc\AV-NPC-1867-Music.s"
+C;X4;K"Read the Notepaper on the desk."
+C;Y412;X1;K1868
+C;X3;K"Script\Npc\AV-NPC-1868-send.s"
+C;X4;K"Portal"
+C;Y413;X1;K1869
+C;X3;K"Script\Npc\AV-NPC-1869-send.s"
+C;X4;K"Portal"
+C;Y414;X1;K1871
+C;X3;K"Script\Npc\AV-NPC-1871-send.s"
+C;X4;K"Portal"
+C;Y415;X1;K1872
+C;X3;K"Script\Npc\AV-NPC-1872-Stone.s"
+C;X4;K"Chrono Teleport"
+C;Y416;X1;K1873
+C;X3;K"Script\Npc\AV-NPC-1873-bibi.s"
+C;X4;K"Pay 5000 Coins for the Key Finder"
+C;Y417;X1;K1874
+C;X3;K"Script\Npc\AV-NPC-1874-baoxiang.s"
+C;X4;K"Open Varraroca's Chest"
+C;Y418;X1;K1870
+C;X3;K"Script\Npc\AV-NPC-1870-send.s"
+C;X4;K"Portal"
+C;Y419;X1;K136
+C;X3;K"Script\Npc\NPC-gonghui136.s"
+C;X4;K"Common Guild Fund Quest"
+C;X5;K"Common Guild Construction Quest"
+C;X6;K"Receive Guild Gift"
+C;X7;K"Advanced Guild Fund Quest"
+C;X8;K"Advanced Guild Construction Quest"
+C;X9;K"Ultimate Guild Fund Quest"
+C;X10;K"Ultimate Guild Construction Quest"
+C;Y420;X1;K184
+C;X3;K"Script\Npc\NPC-gonghui184.s"
+C;X4;K"Take Common Guild Escort Quest"
+C;Y421;X1;K851
+C;X3;K"Script\Npc\NPC-gonghui851.s"
+C;X4;K"Take Advanced Guild Escort Quest"
+C;X5;K"Take Ultimate Guild Escort Quest"
+C;Y423;X1;K300
+C;X3;K"Script\Npc\NPC-300.s"
+C;X4;K"(Hand Caroll's Letter to Memphis)"
+C;Y425;X1;K189
+C;X3;K"Script\Npc\NPC-guild-189.s"
+C;X4;K"Accept [Nike's Trials]"
+C;Y426;X1;K179
+C;X3;K"Script\Npc\NPC-guild-179.s"
+C;X4;K"Accept [Ares' Trials]"
+C;Y427;X1;K187
+C;X3;K"Script\Npc\NPC-guild-187.s"
+C;X4;K"Accept [Guardian's Trials]"
+C;Y428;X1;K137
+C;X3;K"Script\Npc\NPC-guild-137.s"
+C;X4;K"Donate [Raw Jade] "
+C;X5;K"Donate [Pure Jade] "
+C;X6;K"Donate [Obsidian Powder] "
+C;X7;K"Donate [Flawless Obsidian] "
+C;X8;K"Donate 7000 coins"
+C;X9;K"Donate 12000 coins"
+C;X10;K"Donate 17000 coins"
+C;X11;K"Donate 22000 coins"
+C;Y429;X1;K116
+C;X3;K"Script\Npc\AV-NPC-116-indoor.s"
+C;X4;K"Enter Darkflame Temple"
+C;X5;K"Back to Darkflame Temple"
+C;Y430;X1;K1875
+C;X3;K"Script\Npc\AV-NPC-1875-outdoor.s"
+C;X4;K"Exit Darkflame Temple"
+C;Y432;X1;K1882
+C;X3;K"Script\Npc\NPC-1882.s"
+C;X4;K"Adventure Coin Trade"
+C;X5;K"Check [Astral Force]"
+C;Y433;X1;K138
+C;X3;K"Script\Npc\NPC-183.s"
+C;X4;K"Exchange for [Double EXP Stone]"
+C;Y434;X1;K97
+C;X3;K"Script\Npc\AV-NPC-97.s"
+C;X4;K"To Cave of Haze (400 coins)"
+C;X5;K"Receive Darkflame Emblem"
+C;X6;K"Receive Darkness Emblem"
+C;X7;K"Receive Reaper Emblem (Unavailable)"
+C;X8;K"Accept quest [Adventurer's Trials]"
+C;X9;K"Pursue Horus' Short Flute"
+C;X10;K"Teleport to Square Ruins"
+C;Y435;X1;K1885
+C;X3;K"Script\Npc\SY-NPC-1885.s"
+C;X4;K"What does Osiris say?"
+C;Y436;X1;K99
+C;X3;K"Script\Npc\AV-NPC-99.s"
+C;X4;K"World Tree Branch Exchange for 5/25 Reputation"
+C;X5;K"Nether Classics Exchange for 10/30 Reputation"
+C;X6;K"Conqueror's Gold Helm Exchange for 10/40 Reputation"
+C;X7;K"Memphis Staff Exchange for 50 Reputation"
+C;X8;K"Horus' Piccolo Exchange for 5/35 Reputation"
+C;X9;K"Anubis' Judgment Exchange for 10/45 Reputation"
+C;X10;K"Death's Scythe Exchange for 10/45 Reputation"
+C;X11;K"Legendary Nocturnal Pearl Exchange for 20/45 Reputation"
+C;X12;K"Mermaid's Tears Exchange for 30/50 Reputation"
+C;X13;K"Orpheus' Lute Exchange for 50/80 Reputation"
+C;X14;K"Check Summon of Goddess of Fate Score"
+C;X15;K"For auld lang syne, my dear, for auld lang syne!..."
+C;Y438;X1;K122
+C;X3;K"Script\Npc\NPC-122.s"
+C;X4;K"Check Fresco"
+C;Y439;X1;K123
+C;X3;K"Script\Npc\NPC-123.s"
+C;X4;K"Check Fresco"
+C;Y440;X1;K124
+C;X3;K"Script\Npc\NPC-124.s"
+C;X4;K"Check Fresco"
+C;Y441;X1;K125
+C;X3;K"Script\Npc\NPC-125.s"
+C;X4;K"Switch"
+C;Y442;X1;K126
+C;X3;K"Script\Npc\NPC-126.s"
+C;X4;K"Switch"
+C;Y443;X1;K127
+C;X3;K"Script\Npc\NPC-127.s"
+C;X4;K"Switch"
+C;Y444;X1;K276
+C;X3;K"Script\Npc\NPC-276.s"
+C;X4;K"Receive Angkor Costume"
+C;Y445;X1;K307
+C;X3;K"Script\Npc\NPC-307.s"
+C;X4;K"To Angkor Temple Level 3"
+C;Y446;X1;K1898
+C;X3;K"Script\Npc\NPC-1898.s"
+C;X4;K"Queen's Emblem + 50 Armorplates = Scorpion Lord's Emblem"
+C;X5;K"Queen's Emblem + 50 Armorplates = Princess' Emblem"
+C;X6;K"Queen's Emblem + 50 Armorplates = Shaman's Emblem"
+C;X7;K"Scorpion Lord's Emblem + 50 Armorplates = Queen's Emblem"
+C;X8;K"Scorpion Lord's Emblem + 50 Armorplates = Princess' Emblem"
+C;X9;K"Scorpion Lord's Emblem + 50 Armorplates = Shaman's Emblem"
+C;X10;K"Princess' Emblem + 50 Armorplates = Queen's Emblem"
+C;X11;K"Princess' Emblem + 50 Armorplates = Scorpion Lord's Emblem"
+C;X12;K"Princess' Emblem + 50 Armorplates = Shaman's Emblem"
+C;X13;K"Shaman's Emblem + 50 Armorplates = Queen's Emblem"
+C;X14;K"Shaman's Emblem + 50 Armorplates = Scorpion Lord's Emblem"
+C;X15;K"Shaman's Emblem + 50 Armorplates = Princess' Emblem"
+C;X16;K"Queen + Princess + Arch Priest + Scorpion Lord = Confessing Soul"
+C;X17;K"Confessing Soul = Queen's Emblem"
+C;X18;K"Confessing Soul = Scorpion Lord's Emblem"
+C;X19;K"Confessing Soul = Princess' Emblem"
+C;X20;K"Confessing Soul = Shaman's Emblem"
+C;Y447;X1;K117
+C;X3;K"Script\Npc\AV-NPC-117-indoor.s"
+C;X4;K"Enter Opaque Temple"
+C;X5;K"Return to Opaque Temple"
+C;Y448;X1;K145
+C;X3;K"Script\Npc\AV-NPC-145-send.s"
+C;X4;K"Teleport"
+C;Y449;X1;K146
+C;X3;K"Script\Npc\AV-NPC-146-send.s"
+C;X4;K"Teleport"
+C;Y450;X1;K147
+C;X3;K"Script\Npc\AV-NPC-147-send.s"
+C;X4;K"Teleport"
+C;Y451;X1;K148
+C;X3;K"Script\Npc\AV-NPC-148-send.s"
+C;X4;K"Teleport"
+C;Y452;X1;K149
+C;X3;K"Script\Npc\AV-NPC-149-send.s"
+C;X4;K"Teleport"
+C;Y453;X1;K150
+C;X3;K"Script\Npc\AV-NPC-150-BUFF.s"
+C;X4;K"Receive Demigod's Blessing"
+C;Y454;X1;K151
+C;X3;K"Script\Npc\AV-NPC-151-send.s"
+C;X4;K"Teleport"
+C;Y455;X1;K152
+C;X3;K"Script\Npc\AV-NPC-152-send.s"
+C;X4;K"Use Ice Essence to activate Statue"
+C;Y456;X1;K153
+C;X3;K"Script\Npc\AV-NPC-153-send.s"
+C;X4;K"Use Darkness Essence to activate Statue"
+C;Y457;X1;K154
+C;X3;K"Script\Npc\AV-NPC-154-send.s"
+C;X4;K"Teleport"
+C;Y458;X1;K155
+C;X3;K"Script\Npc\AV-NPC-155-shixiang.s"
+C;X4;K"Remove Stone of Curse"
+C;Y459;X1;K156
+C;X3;K"Script\Npc\AV-NPC-156-send.s"
+C;X4;K"Teleport"
+C;Y460;X1;K157
+C;X3;K"Script\Npc\AV-NPC-157-send.s"
+C;X4;K"Teleport"
+C;Y461;X1;K158
+C;X3;K"Script\Npc\AV-NPC-158-Lever.s"
+C;X4;K"Pull Lever"
+C;Y462;X1;K159
+C;X3;K"Script\Npc\AV-NPC-159-Lever.s"
+C;X4;K"Pull Lever"
+C;Y463;X1;K160
+C;X3;K"Script\Npc\AV-NPC-160-Lever.s"
+C;X4;K"Pull Lever"
+C;Y464;X1;K161
+C;X3;K"Script\Npc\AV-NPC-161-stone.s"
+C;X4;K"Offer 5 Lizard Blood"
+C;Y465;X1;K162
+C;X3;K"Script\Npc\AV-NPC-162-stone.s"
+C;X4;K"Offer 5 Lizard Blood"
+C;Y466;X1;K163
+C;X3;K"Script\Npc\AV-NPC-163-stone.s"
+C;X4;K"Offer 5 Lizard Blood"
+C;Y467;X1;K164
+C;X3;K"Script\Npc\AV-NPC-164-send.s"
+C;X4;K"Teleport"
+C;Y468;X1;K165
+C;X3;K"Script\Npc\AV-NPC-165-send.s"
+C;X4;K"Teleport"
+C;Y469;X1;K166
+C;X3;K"Script\Npc\AV-NPC-166-send.s"
+C;X4;K"Remove Heart of Shadow"
+C;Y470;X1;K167
+C;X3;K"Script\Npc\AV-NPC-167-send.s"
+C;X4;K"Teleport"
+C;Y471;X1;K168
+C;X3;K"Script\Npc\AV-NPC-168-send.s"
+C;X4;K"Teleport"
+C;Y472;X1;K169
+C;X3;K"Script\Npc\AV-NPC-169-send.s"
+C;X4;K"Teleport"
+C;Y473;X1;K170
+C;X3;K"Script\Npc\AV-NPC-170-book.s"
+C;X4;K"Read Code of Darkness"
+C;Y474;X1;K171
+C;X3;K"Script\Npc\AV-NPC-171-send.s"
+C;X4;K"Teleport"
+C;Y475;X1;K172
+C;X3;K"Script\Npc\AV-NPC-172-send.s"
+C;X4;K"Teleport"
+C;Y476;X1;K173
+C;X3;K"Script\Npc\AV-NPC-173-sleep.s"
+C;X4;K"Contribute Opaque Guardian Insignia"
+C;Y477;X1;K174
+C;X3;K"Script\Npc\AV-NPC-174-send.s"
+C;X4;K"Teleport"
+C;Y478;X1;K175
+C;X3;K"Script\Npc\AV-NPC-175-lever.s"
+C;X4;K"Open Statue"
+C;Y479;X1;K177
+C;X3;K"Script\Npc\AV-NPC-177-send.s"
+C;X4;K"Teleport"
+C;Y480;X1;K178
+C;X3;K"Script\Npc\AV-NPC-178-send.s"
+C;X4;K"Teleport"
+C;Y481;X1;K1878
+C;X3;K"Script\Npc\AV-NPC-1878-outdoor.s"
+C;X4;K"Exit Opaque Temple"
+C;Y482;X1;K1879
+C;X3;K"Script\Npc\AV-NPC-1879-send.s"
+C;X4;K"Teleport"
+C;Y483;X1;K1880
+C;X3;K"Script\Npc\AV-NPC-1880-send.s"
+C;X4;K"Teleport"
+C;Y484;X1;K1881
+C;X3;K"Script\Npc\AV-NPC-1881-send.s"
+C;X4;K"Teleport"
+C;Y485;X1;K1883
+C;X3;K"Script\Npc\AV-NPC-1883-lever.s"
+C;X4;K"Pull Wrench"
+C;Y486;X1;K190
+C;X3;K"Script\Npc\AV-NPC-190-button.s"
+C;X4;K"Press the button"
+C;Y487;X1;K193
+C;X3;K"Script\Npc\AV-NPC-193-button.s"
+C;X4;K"Press the button"
+C;Y488;X1;K194
+C;X3;K"Script\Npc\AV-NPC-194-button.s"
+C;X4;K"Press the button"
+C;Y490;X1;K308
+C;X3;K"Script\Npc\NPC-308.s"
+C;X4;K"Teleport to Angkor Temple Level 1"
+C;Y498;X1;K366
+C;X3;K"Script\Npc\NPC-conexp-366.s"
+C;X4;K"Exchange for [Shiny Wish Charm] "
+C;X5;K"Back to [Outer Starway] "
+C;Y499;X1;K373
+C;X3;K"Script\Npc\NPC-conexp-373.s"
+C;X4;K"Exchange for [Shiny Wish Charm] "
+C;X5;K"Back to [Outer Starway] "
+C;Y500;X1;K380
+C;X3;K"Script\Npc\NPC-conexp-380.s"
+C;X4;K"Exchange for [Shiny Wish Charm] "
+C;X5;K"Back to [Outer Starway] "
+C;Y501;X1;K387
+C;X3;K"Script\Npc\NPC-conexp-387.s"
+C;X4;K"Exchange for [Shiny Wish Charm] "
+C;X5;K"Back to [Outer Starway] "
+C;Y502;X1;K394
+C;X3;K"Script\Npc\NPC-conexp-394.s"
+C;X4;K"Exchange for [Shiny Wish Charm] "
+C;X5;K"Back to [Outer Starway] "
+C;Y503;X1;K401
+C;X3;K"Script\Npc\NPC-conexp-401.s"
+C;X4;K"Exchange for [Shiny Wish Charm] "
+C;X5;K"Back to [Outer Starway] "
+C;Y504;X1;K408
+C;X3;K"Script\Npc\NPC-conexp-408.s"
+C;X4;K"Exchange for [Shiny Wish Charm] "
+C;X5;K"Back to [Outer Starway] "
+C;Y505;X1;K415
+C;X3;K"Script\Npc\NPC-conexp-415.s"
+C;X4;K"Exchange for [Shiny Wish Charm] "
+C;X5;K"Back to [Outer Starway] "
+C;Y506;X1;K422
+C;X3;K"Script\Npc\NPC-conexp-422.s"
+C;X4;K"Exchange for [Shiny Wish Charm] "
+C;X5;K"Back to [Outer Starway] "
+C;Y507;X1;K429
+C;X3;K"Script\Npc\NPC-conexp-429.s"
+C;X4;K"Exchange for [Shiny Wish Charm] "
+C;X5;K"Back to [Outer Starway] "
+C;Y508;X1;K436
+C;X3;K"Script\Npc\NPC-conexp-436.s"
+C;X4;K"Exchange for [Shiny Wish Charm] "
+C;X5;K"Back to [Outer Starway] "
+C;Y509;X1;K443
+C;X3;K"Script\Npc\NPC-conexp-443.s"
+C;X4;K"Exchange for [Shiny Wish Charm] "
+C;X5;K"Back to [Outer Starway] "
+C;Y511;X1;K83
+C;X3;K"Script\Npc\XLY-NPC-83.s"
+C;X4;K"Exchange 100 [Summer Camp Token] for [Kart]"
+C;X5;K"[Summer Camp Token] exchange for [Summer Camp Mega Pack]"
+C;X6;K"Exchange 5 Colorful Luck Card (White) for 30-minute Double EXP"
+C;X7;K"Exchange 8 Colorful Luck Card (White) for 60-minute Double EXP"
+C;X8;K"Exchange 5 Colorful Luck Card (White) for 30-minute Double EXP"
+C;X9;K"Exchange 8 Colorful Luck Card (Yellow) for 60-minute Double EXP"
+C;X10;K"Exchange 5 Colorful Luck Card (Yellow) for 30-minute Double EXP"
+C;X11;K"Exchange 8 Colorful Luck Card (Green) for 60-minute Double EXP"
+C;X12;K"Exchange 5 Colorful Luck Card (Green) for 30-minute Double EXP"
+C;X13;K"Exchange 8 Colorful Luck Card (Blue) for 60-minute Double EXP"
+C;X14;K"Exchange 5 Colorful Luck Card (Blue) for 30-minute Double EXP"
+C;X15;K"Exchange 8 Colorful Luck Card (Purple) for 60-minute Double EXP"
+C;X16;K"Exchange 5 Colorful Luck Card (Purple) for 30-minute Double EXP"
+C;X17;K"Exchange 8 Colorful Luck Card (Red) for 60-minute Double EXP"
+C;X18;K"Exchange 5 Colorful Luck Card (Red) for 30-minute Double EXP"
+C;X19;K"Exchange 8 Colorful Luck Card (Pink) for 60-minute Double EXP"
+C;Y512;X1;K1877
+C;X3;K"Script\Npc\AV-NPC-1877.s"
+C;X4;K"Unidentified Memphis Staff Exchange"
+C;Y514;X1;K1886
+C;X3;K"Script\Npc\NPC-constellation-1886.s"
+C;X4;K"Get [Aries] Lucky Constellation Reward"
+C;X5;K"Exchange for [Aries] Guardian"
+C;Y515;X1;K1887
+C;X3;K"Script\Npc\NPC-constellation-1887.s"
+C;X4;K"Get [Taurus] Lucky Constellation Reward"
+C;X5;K"Exchange for [Taurus] Guardian"
+C;Y516;X1;K1888
+C;X3;K"Script\Npc\NPC-constellation-1888.s"
+C;X4;K"Get [Gemini] Lucky Constellation Reward"
+C;X5;K"Exchange for [Gemini] Guardian"
+C;Y517;X1;K1889
+C;X3;K"Script\Npc\NPC-constellation-1889.s"
+C;X4;K"Get [Cancer] Lucky Constellation Reward"
+C;X5;K"Exchange for [Cancer] Guardian"
+C;Y518;X1;K1890
+C;X3;K"Script\Npc\NPC-constellation-1890.s"
+C;X4;K"Get [Leo] Lucky Constellation Reward"
+C;X5;K"Exchange for [Leo] Guardian"
+C;Y519;X1;K1891
+C;X3;K"Script\Npc\NPC-constellation-1891.s"
+C;X4;K"Get [Virgo] Lucky Constellation Reward"
+C;X5;K"Exchange for [Virgo] Guardian"
+C;Y520;X1;K1892
+C;X3;K"Script\Npc\NPC-constellation-1892.s"
+C;X4;K"Get [Libra] Lucky Constellation Reward"
+C;X5;K"Exchange for [Libra] Guardian"
+C;Y521;X1;K1893
+C;X3;K"Script\Npc\NPC-constellation-1893.s"
+C;X4;K"Get [Scorpio] Lucky Constellation Reward"
+C;X5;K"Exchange for [Scorpio] Guardian"
+C;Y522;X1;K1894
+C;X3;K"Script\Npc\NPC-constellation-1894.s"
+C;X4;K"Get [Sagittarius] Lucky Constellation Reward"
+C;X5;K"Exchange for [Sagittarius] Guardian"
+C;Y523;X1;K1895
+C;X3;K"Script\Npc\NPC-constellation-1895.s"
+C;X4;K"Get [Capricorn] Lucky Constellation Reward"
+C;X5;K"Exchange for [Capricorn] Guardian"
+C;Y524;X1;K1896
+C;X3;K"Script\Npc\NPC-constellation-1896.s"
+C;X4;K"Get [Aquarius] Lucky Constellation Reward"
+C;X5;K"Exchange for [Aquarius] Guardian"
+C;Y525;X1;K1897
+C;X3;K"Script\Npc\NPC-constellation-1897.s"
+C;X4;K"Get [Pisces] Lucky Constellation Reward"
+C;X5;K"Exchange for [Pisces] Guardian"
+C;Y527;X1;K278
+C;X3;K"Script\Npc\NPC-278.s"
+C;X4;K"Receive Disguise Pack"
+C;Y528;X1;K282
+C;X3;K"Script\Npc\NPC-282.s"
+C;X4;K"Start the Quiz"
+C;Y541;X1;K1967
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1967.s"
+C;Y542;X1;K1968
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1968.s"
+C;Y543;X1;K1969
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1969.s"
+C;Y547;X1;K1936
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1936-Enter.s"
+C;X4;K"Enter Fallen Darkness Portal"
+C;Y548;X1;K1937
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1936-Enter.s"
+C;X4;K"Enter Fallen Darkness Portal"
+C;Y549;X1;K1938
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1936-Enter.s"
+C;X4;K"Enter Fallen Darkness Portal"
+C;Y550;X1;K1939
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1936-Enter.s"
+C;X4;K"Enter Fallen Darkness Portal"
+C;Y551;X1;K1940
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1936-Enter.s"
+C;X4;K"Enter Fallen Darkness Portal"
+C;Y552;X1;K1941
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1936-Enter.s"
+C;X4;K"Enter Fallen Darkness Portal"
+C;Y553;X1;K1942
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1936-Enter.s"
+C;X4;K"Enter Fallen Darkness Portal"
+C;Y554;X1;K1943
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1936-Enter.s"
+C;X4;K"Enter Fallen Darkness Portal"
+C;Y555;X1;K1944
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1936-Enter.s"
+C;X4;K"Enter Fallen Darkness Portal"
+C;Y556;X1;K1945
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1936-Enter.s"
+C;X4;K"Enter Fallen Darkness Portal"
+C;Y557;X1;K1946
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1936-Enter.s"
+C;X4;K"Enter Fallen Darkness Portal"
+C;Y558;X1;K1947
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1936-Enter.s"
+C;X4;K"Enter Fallen Darkness Portal"
+C;Y559;X1;K1948
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1936-Enter.s"
+C;X4;K"Enter Fallen Darkness Portal"
+C;Y560;X1;K1949
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1936-Enter.s"
+C;X4;K"Enter Fallen Darkness Portal"
+C;Y561;X1;K1950
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1936-Enter.s"
+C;X4;K"Enter Fallen Darkness Portal"
+C;Y562;X1;K1951
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1936-Enter.s"
+C;X4;K"Enter Fallen Darkness Portal"
+C;Y563;X1;K1952
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1936-Enter.s"
+C;X4;K"Enter Fallen Darkness Portal"
+C;Y564;X1;K1953
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1936-Enter.s"
+C;X4;K"Enter Fallen Darkness Portal"
+C;Y565;X1;K1954
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1936-Enter.s"
+C;X4;K"Enter Fallen Darkness Portal"
+C;Y566;X1;K1955
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1936-Enter.s"
+C;X4;K"Enter Fallen Darkness Portal"
+C;Y567;X1;K1956
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1936-Enter.s"
+C;X4;K"Enter Fallen Darkness Portal"
+C;Y568;X1;K1957
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1936-Enter.s"
+C;X4;K"Enter Fallen Darkness Portal"
+C;Y569;X1;K1958
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1936-Enter.s"
+C;X4;K"Enter Fallen Darkness Portal"
+C;Y570;X1;K1959
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1936-Enter.s"
+C;X4;K"Enter Fallen Darkness Portal"
+C;Y571;X1;K1960
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1936-Enter.s"
+C;X4;K"Enter Fallen Darkness Portal"
+C;Y572;X1;K1961
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1936-Enter.s"
+C;X4;K"Enter Fallen Darkness Portal"
+C;Y573;X1;K1962
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1936-Enter.s"
+C;X4;K"Enter Fallen Darkness Portal"
+C;Y574;X1;K1963
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1936-Enter.s"
+C;X4;K"Enter Fallen Darkness Portal"
+C;Y575;X1;K1964
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1936-Enter.s"
+C;X4;K"Enter Fallen Darkness Portal"
+C;Y576;X1;K1965
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1936-Enter.s"
+C;X4;K"Enter Fallen Darkness Portal"
+C;Y577;X1;K2082
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-1936-Enter.s"
+C;X4;K"Enter Fallen Darkness Instance"
+C;X5;K"Return to Fallen Darkness Instance"
+C;X6;K"Use a Chrono Hourglass to Enter the Fallen Darkness"
+C;X7;K"VIP Passage"
+C;Y578;X1;K2017
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-2017.s"
+C;X4;K"Touch Crystal Ball of Power"
+C;Y579;X1;K2018
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-2018.s"
+C;X4;K"Touch Crystal Ball of Power"
+C;Y580;X1;K2019
+C;X3;K"Script\Ectype\Ectype-HAQX-NPC-2019.s"
+C;X4;K"Touch Crystal Ball of Power"
+C;Y583;X1;K2010
+C;X3;K"Script\Npc\AV-NPC-2010-send.s"
+C;X4;K"Teleport"
+C;Y587;X1;K2011
+C;X3;K"Script\Ectype\Ectype-ShenLong-Npc-2011.s"
+C;X4;K"Enter Dragon Island"
+C;X5;K"Back to Instance"
+C;X6;K"Reset Instance"
+C;X7;K"Use a Chrono Hourglass to Enter Dragon Island"
+C;X8;K"VIP Passage"
+C;Y588;X1;K2013
+C;X3;K"Script\Ectype\Ectype-ShenLong-NPC-2013.s"
+C;X4;K"Use Ancient Dragon's Red Blood."
+C;Y589;X1;K2014
+C;X3;K"Script\Ectype\Ectype-ShenLong-NPC-2014.s"
+C;X4;K"Use Ancient Dragon's Blue Blood."
+C;Y590;X1;K2015
+C;X3;K"Script\Ectype\Ectype-ShenLong-NPC-2015.s"
+C;X4;K"Use Ancient Dragon's Green Blood."
+C;Y591;X1;K2016
+C;X3;K"Script\Ectype\Ectype-ShenLong-NPC-2016.s"
+C;X4;K"Exit Dragon Island"
+C;Y592;X1;K2012
+C;X3;K"Script\Ectype\Ectype-ShenLong-NPC-2016.s"
+C;X4;K"Exit Dragon Island"
+C;Y596;X1;K2029
+C;X3;K"Script\HuoDong\HD-Qixi-NPC2029.s"
+C;X4;K"Exchange for Dust of Dreams"
+C;X5;K"Join Love Match"
+C;X6;K"Back to Atlantis"
+C;Y597;X1;K2030
+C;X3;K"Script\Npc\NPC-2030-send.s"
+C;X4;K"Enter the Realm of Dreams"
+C;Y599;X1;K292
+C;X3;K"Script\Ectype\Ectype-jianyu-Npc-Enter-292.s"
+C;X4;K"Trial of Courage and Wisdom-Knight's Jail (1-6 players)"
+C;X5;K"Back to Instance"
+C;X6;K"Reset Instance"
+C;X7;K"Knight's Jail - Apprenticeship"
+C;Y600;X1;K2035
+C;X3;K"Script\Ectype\Ectype-jianyu-Npc-2035.s"
+C;X4;K"Quell the Riot"
+C;X5;K"Exit Instance"
+C;Y601;X1;K2031
+C;X3;K"Script\Ectype\Ectype-jianyu-Npc-2031-2034.s"
+C;X4;K"What happened?!"
+C;Y602;X1;K2032
+C;X3;K"Script\Ectype\Ectype-jianyu-Npc-2031-2034.s"
+C;X4;K"It seems I'm still alive."
+C;Y603;X1;K2033
+C;X3;K"Script\Ectype\Ectype-jianyu-Npc-2031-2034.s"
+C;X4;K"Where is the prisoner?!"
+C;Y604;X1;K2034
+C;X3;K"Script\Ectype\Ectype-jianyu-Npc-2031-2034.s"
+C;X4;K"Help me!"
+C;Y606;X1;K1975
+C;X3;K"Script\Npc\Marry-NPC-1975.s"
+C;X4;K"Accept [Love Quest]"
+C;X5;K"Cost: 1.68 M to get engaged"
+C;X6;K"Receive Quest-Testimony of Love 2"
+C;Y610;X1;K1974
+C;X3;K"Script\Hunli\HD-Marry-NPC1974.s"
+C;X4;K"Receive Firework"
+C;Y611;X1;K10000
+C;X3;K"Script\Hunli\MRstart.s"
+C;X4;K"Wedding Starts"
+C;Y612;X1;K10001
+C;X3;K"Script\Hunli\Mrstart-1.s"
+C;X4;K"Basic wedding starts"
+C;Y613;X1;K1971
+C;X3;K"Script\Hunli\HD-Marry-NPC1971.s"
+C;X4;K"Married Couples Count"
+C;Y615;X1;K2047
+C;X3;K"Script\Npc\fireland-NPC-2047.s"
+C;X4;K"Teleport"
+C;Y616;X1;K2048
+C;X3;K"Script\Npc\fireland-NPC-2048.s"
+C;X4;K"Teleport"
+C;Y617;X1;K2021
+C;X3;K"Script\Npc\Frozen-NPC-2021.s"
+C;X4;K"Exchange for [Glacier Medal] "
+C;Y619;X1;K2036
+C;X3;K"Script\Ectype\Ectype-shiliandongku-NPC-2036.s"
+C;X4;K"Exchange for [Hexgram Music Notes] "
+C;Y621;X1;K2049
+C;X3;K"Script\Npc\NPC-2049.s"
+C;X4;K"Knight's Jail (Trial)"
+C;X5;K"Dragon Emperor's Crypt (Trial)"
+C;X6;K"Dragon Emperor's Crypt (Trial)"
+C;X7;K"Specter Island (Trial)"
+C;X8;K"Specter Island (Trial)"
+C;X9;K"Giza Pyramid (Trial"
+C;X10;K"Giza Pyramid (Trial"
+C;X11;K"Lava Heights (Trial)"
+C;X12;K"Falia's Mask (Instance)"
+C;X13;K"Titan Crystal (Instance)"
+C;Y623;X1;K2051
+C;X3;K"Script\Ectype\shenpanshenyuan\Ectype-shenpanshenyuan-Npc-Enter-2051.s"
+C;X4;K"Enter Pit of Reckoning (Easy)"
+C;X5;K"Enter Pit of Reckoning (Normal)"
+C;X6;K"Back to Instance"
+C;Y624;X1;K2052
+C;X3;K"Script\Ectype\shenpanshenyuan\Ectype-shenpanshenyuan-Npc-2052.s"
+C;X4;K"Exit Instance"
+C;Y625;X1;K2053
+C;X3;K"Script\Ectype\shenpanshenyuan\Ectype-shenpanshenyuan-Npc-2053.s"
+C;X4;K"Let me lead you."
+C;Y626;X1;K2054
+C;X3;K"Script\Ectype\shenpanshenyuan\Ectype-shenpanshenyuan-Npc-2054.s"
+C;X4;K"Lead us to Judgment Road."
+C;Y627;X1;K2055
+C;X3;K"Script\Ectype\shenpanshenyuan\Ectype-shenpanshenyuan-Npc-2055.s"
+C;X4;K"Begin the Judgment Ceremony"
+C;Y628;X1;K2056
+C;X3;K"Script\Ectype\shenpanshenyuan\Ectype-shenpanshenyuan-Npc-2056.s"
+C;X4;K"Summon Agony Source"
+C;X5;K"Turn in 1 Smelt Essence"
+C;X6;K"Turn in 10 Smelt Essences"
+C;X7;K"Return Smelt Essence"
+C;Y629;X1;K2058
+C;X3;K"Script\Ectype\shenpanshenyuan\Ectype-shenpanshenyuan-Npc-2058.s"
+C;X4;K"Teleport Hall"
+C;Y630;X1;K486
+C;X3;K"Script\Ectype\shenpanshenyuan\Ectype-shenpanshenyuan-Npc-486.s"
+C;X4;K"Awaken Netherworld Dragon"
+C;Y632;X1;K381
+C;X3;K"Script\Ectype\Maintask\90-Milya-Ectype-Npc-381.s"
+C;X4;K"Enter [Crypt of the Arch Priestess] "
+C;X5;K"Reset [Crypt of the Arch Priestess]"
+C;Y633;X1;K405
+C;X3;K"Script\Ectype\Maintask\90-Milya-Ectype-Npc-405.s"
+C;Y634;X1;K235
+C;X3;K"Script\Ectype\Maintask\90-Milya-Ectype-Npc-235.s"
+C;X4;K"Leave [Crypt of the Arch Priestess] "
+C;X5;K"Unbind Milia"
+C;X6;K"Save Milia"
+C;X7;K"Use [Force of the Dead] "
+C;Y635;X1;K402
+C;X3;K"Script\Ectype\Maintask\90-Milya-Ectype-Npc-402.s"
+C;Y636;X1;K403
+C;X3;K"Script\Ectype\Maintask\90-Milya-Ectype-Npc-403.s"
+C;Y637;X1;K404
+C;X3;K"Script\Ectype\Maintask\90-Milya-Ectype-Npc-404.s"
+C;Y638;X1;K405
+C;X3;K"Script\Ectype\Maintask\90-Milya-Ectype-Npc-405.s"
+C;Y639;X1;K395
+C;X3;K"Script\Ectype\Maintask\90-Saisi-Ectype-Npc-395.s"
+C;X4;K"Enter [Set's Temple] "
+C;X5;K"Exit Set's Maze"
+C;Y641;X1;K397
+C;X3;K"Script\Ectype\Maintask\90-Minghe-Ectype-Npc-397.s"
+C;X4;K"Sit on [Styx Ship] "
+C;Y642;X1;K391
+C;X3;K"Script\Ectype\Maintask\90-MainLine-NPC-391.s"
+C;X4;K"Water the Tree of Purity"
+C;Y643;X1;K195
+C;X3;K"Script\Ectype\Maintask\90-GoldenTianping-Npc-195.s"
+C;X4;K"Receive the Gold Libra's judgment"
+C;X5;K"Enter Styx"
+C;Y645;X1;K398
+C;X3;K"Script\Ectype\Maintask\90-Minghe-Ectype-Npc-398.s"
+C;X4;K"Sit on [Styx Ship] "
+C;Y647;X1;K406
+C;X3;K"Script\Ectype\Maintask\Hellgate-NPC-406.s"
+C;X4;K"Enter Khufu Pyramid"
+C;Y648;X1;K409
+C;X3;K"Script\Ectype\Maintask\Hellgate-tohell-out.s"
+C;X4;K"Go to the Land of the Dead"
+C;Y649;X1;K239
+C;X3;K"Script\Ectype\Maintask\Hellgate-tohell-in.s"
+C;X4;K"Go to the Land of the Dead"
+C;Y650;X1;K411
+C;X3;K"Script\Ectype\Maintask\Hellgate-bible.s"
+C;X4;K"Take back Wraith Tome"
+C;Y651;X1;K412
+C;X3;K"Script\Ectype\Maintask\Hellgate-smallgate.s"
+C;X4;K"Keep on walking"
+C;Y652;X1;K413
+C;X3;K"Script\Ectype\Maintask\Hellgate-npcback-413.s"
+C;X4;K"I need to return to town to rest."
+C;X5;K"Accept the goddess' blessing."
+C;X6;K"Restore HP"
+C;X7;K"Negative Fate (Will be one-hit killed by Nemo)"
+C;X8;K"Cancel Negative Fate "
+C;Y653;X1;K378
+C;X3;K"Script\Ectype\Maintask\Hellgate-NPC-378.s"
+C;X4;K"Unseal"
+C;Y654;X1;K390
+C;X3;K"Script\Ectype\Maintask\90-TMainLine-Npc-390.s"
+C;X4;K"Challenge Tutak"
+C;X5;K"Enter Set's Maze"
+C;Y657;X1;K426
+C;X3;K"Script\Ectype\Maintask\90-Milya-Ectype-Npc-426.s"
+C;X4;K"Offer Set's Blood"
+C;Y658;X1;K427
+C;X3;K"Script\Ectype\Maintask\90-Milya-Ectype-Npc-427.s"
+C;X4;K"Offer Horus' Feather"
+C;Y660;X1;K423
+C;X3;K"Script\Ectype\Maintask\90-Milya-Ectype-Npc-423.s"
+C;X4;K"Find out Herald of Death"
+C;Y661;X1;K424
+C;X3;K"Script\Ectype\Maintask\90-Milya-Ectype-Npc-424.s"
+C;X4;K"Find out Herald of Death"
+C;Y662;X1;K425
+C;X3;K"Script\Ectype\Maintask\90-Milya-Ectype-Npc-425.s"
+C;X4;K"Find out Herald of Death"
+C;Y664;X1;K430
+C;X3;K"Script\Ectype\Maintask\90-chuansong-Npc-430.s"
+C;X4;K"Teleport to Serra Tribe inside"
+C;Y665;X1;K431
+C;X3;K"Script\Ectype\Maintask\90-chuansong-Npc-431.s"
+C;X4;K"Teleport to Serra Tribe outside"
+C;Y666;X1;K396
+C;X3;K"Script\Ectype\Maintask\90-MainLine-NPC-396.s"
+C;X4;K"Teleport to Atrium"
+C;Y667;X1;K13
+C;X3;K"Script\Npc\NPC-13.s"
+C;X4;K"Get Daily Newbie Present"
+C;X5;K"Accept LV45 Soul Set Quest"
+C;X6;K"Accept LV60 Soul Set Quest"
+C;X7;K"Accept LV75 Soul Set Quest"
+C;X8;K"Accept LV90 Soul Set Quest"
+C;X9;K"Accept LV100 Soul Set Quest"
+C;X10;K"Accept LV.55 Growth Pack"
+C;X11;K"Receive Fruit of Potential"
+C;X12;K"Collect Media Prestige Card"
+C;Y668;X1;K432
+C;X3;K"Script\Ectype\Maintask\90-chuansong-Npc-432.s"
+C;X4;K"Teleport to Serra Tribe inside"
+C;Y669;X1;K433
+C;X3;K"Script\Ectype\Maintask\90-chuansong-Npc-433.s"
+C;X4;K"Teleport to Serra Tribe outside"
+C;Y672;X1;K183
+C;X3;K"Script\Ectype\nengyuanzhijing\Ectype-nengyuanzhijin-NPC-Enter-183.s"
+C;X4;K"Energy Well (Normal)"
+C;X5;K"Energy Well (Elite)"
+C;X6;K"Energy Well (Challenge)"
+C;X7;K"Back to Instance"
+C;X8;K"Accept daily Energy Well Quest"
+C;Y673;X1;K418
+C;X3;K"Script\Ectype\nengyuanzhijing\Ectype-nengyuanzhijin-NPC-418.s"
+C;X4;K"Leave Energy Well"
+C;Y674;X1;K484
+C;X3;K"Script\Ectype\Maintask\90-TMainLine-Npc-484.s"
+C;X4;K"Leave Set's Temple"
+C;Y676;X1;K9002
+C;X3;K"SCRIPT\Npc\Taiwan-Npc-9002.s"
+C;X4;K"Magic Transformation"
+C;X5;K"Input Magician Fan Card Number"
+C;X6;K"Receive Magician Fan Card Reward"
+C;X7;K"Receive Knowledge Champion's Pack"
+C;X8;K"Receive Treasure Probe"
+C;X9;K"Charge Treasure Probe"
+C;X10;K"Exchange Detachments"
+C;X11;K"Pack Exchanger"
+C;Y677;X1;K9003
+C;X3;K"SCRIPT\Npc\Taiwan-Npc-9003.s"
+C;X4;K"Pack Exchanger"
+C;Y678;X1;K9004
+C;X3;K"SCRIPT\Npc\Taiwan-Npc-9003.s"
+C;X4;K"Pack Exchanger"
+C;Y679;X1;K9005
+C;X3;K"SCRIPT\Npc\Taiwan-Npc-9003.s"
+C;X4;K"Pack Exchanger"
+C;Y681;X1;K468
+C;X3;K"Script\Ectype\Ectype-WorldTree-Npc-468.s"
+C;X4;K"Enter Garden of the World Tree"
+C;X5;K"Back to Instance"
+C;X6;K"Reset Garden of the World Tree"
+C;X7;K"Accept Yggdrasil's Care (White)"
+C;X8;K"Accept Yggdrasil's Care (Green)"
+C;X9;K"Accept Yggdrasil's Care (Blue)"
+C;X10;K"Accept Yggdrasil's Care (Gold)"
+C;Y682;X1;K469
+C;X3;K"Script\Ectype\Ectype-WorldTree-Npc-469.s"
+C;X4;K"Can I enter, now?"
+C;Y683;X1;K470
+C;X3;K"Script\Ectype\Ectype-WorldTree-Npc-470.s"
+C;X4;K"Umm... Fred sent us...?"
+C;Y684;X1;K474
+C;X3;K"Script\Ectype\Ectype-WorldTree-Npc-474.s"
+C;X4;K"Got it.  Anything else?"
+C;Y685;X1;K475
+C;X3;K"Script\Ectype\Ectype-WorldTree-Npc-475.s"
+C;X4;K"Turn the valve"
+C;Y686;X1;K476
+C;X3;K"Script\Ectype\Ectype-WorldTree-Npc-476.s"
+C;X4;K"You need help?"
+C;Y687;X1;K477
+C;X3;K"Script\Ectype\Ectype-WorldTree-Npc-477_478.s"
+C;Y688;X1;K478
+C;X3;K"Script\Ectype\Ectype-WorldTree-Npc-477_478.s"
+C;Y690;X1;K434
+C;X3;K"Script\Ectype\Maintask\90-Minghe-Ectype-Npc-434.s"
+C;X4;K"Accept the Immortal Heart"
+C;Y691;X1;K367
+C;X3;K"Script\Ectype\Maintask\90-Minghe-Ectype-Npc-367.s"
+C;X4;K"Teleport to [Atlantis] "
+C;Y693;X1;K201
+C;X3;K"Script\Npc\Npc-201.s"
+C;X4;K"Exchange for White Revelation of Dead"
+C;X5;K"Exchange for Green Revelation of Dead"
+C;X6;K"Exchange for Blue Revelation of Dead"
+C;X7;K"Exchange for Golden Revelation of Dead"
+C;X8;K"Teleport to [Atlantis] "
+C;X9;K"Enter Scenario Instance <Diabolic Valley>"
+C;X10;K"Enter Daily Instance <Diabolic Valley>"
+C;X11;K"Return to Daily Instance <Diabolic Valley>"
+C;X12;K"Reset Instance <Diabolic Valley>"
+C;Y694;X1;K485
+C;X3;K"Script\Ectype\Ectype-WorldTree-Npc-485.s"
+C;X4;K"Leave the Tree of World Garden "
+C;Y695;X1;K399
+C;X3;K"Script\Ectype\Maintask\Npc-399.s"
+C;X4;K"How to become a recruiter"
+C;X5;K"How to input introduction ID"
+C;X6;K"Take Weekly Promoter Welfare"
+C;X7;K"Take Final Promoter Welfare"
+C;X8;K"Take Weekly Master Welfare"
+C;Y696;X1;K572
+C;X3;K"Script\Ectype\Maintask\Npc-572.s"
+C;X4;K"Open Noble Gift-3 Times Per Day"
+C;X5;K"Get Platinum EXP Orb x2"
+C;X6;K"Exchange 10 Gold Keys and Platinum Noble Coupon for Prizes"
+C;X7;K"Directly Exchange Platinum Noble Coupon for LV2 Gem Coin x1"
+C;Y697;X1;K471
+C;X3;K"Script\Ectype\Ectype-WorldTree-Npc-471-473.s"
+C;Y698;X1;K472
+C;X3;K"Script\Ectype\Ectype-WorldTree-Npc-471-473.s"
+C;Y699;X1;K473
+C;X3;K"Script\Ectype\Ectype-WorldTree-Npc-471-473.s"
+C;Y701;X1;K221
+C;X3;K"Script\Ectype\Maintask\90-MainLine-NPC-221.s"
+C;X4;K"Receive [Blood of Nemo] "
+C;X5;K"Exchange Valkyrie - Phy. Attack"
+C;X6;K"Exchange Valkyrie - Mag. Attack"
+C;X7;K"Exchange Athena - Phys."
+C;X8;K"Exchange Athena - Mag."
+C;X9;K"Exchange Bronze Welcome Gift - 10 Welcoming Keys"
+C;X10;K"Exchange Silver Welcome Gift - 20 Welcoming Keys"
+C;X11;K"Exchange Gold Welcome Gift - 40 Welcoming Keys"
+C;X12;K"Collect Mystical Springwater Free Every Day"
+C;X13;K"Use 4 Divine Scores to Bless Spring Festival Card"
+C;X14;K"Use 26 Divine Scores to Bless Elegant Spring Festival Card"
+C;X15;K"Open Spring Festival Card"
+C;X16;K"Open Elegant Spring Festival Card"
+C;X17;K"Receive Valentine's Day Present"
+C;X18;K"Open Luxurious Spring Festival Card"
+C;Y702;X1;K222
+C;X3;K"Script\Item\Equiplevelup\Npc-222.s"
+C;X4;K"Exchange Hephaestus' Hammer +7"
+C;X5;K"Exchange Hephaestus' Hammer +8"
+C;X6;K"Exchange Hephaestus' Hammer +9"
+C;X7;K"Exchange Hephaestus' Hammer +10"
+C;X8;K"Exchange Hephaestus' Hammer +11"
+C;X9;K"Exchange Hephaestus' Hammer +12"
+C;X10;K"Exchange Hephaestus' Hammer +13"
+C;X11;K"Exchange Hephaestus' Hammer +14"
+C;X12;K"Exchange Hephaestus' Hammer +15"
+C;Y703;X1;K223
+C;X3;K"Script\Ectype\Maintask\100-MainLine-NPC-223.s"
+C;X4;K"Redeem Item Hypnos' Will"
+C;X5;K"Collect Verdandi's Letter"
+C;X6;K"Use Holy Fortification Fragment"
+C;X7;K"Use Holy Fortification Stone"
+C;X8;K"Combine into a Holy Fortification Stone"
+C;X9;K"Luck Blessing Exchange: Hephaestus' Hammer +10"
+C;X10;K"Luck Blessing Exchange: Fortify Charm x50"
+C;Y704;X1;K2081
+C;X3;K"Script\Ectype\Ectype-ShenLong-Npc-2081.s"
+C;X4;K"Inherit Blood Line"
+C;Y706;X1;K2085
+C;X3;K"Script\HuoDong\Shengdan\NPC-Christmas-lazhu.s"
+C;X4;K"N/A?? [????] ? [????] "
+C;Y707;X1;K2086
+C;X3;K"Script\HuoDong\Shengdan\NPC-Christmas-lazhu.s"
+C;X4;K"N/A?? [????] ? [????] "
+C;Y708;X1;K2087
+C;X3;K"Script\HuoDong\Shengdan\NPC-Christmas-lazhu.s"
+C;X4;K"N/A?? [????] ? [????] "
+C;Y709;X1;K2088
+C;X3;K"Script\HuoDong\Shengdan\NPC-Christmas-lazhu.s"
+C;X4;K"N/A?? [????] ? [????] "
+C;Y710;X1;K2089
+C;X3;K"Script\HuoDong\Shengdan\NPC-Christmas-lazhu.s"
+C;X4;K"N/A?? [????] ? [????] "
+C;Y711;X1;K2090
+C;X3;K"Script\HuoDong\Shengdan\NPC-Christmas-lazhu.s"
+C;X4;K"N/A?? [????] ? [????] "
+C;Y712;X1;K2091
+C;X3;K"Script\HuoDong\Shengdan\NPC-Christmas-lazhu.s"
+C;X4;K"N/A?? [????] ? [????] "
+C;Y713;X1;K2092
+C;X3;K"Script\HuoDong\Shengdan\NPC-Christmas-lazhu.s"
+C;X4;K"N/A?? [????] ? [????] "
+C;Y714;X1;K2093
+C;X3;K"Script\HuoDong\Shengdan\NPC-Christmas-lazhu.s"
+C;X4;K"N/A?? [????] ? [????] "
+C;Y715;X1;K2094
+C;X3;K"Script\HuoDong\Shengdan\NPC-Christmas-lazhu.s"
+C;X4;K"N/A?? [????] ? [????] "
+C;Y716;X1;K2095
+C;X3;K"Script\HuoDong\Shengdan\NPC-Christmas-lazhu.s"
+C;X4;K"N/A?? [????] ? [????] "
+C;Y717;X1;K2096
+C;X3;K"Script\HuoDong\Shengdan\NPC-Christmas-lazhu.s"
+C;X4;K"N/A?? [????] ? [????] "
+C;Y719;X1;K2084
+C;X3;K"Script\HuoDong\Shengdan\NPC-Christmas-tree.s"
+C;X4;K"N/A?? [????] ? [????] "
+C;X5;K"Receive [EXP Orb] "
+C;Y720;X1;K185
+C;X3;K"Script\Npc\NPC-TaLun-185.s"
+C;X4;K"Exchange 13th VIP Noble Fashion"
+C;X5;K"Exchange 13th VIP Back Gear"
+C;X6;K"Exchange VIP 12 Noble Fashion"
+C;X7;K"Exchange VIP 12 Noble Backgear"
+C;X8;K"Exchange 11th VIP Noble Fashion"
+C;X9;K"Exchange 11th VIP Back Gear"
+C;X10;K"Combine Deity - Bloodthirsty (Primary)"
+C;X11;K"Combine Deity - Bloodthirsty (Advanced)"
+C;Y722;X1;K2185
+C;X3;K"Script\HuoDong\Zhounianqing\NPC-zhounianjizi.s"
+C;X4;K"Turn in Anni-ver-sary-Cele-bration"
+C;Y724;X1;K513
+C;X3;K"Script\Ectype\Maintask100\Swb-Mjmy-Npc-513.s"
+C;X4;K"Receive Parchment"
+C;Y725;X1;K514
+C;X3;K"Script\Ectype\Maintask100\Swb-Mjmy-Npc-514.s"
+C;X4;K"Open Pillar of Nightmare"
+C;X5;K"Rub Inscription of Nightmare"
+C;Y726;X1;K515
+C;X3;K"Script\Ectype\Maintask100\Swb-Mjmy-Npc-515.s"
+C;X4;K"Open Pillar of Nightmare"
+C;X5;K"Rub Inscription of Nightmare"
+C;Y727;X1;K516
+C;X3;K"Script\Ectype\Maintask100\Swb-Mjmy-Npc-516.s"
+C;X4;K"Open Pillar of Nightmare"
+C;X5;K"Rub Inscription of Nightmare"
+C;Y728;X1;K517
+C;X3;K"Script\Ectype\Maintask100\Swb-Mjmy-Npc-517.s"
+C;X4;K"Open Pillar of Nightmare"
+C;X5;K"Rub Inscription of Nightmare"
+C;Y729;X1;K518
+C;X3;K"Script\Ectype\Maintask100\Swb-Mjmy-Npc-518.s"
+C;X4;K"Open Pillar of Nightmare"
+C;X5;K"Rub Inscription of Nightmare"
+C;Y730;X1;K519
+C;X3;K"Script\Ectype\Maintask100\Swb-Mjmy-Npc-519.s"
+C;X4;K"Open Pillar of Nightmare"
+C;X5;K"Rub Inscription of Nightmare"
+C;Y731;X1;K520
+C;X3;K"Script\Ectype\Maintask100\Swb-Mjmy-Npc-520.s"
+C;X4;K"Open Pillar of Nightmare"
+C;X5;K"Rub Inscription of Nightmare"
+C;Y732;X1;K521
+C;X3;K"Script\Ectype\Maintask100\Swb-Mjmy-Npc-521.s"
+C;X4;K"Open Pillar of Nightmare"
+C;X5;K"Rub Inscription of Nightmare"
+C;Y733;X1;K508
+C;X3;K"Script\Ectype\Maintask100\Swb-Mjmy-Npc-508.s"
+C;X4;K"Leave Nightmare Domain"
+C;Y734;X1;K507
+C;X3;K"Script\Ectype\Maintask100\Swb-Mjmy-Npc-507.s"
+C;X4;K"Leave Nightmare Domain"
+C;Y735;X1;K364
+C;X3;K"Script\Ectype\Maintask100\Swb-Mjmy-Npc-364.s"
+C;X4;K"Enter Scenario Instance-Nightmare Domain"
+C;X5;K"Enter Daily Instance-Nightmare Domain"
+C;X6;K"Return to Daily Instance-Nightmare Domain"
+C;X7;K"Reset Nightmare Domain"
+C;Y736;X1;K510
+C;X3;K"Script\Ectype\Maintask100\Swb-Mjmy-Npc-507.s"
+C;X4;K"Leave Nightmare Domain"
+C;Y737;X1;K509
+C;X3;K"Script\Ectype\Maintask100\Swb-Mjmy-Npc-509.s"
+C;X4;K"Enter Demon Sword Area"
+C;Y738;X1;K570
+C;X3;K"Script\Ectype\Maintask100\Swb-Mjmy-Npc-570.s"
+C;X4;K"Call on Nightmare Bringer"
+C;X5;K"Relieve the Demon Sword"
+C;X6;K"Take Demon Sword"
+C;Y739;X1;K523
+C;X3;K"Script\Ectype\Maintask100\Swb-Mjmy-Npc-523.s"
+C;X4;K"Exit here"
+C;Y740;X1;K522
+C;X3;K"Script\Ectype\Maintask100\Swb-Mjmy-Npc-522.s"
+C;X4;K"Receive Mjollnir, Thor's Hammer"
+C;Y741;X1;K512
+C;X3;K"Script\Ectype\Maintask100\Emogu-NPC-Qigefei-512.s"
+C;X4;K"Exit Instance: Diabolic Valley"
+C;Y744;X1;K363
+C;X3;K"Script\Ectype\Maintask100\Zhenshizhijing-NPC-Enter-363.s"
+C;X4;K"Enter Scenario Instance: Waking World"
+C;X5;K"Enter Daily Instance: Waking World"
+C;X6;K"Return to Daily Instance: Waking World"
+C;X7;K"Reset Instance: Waking World"
+C;Y745;X1;K541
+C;X3;K"Script\Ectype\Maintask100\Zhenshizhijing-NPC-Posui-541.s"
+C;X4;K"Give Me Strength"
+C;Y746;X1;K544
+C;X3;K"Script\Ectype\Maintask100\Zhenshizhijing-NPC-Banshou1-544.s"
+C;X4;K"Push and pull switch"
+C;Y747;X1;K545
+C;X3;K"Script\Ectype\Maintask100\Zhenshizhijing-NPC-Banshou2-545.s"
+C;X4;K"Push and pull switch"
+C;Y748;X1;K546
+C;X3;K"Script\Ectype\Maintask100\Zhenshizhijing-NPC-Banshou3-546.s"
+C;X4;K"Open Light Rift"
+C;Y749;X1;K547
+C;X3;K"Script\Ectype\Maintask100\Zhenshizhijing-NPC-Madi-547.s"
+C;X4;K"Exit Instance: Waking World"
+C;X5;K"Receive Weeping Wall Crystal"
+C;X6;K"Receive Weeping Wall Crystal"
+C;Y750;X1;K551
+C;X3;K"Script\Ectype\Maintask100\Zhenshizhijing-NPC-Statue-551.s"
+C;X4;K"Use Mirror of Reality to light up a Stone Statue"
+C;Y751;X1;K552
+C;X3;K"Script\Ectype\Maintask100\Zhenshizhijing-NPC-Statue-552.s"
+C;X4;K"Use Mirror of Reality to light up a Stone Statue"
+C;Y752;X1;K553
+C;X3;K"Script\Ectype\Maintask100\Zhenshizhijing-NPC-Statue-553.s"
+C;X4;K"Use Mirror of Reality to light up a Stone Statue"
+C;Y753;X1;K554
+C;X3;K"Script\Ectype\Maintask100\Zhenshizhijing-NPC-Statue-554.s"
+C;X4;K"Use Mirror of Reality to light up a Stone Statue"
+C;Y754;X1;K555
+C;X3;K"Script\Ectype\Maintask100\Zhenshizhijing-NPC-Statue-555.s"
+C;X4;K"Use Mirror of Reality to light up a Stone Statue"
+C;Y755;X1;K556
+C;X3;K"Script\Ectype\Maintask100\Zhenshizhijing-NPC-Statue-556.s"
+C;X4;K"Use Mirror of Reality to light up a Stone Statue"
+C;Y756;X1;K557
+C;X3;K"Script\Ectype\Maintask100\Zhenshizhijing-NPC-Statue-557.s"
+C;X4;K"Use Mirror of Reality to light up a Stone Statue"
+C;Y757;X1;K558
+C;X3;K"Script\Ectype\Maintask100\Zhenshizhijing-NPC-Statue-558.s"
+C;X4;K"Use Mirror of Reality to light up a Stone Statue"
+C;Y758;X1;K559
+C;X3;K"Script\Ectype\Maintask100\Zhenshizhijing-NPC-Zhaohuan-559.s"
+C;X4;K"Release Seven Sins"
+C;Y759;X1;K560
+C;X3;K"Script\Ectype\Maintask100\Zhenshizhijing-NPC-Zhaohuan-560.s"
+C;X4;K"Release Seven Sins"
+C;Y760;X1;K561
+C;X3;K"Script\Ectype\Maintask100\Zhenshizhijing-NPC-Zhaohuan-561.s"
+C;X4;K"Release Seven Sins"
+C;Y761;X1;K562
+C;X3;K"Script\Ectype\Maintask100\Zhenshizhijing-NPC-Zhaohuan-562.s"
+C;X4;K"Release Seven Sins"
+C;Y762;X1;K563
+C;X3;K"Script\Ectype\Maintask100\Zhenshizhijing-NPC-Wumangxing-563.s"
+C;Y763;X1;K564
+C;X3;K"Script\Ectype\Maintask100\Zhenshizhijing-NPC-Wumangxing-564.s"
+C;Y764;X1;K565
+C;X3;K"Script\Ectype\Maintask100\Zhenshizhijing-NPC-Wumangxing-565.s"
+C;Y765;X1;K566
+C;X3;K"Script\Ectype\Maintask100\Zhenshizhijing-NPC-Wumangxing-566.s"
+C;Y766;X1;K567
+C;X3;K"Script\Ectype\Maintask100\Zhenshizhijing-NPC-Wumangxing-567.s"
+C;Y769;X1;K362
+C;X3;K"Script\Ectype\Maintask100\D-jianzhong-NPC-362.s"
+C;X4;K"Open Scenario Instance: Swordgrave"
+C;X5;K"Open Daily Instance: Swordgrave"
+C;X6;K"Return to Instance: Swordgrave"
+C;X7;K"Reset Instance: Swordgrave"
+C;Y770;X1;K489
+C;X3;K"Script\Ectype\Maintask100\D-jianzhong-NPC-489.s"
+C;X4;K"Receive Wine List Gimlet"
+C;X5;K"Receive Wine List Cinderella"
+C;X6;K"Receive Wine List Aphrodite"
+C;X7;K"Receive Wine List Bloody Mary"
+C;Y771;X1;K490
+C;X3;K"Script\Ectype\Maintask100\D-jianzhong-NPC-490.s"
+C;X4;K"Give Gimlet Cocktail"
+C;Y772;X1;K491
+C;X3;K"Script\Ectype\Maintask100\D-jianzhong-NPC-491.s"
+C;X4;K"Give Cinderella Cocktail"
+C;Y773;X1;K492
+C;X3;K"Script\Ectype\Maintask100\D-jianzhong-NPC-492.s"
+C;X4;K"Give Aphrodite Cocktail"
+C;Y774;X1;K494
+C;X3;K"Script\Ectype\Maintask100\D-jianzhong-NPC-494.s"
+C;X4;K"Receive Baberet Spirit Stone"
+C;Y775;X1;K495
+C;X3;K"Script\Ectype\Maintask100\D-jianzhong-NPC-495.s"
+C;X4;K"Receive Sultan Spirit Stone"
+C;Y776;X1;K496
+C;X3;K"Script\Ectype\Maintask100\D-jianzhong-NPC-496.s"
+C;X4;K"Receive Osiris Spirit Stone"
+C;Y777;X1;K497
+C;X3;K"Script\Ectype\Maintask100\D-jianzhong-NPC-497.s"
+C;X4;K"Receive Ashura King Spirit Stone"
+C;Y778;X1;K500
+C;X3;K"Script\Ectype\Maintask100\D-jianzhong-NPC-500.s"
+C;X4;K"Seal of the Demon Sword is removed"
+C;Y779;X1;K501
+C;X3;K"Script\Ectype\Maintask100\D-jianzhong-NPC-501.s"
+C;X4;K"Leave the Bar"
+C;Y780;X1;K502
+C;X3;K"Script\Ectype\Maintask100\D-jianzhong-NPC-502.s"
+C;X4;K"Enter the Bar (500 Coins)"
+C;Y781;X1;K505
+C;X3;K"Script\Ectype\Maintask100\D-jianzhong-NPC-505.s"
+C;X4;K"Water Replenishing Magic Spirit"
+C;X5;K"Fire Replenishing Magic Spirit"
+C;X6;K"Light Replenishing Magic Spirit"
+C;X7;K"Darkness Replenishing Magic Spirit"
+C;X8;K"Soul Replenishing Magic Spirit"
+C;Y782;X1;K527
+C;X3;K"Script\Ectype\Maintask100\D-jianzhong-NPC-527.s"
+C;X4;K"Adjust"
+C;Y783;X1;K528
+C;X3;K"Script\Ectype\Maintask100\D-jianzhong-NPC-528.s"
+C;X4;K"Adjust"
+C;Y784;X1;K529
+C;X3;K"Script\Ectype\Maintask100\D-jianzhong-NPC-529.s"
+C;X4;K"Adjust"
+C;Y785;X1;K530
+C;X3;K"Script\Ectype\Maintask100\D-jianzhong-NPC-530.s"
+C;X4;K"Adjust"
+C;Y786;X1;K531
+C;X3;K"Script\Ectype\Maintask100\D-jianzhong-NPC-531.s"
+C;X4;K"Adjust"
+C;Y787;X1;K532
+C;X3;K"Script\Ectype\Maintask100\D-jianzhong-NPC-532.s"
+C;X4;K"Adjust"
+C;Y788;X1;K539
+C;X3;K"Script\Ectype\Maintask100\D-jianzhong-NPC-539.s"
+C;X4;K"Insert the Key"
+C;X5;K"Open Tavern Backdoor"
+C;Y790;X1;K2188
+C;X3;K"Script\Battle\NPC-2188.s"
+C;X4;K"Restore MP"
+C;Y791;X1;K2189
+C;X3;K"Script\Battle\NPC-2189.s"
+C;X4;K"Restore MP"
+C;Y793;X1;K524
+C;X3;K"Script\Ectype\Maintask100\Ectype-shuishen-Npc-524.s"
+C;X4;K"Accept the Test of Ebernorth"
+C;X5;K"Back to Instance"
+C;X6;K"Receive Hypnos' Will"
+C;Y795;X1;K2186
+C;X3;K"Script\Ectype\haihuangpian\Ectype-haihuangpian-Npc-Enter-2186.s"
+C;X4;K"Teleport - North Atlantic"
+C;X5;K"Teleport - Arctic"
+C;X6;K"Teleport - North Pacific"
+C;X7;K"Teleport - South Pacific"
+C;X8;K"Teleport - Antarctic"
+C;X9;K"Teleport - Indian Ocean"
+C;X10;K"Teleport - South Atlantic"
+C;Y797;X1;K2132
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2132.s"
+C;X4;K"Push Box"
+C;Y798;X1;K2133
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2133.s"
+C;X4;K"Push Box"
+C;Y799;X1;K2134
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2134.s"
+C;X4;K"Push Box"
+C;Y800;X1;K2135
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2135.s"
+C;X4;K"Push Box"
+C;Y801;X1;K2136
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2136.s"
+C;X4;K"Use the Box to climb up"
+C;Y802;X1;K2137
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2137.s"
+C;X4;K"Receive Quest: Invitation from Count"
+C;Y804;X1;K2187
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-enter-2137.s"
+C;X4;K"Shadow Manor Easy (1-2 Players)"
+C;X5;K"Shadow Manor Elite (3-6 Players)"
+C;X6;K"Return to Shadow Manor"
+C;Y805;X1;K2138
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2138.s"
+C;Y806;X1;K2139
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2139.s"
+C;X4;K"Reach up to open the latch..."
+C;X5;K"Free Werewolf"
+C;Y807;X1;K2141
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2141.s"
+C;X4;K"Attack the Dark Harbinger"
+C;Y808;X1;K2142
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2142.s"
+C;X4;K"Open the Gallery"
+C;Y809;X1;K2143
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2143.s"
+C;X4;K"Take the Crescent Badge"
+C;Y810;X1;K2144
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2144.s"
+C;X4;K"Activate Stone Statue"
+C;Y811;X1;K2145
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2145.s"
+C;X4;K"Activate Stone Statue"
+C;Y812;X1;K2146
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2146.s"
+C;X4;K"Activate Stone Statue"
+C;Y813;X1;K2147
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2147.s"
+C;X4;K"Activate Stone Statue"
+C;Y814;X1;K2148
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2148.s"
+C;X4;K"Activate Stone Statue"
+C;Y815;X1;K2149
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2149.s"
+C;X4;K"Open Chest"
+C;Y816;X1;K2150
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2150.s"
+C;X4;K"Open Chest"
+C;Y817;X1;K2151
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2151.s"
+C;X4;K"Open Chest"
+C;Y818;X1;K2152
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2152.s"
+C;X4;K"Open Chest"
+C;Y819;X1;K2153
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2153.s"
+C;X4;K"Open Chest"
+C;Y820;X1;K2154
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2154.s"
+C;X4;K"Open Chest"
+C;Y821;X1;K2155
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2155.s"
+C;X4;K"Open Chest"
+C;Y822;X1;K2156
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2156.s"
+C;X4;K"Open Chest"
+C;Y823;X1;K2157
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2157.s"
+C;X4;K"Open Chest"
+C;Y824;X1;K2158
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2158.s"
+C;X4;K"Open Chest"
+C;Y825;X1;K2159
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2159.s"
+C;X4;K"Open Chest"
+C;Y826;X1;K2160
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2160.s"
+C;X4;K"Open Chest"
+C;Y827;X1;K2161
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2161.s"
+C;X4;K"Open Chest"
+C;Y828;X1;K2162
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2162.s"
+C;X4;K"Open Chest"
+C;Y829;X1;K2163
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2163.s"
+C;X4;K"Open Chest"
+C;Y830;X1;K2164
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2164.s"
+C;X4;K"Open Chest"
+C;Y831;X1;K2165
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2165.s"
+C;X4;K"Open Chest"
+C;Y832;X1;K2166
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2166.s"
+C;X4;K"Open Chest"
+C;Y833;X1;K2167
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2167.s"
+C;X4;K"Open Chest"
+C;Y834;X1;K2168
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2168.s"
+C;X4;K"Open Chest"
+C;Y835;X1;K2169
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2169.s"
+C;X4;K"Open Chest"
+C;Y837;X1;K2193
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2193.s"
+C;X4;K"Open Chest"
+C;Y838;X1;K2194
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2194.s"
+C;X4;K"Open Chest"
+C;Y839;X1;K2195
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2195.s"
+C;X4;K"Open Chest"
+C;Y840;X1;K2196
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2196.s"
+C;X4;K"Open Chest"
+C;Y841;X1;K2197
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2197.s"
+C;X4;K"Open Chest"
+C;Y843;X1;K2256
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2256.s"
+C;X4;K"Open Chest"
+C;Y844;X1;K2257
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2257.s"
+C;X4;K"Open Chest"
+C;Y845;X1;K2258
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2258.s"
+C;X4;K"Open Chest"
+C;Y846;X1;K2259
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2259.s"
+C;X4;K"Open Chest"
+C;Y847;X1;K2260
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2260.s"
+C;X4;K"Open Chest"
+C;Y848;X1;K2261
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2261.s"
+C;X4;K"Open Chest"
+C;Y849;X1;K2262
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2262.s"
+C;X4;K"Open Chest"
+C;Y850;X1;K2263
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2263.s"
+C;X4;K"Open Chest"
+C;Y851;X1;K2264
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2264.s"
+C;X4;K"Open Chest"
+C;Y852;X1;K2265
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2265.s"
+C;X4;K"Open Chest"
+C;Y853;X1;K2266
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2266.s"
+C;X4;K"Open Chest"
+C;Y856;X1;K2184
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2184.s"
+C;X4;K"Receive Talbeau's gift"
+C;Y858;X1;K2190
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2190.s"
+C;X4;K"Examine"
+C;Y860;X1;K2243
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2243.s"
+C;X4;K"Exit Shadow Manor"
+C;Y861;X1;K2244
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2244.s"
+C;X4;K"Exit Shadow Manor"
+C;Y862;X1;K2245
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2245.s"
+C;X4;K"Take the Sunlit Badge"
+C;Y863;X1;K2246
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2246.s"
+C;Y865;X1;K2248
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2248.s"
+C;Y866;X1;K2249
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2249.s"
+C;X4;K"Open the Final Door"
+C;Y867;X1;K2254
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2254.s"
+C;Y868;X1;K2255
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2255.s"
+C;Y871;X1;K2236
+C;X3;K"Script\Ectype\haihuangpian\Ectype-haihuangpian-Npc-2236.s"
+C;X4;K"To the North Atlantic"
+C;X5;K"Back to Atlantis"
+C;Y872;X1;K2237
+C;X3;K"Script\Ectype\haihuangpian\Ectype-haihuangpian-Npc-2237.s"
+C;X4;K"To the Arctic"
+C;X5;K"Back to Atlantis"
+C;Y873;X1;K2238
+C;X3;K"Script\Ectype\haihuangpian\Ectype-haihuangpian-Npc-2238.s"
+C;X4;K"To the North Pacific"
+C;X5;K"Back to Atlantis"
+C;Y874;X1;K2239
+C;X3;K"Script\Ectype\haihuangpian\Ectype-haihuangpian-Npc-2239.s"
+C;X4;K"To the South Pacific"
+C;X5;K"Back to Atlantis"
+C;Y875;X1;K2240
+C;X3;K"Script\Ectype\haihuangpian\Ectype-haihuangpian-Npc-2240.s"
+C;X4;K"To the Antarctic"
+C;X5;K"Back to Atlantis"
+C;Y876;X1;K2241
+C;X3;K"Script\Ectype\haihuangpian\Ectype-haihuangpian-Npc-2241.s"
+C;X4;K"To the Indian Ocean"
+C;X5;K"Back to Atlantis"
+C;Y877;X1;K2242
+C;X3;K"Script\Ectype\haihuangpian\Ectype-haihuangpian-Npc-2242.s"
+C;X4;K"To the South Atlantic"
+C;X5;K"Back to Atlantis"
+C;Y879;X1;K2247
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2247.s"
+C;X4;K"Book of Demon Summoning"
+C;Y881;X1;K2253
+C;X3;K"Script\Ectype\elinggubao\Ectype-elinggubao-Npc-2253.s"
+C;Y882;X1;K1533
+C;X3;K"Script\Npc\NPC-1533.s"
+C;X4;K"Collect Divine Defense"
+C;X5;K"Collect LV100 Battle Skill"
+C;X6;K"Collect LV115 Battle Skill"
+C;X7;K"Collect Luck Resistance"
+C;Y884;X1;K369
+C;X3;K"Script\Npc\Marry-NPC-369.s"
+C;X4;K"Receive Water of Love"
+C;X5;K"Collect 5 Berry Hearts (once per day)"
+C;Y885;X1;K370
+C;X3;K"Script\Npc\Marry-NPC-370.s"
+C;X4;K"Receive Blessing of Love"
+C;Y886;X1;K188
+C;X3;K"Script\Npc\Npc-188.s"
+C;X4;K"Receive Wings of the Disciple"
+C;Y888;X1;K180
+C;X3;K"Script\Npc\NPC-180.s"
+C;X4;K"Receive Omphalos"
+C;Y889;X1;K571
+C;X3;K"Script\Npc\NPC-571-oluosi.s"
+C;X4;K"Exchange for LV100 Soul Belt"
+C;X5;K"Exchange for LV100 Soul Boots"
+C;X6;K"Exchange for LV100 Soul Gloves"
+C;X7;K"Exchange for LV100 Soul Helm"
+C;X8;K"Exchange for LV100 Soul Greaves"
+C;X9;K"Exchange for LV100 Soul Armor"
+C;X10;K"Exchange for LV100 Soul Pauldrons"
+C;X11;K"Exchange for LV100 Soul Weapon"
+C;X12;K"Exchange for LV100 Soul Shield"
+C;Y891;X1;K1884
+C;X3;K"Script\Npc\NPC-RuiYa-1884.s"
+C;X4;K"Exchange for Fallen Angel's Feather"
+C;Y892;X1;K2301
+C;X3;K"Script\Npc\NPC-2301.s"
+C;X4;K"Exchange Easter Card x1 - 1500"
+C;X5;K"Exchange Easter Card x5 - 7000"
+C;X6;K"Exchange Summer Camp Launch - 120,000"
+C;X7;K"Exchange Summer Fashion Female - 30,000"
+C;X8;K"Exchange Summer Fashion Male - 30,000"
+C;X9;K"Exchange Summer Riotous Badge"
+C;X10;K"Check Luck Score"
+C;X11;K"Replace Nielder's Deity Summer Riotous Badge"
+C;Y893;X1;K1541
+C;X3;K"Script\Npc\NPC-qiangni-1541.s"
+C;X4;K"Exchange for LV13 Chalice"
+C;X5;K"Exchange LV10 Chalice"
+C;Y895;X1;K734
+C;X3;K"Script\Ectype\TiTan\Ectype-Titan-Npc-734.s"
+C;X4;K"Enter Titan Throne (Easy mode)"
+C;X5;K"Enter Titan Throne"
+C;X6;K"Back to Titan Throne"
+C;Y896;X1;K735
+C;X3;K"Script\Ectype\TiTan\Ectype-Titan-Npc-735.s"
+C;X4;K"Exit Titan Throne"
+C;Y897;X1;K744
+C;X3;K"Script\Ectype\TiTan\Ectype-Titan-Npc-744.s"
+C;X4;K"Enter Throne Hallway "
+C;Y898;X1;K745
+C;X3;K"Script\Ectype\TiTan\Ectype-Titan-Npc-745.s"
+C;X4;K"Enter Throne Upper Level"
+C;Y899;X1;K740
+C;X3;K"Script\Ectype\TiTan\Ectype-Titan-Npc-740_743.s"
+C;X4;K"Full Heal (5000 Coins)"
+C;X5;K"Random Buff (50 Ancient Gold)"
+C;X6;K"Random Treasure (10 Ancient Gold)"
+C;Y900;X1;K741
+C;X3;K"Script\Ectype\TiTan\Ectype-Titan-Npc-740_743.s"
+C;X4;K"Full Heal (5000 Coins)"
+C;X5;K"Random Buff (50 Ancient Gold)"
+C;X6;K"Random Treasure (10 Ancient Gold)"
+C;Y901;X1;K742
+C;X3;K"Script\Ectype\TiTan\Ectype-Titan-Npc-740_743.s"
+C;X4;K"Full Heal (5000 Coins)"
+C;X5;K"Random Buff (50 Ancient Gold)"
+C;X6;K"Random Treasure (10 Ancient Gold)"
+C;Y902;X1;K743
+C;X3;K"Script\Ectype\TiTan\Ectype-Titan-Npc-740_743.s"
+C;X4;K"Full Heal (5000 Coins)"
+C;X5;K"Random Buff (50 Ancient Gold)"
+C;X6;K"Random Treasure (10 Ancient Gold)"
+C;Y903;X1;K738
+C;X3;K"Script\Ectype\TiTan\Ectype-Titan-Npc-738.s"
+C;X4;K"Move Trigger"
+C;Y904;X1;K739
+C;X3;K"Script\Ectype\TiTan\Ectype-Titan-Npc-739.s"
+C;X4;K"Move Trigger"
+C;Y905;X1;K951
+C;X3;K"Script\Ectype\TiTan\Ectype-Titan-Npc-951.s"
+C;X4;K"Ask Athena for help"
+C;X5;K"Summon the soul of Cyclops"
+C;X6;K"Infuse Soul into: Old Gods' Soul Gloves"
+C;X7;K"Infuse Soul into: Old Gods' Soul Belt"
+C;X8;K"Infuse Soul into: Old Gods' Soul Helm"
+C;X9;K"Infuse Soul into: Old Gods' Soul Armor"
+C;X10;K"Infuse Soul into: Old Gods' Soul Greaves"
+C;X11;K"Infuse Soul into: Old Gods' Soul Boots"
+C;X12;K"Infuse Soul into: Old Gods' Soul Pauldrons"
+C;X13;K"Infuse Soul into: Old Gods' Soul Weapon"
+C;X14;K"Infuse Soul into: Old Gods' Soul Shield"
+C;X15;K"Receive Relic: Lightning"
+C;Y906;X1;K888
+C;X3;K"Script\Ectype\TiTan\Ectype-Titan-Npc-735.s"
+C;X4;K"Exit Titan Throne"
+C;Y909;X1;K952
+C;X3;K"Script\HuoDong\zhounianQ2\FQ-npc-952.s"
+C;X4;K"Accept Scarlet Phoenix Relic Quest"
+C;X5;K"Accept the Trial of Flame"
+C;X6;K"Reset the Burning Realm Instance"
+C;X7;K"Accept Quest - Scarlet Phoenix Heart"
+C;X8;K"Accept Emerald Dragon Relic Quests"
+C;X9;K"Accept the Trial of Ice"
+C;X10;K"Reset the Serene Realm Instance"
+C;X11;K"Accept Quest - Emerald Dragon Soul"
+C;X12;K"Exchange for Scarlet Phoenix Core"
+C;X13;K"Exchange for Emerald Dragon Core"
+C;Y912;X1;K2435
+C;X3;K"Script\Npc\guild\guild-yishiting.s"
+C;X4;K"Upgrade Guild Meeting Hall"
+C;X5;K"Submit Upgrade Material"
+C;X6;K"Check Construction Progress"
+C;Y913;X1;K2436
+C;X3;K"Script\Npc\guild\guild-jiuguan.s"
+C;X4;K"Upgrade Bounty Tavern"
+C;X5;K"Submit Upgrade Material"
+C;X6;K"Check Construction Progress"
+C;Y914;X1;K2437
+C;X3;K"Script\Npc\guild\guild-tushuguan.s"
+C;X4;K"Upgrade Guild Knowledge Library"
+C;X5;K"Submit Upgrade Material"
+C;X6;K"Check Construction Progress"
+C;Y915;X1;K2438
+C;X3;K"Script\Npc\guild\guild-binggongchang.s"
+C;X4;K"Upgrade Arsenal Castor"
+C;X5;K"Submit Upgrade Material"
+C;X6;K"Check Construction Progress"
+C;Y916;X1;K2439
+C;X3;K"Script\Npc\guild\guild-shilianchang.s"
+C;X4;K"Upgrade Trial Ground"
+C;X5;K"Submit Upgrade Material"
+C;X6;K"Check Construction Progress"
+C;X7;K"Guild Trial Ground Instance"
+C;X8;K"Back to Trial Ground Instance"
+C;Y917;X1;K2440
+C;X3;K"Script\Npc\guild\guild-yishiting.s"
+C;X4;K"Upgrade Guild Meeting Hall"
+C;X5;K"Submit Upgrade Material"
+C;X6;K"Check Construction Progress"
+C;Y918;X1;K2441
+C;X3;K"Script\Npc\guild\guild-jiuguan.s"
+C;X4;K"Upgrade Bounty Tavern"
+C;X5;K"Submit Upgrade Material"
+C;X6;K"Check Construction Progress"
+C;Y919;X1;K2442
+C;X3;K"Script\Npc\guild\guild-tushuguan.s"
+C;X4;K"Upgrade Guild Knowledge Library"
+C;X5;K"Submit Upgrade Material"
+C;X6;K"Check Construction Progress"
+C;Y920;X1;K2443
+C;X3;K"Script\Npc\guild\guild-binggongchang.s"
+C;X4;K"Upgrade Arsenal Castor"
+C;X5;K"Submit Upgrade Material"
+C;X6;K"Check Construction Progress"
+C;Y921;X1;K2444
+C;X3;K"Script\Npc\guild\guild-shilianchang.s"
+C;X4;K"Upgrade Trial Ground"
+C;X5;K"Submit Upgrade Material"
+C;X6;K"Check Construction Progress"
+C;X7;K"Guild Trial Ground Instance"
+C;X8;K"Back to Trial Ground Instance"
+C;Y922;X1;K849
+C;X3;K"Script\Npc\guild\guild-juanyangchang.s"
+C;X4;K"Upgrade Beast Training Grounds"
+C;X5;K"Submit Upgrade Material"
+C;X6;K"Check Construction Progress"
+C;X7;K"Adopt Guild Beast"
+C;X8;K"Feed Guild Beast"
+C;X9;K"Check Guild Beast Info."
+C;X10;K"Challenge Guild Beast"
+C;Y923;X1;K850
+C;X3;K"Script\Npc\guild\guild-juanyangchang.s"
+C;X4;K"Upgrade Beast Training Grounds"
+C;X5;K"Submit Upgrade Material"
+C;X6;K"Check Construction Progress"
+C;X7;K"Adopt Guild Beast"
+C;X8;K"Feed Guild Beast"
+C;X9;K"Check Guild Beast Info."
+C;X10;K"Challenge Guild Beast"
+C;Y925;X1;K2447
+C;X3;K"Script\Npc\guild\guild-chuansong.s"
+C;X4;K"Teleport to Guild Territory"
+C;X5;K"Exchange 200 Silver Chunks for Hephaestus' Light"
+C;X6;K"Exchange 200 Violet Lotus Buds for Hephaestus' Light"
+C;X7;K"Exchange 200 Aquamarine Beads for Hephaestus' Light"
+C;X8;K"Exchange 200 Holy Water for Advanced Construction Material"
+C;X9;K"Exchange 200 Aura of Souljades for Advanced Construction Material"
+C;X10;K"Exchange 200 Fortify Crystals for Advanced Construction Material"
+C;X11;K"Exchange 200 Magic Stone of Growth for Advanced Construction Material"
+C;Y926;X1;K2448
+C;X3;K"Script\Npc\guild\guild-cailiao.s"
+C;X4;K"Get Miner's Pickaxe"
+C;Y927;X1;K2449
+C;X3;K"Script\Npc\guild\guild-cailiao.s"
+C;X4;K"Get Miner's Pickaxe"
+C;Y928;X1;K2450
+C;X3;K"Script\Npc\guild\guild-likai.s"
+C;X4;K"Leave Guild Trial Ground"
+C;Y930;X1;K1
+C;X3;K"Script\Npc\Tequan-NPC-1.s"
+C;X4;K"Collect Media Prestige Card"
+C;Y931;X1;K454
+C;X3;K"Script\Npc\Tequan-NPC-454.s"
+C;X4;K"Collect Media Prestige Card"
+C;Y932;X1;K447
+C;X3;K"Script\Npc\Tequan-NPC-447.s"
+C;X4;K"Collect Media Prestige Card"
+C;Y934;X1;K986
+C;X3;K"Script\Npc\npc-986.s"
+C;X4;K"Teleport to Exiled Lands"
+C;Y935;X1;K987
+C;X3;K"Script\Npc\npc-987.s"
+C;X4;K"Teleport to Emerald Dragon Island"
+C;Y936;X1;K988
+C;X3;K"Script\Npc\npc-988.s"
+C;X4;K"Teleport to Emerald Dragon"
+C;Y937;X1;K989
+C;X3;K"Script\Npc\npc-989.s"
+C;X4;K"Teleport to Emerald Dragon Island"
+C;Y939;X1;K2454
+C;X3;K"Script\HuoDong\zhounianQ2\FQ2-npc-2454.s"
+C;X4;K"Repair Flawed Icewisp Stone"
+C;Y940;X1;K280
+C;X3;K"Script\HuoDong\zhounianQ2\FQ3-npc-280.s"
+C;X4;K"Accept White Tiger Relic Quest"
+C;X5;K"Accept the Trial of Wind"
+C;X6;K"Reset Evergreen Woods Instance"
+C;X7;K"Accept Quest - White Tiger Might"
+C;X8;K"Combine White Tiger Core"
+C;X9;K"Accept Obsidian Turtle Relic Quests"
+C;X10;K"Accept the Trial of the Void"
+C;X11;K"Reset the Miasma Realm Instance"
+C;X12;K"Accept Quest - Obsidian Turtle Soul"
+C;X13;K"Combine Obsidian Turtle Core"
+C;X14;K"Exchange for White Tiger Core"
+C;X15;K"Exchange for Obsidian Turtle Core"
+C;Y941;X1;K991
+C;X3;K"Script\HuoDong\zhounianQ2\FQ3-npc-991.s"
+C;X4;K"Can you tell me about the relic?"
+C;Y942;X1;K573
+C;X3;K"Script\HuoDong\zhounianQ2\FQ4-npc-573.s"
+C;X4;K"Risk a Closer Look"
+C;Y944;X1;K691
+C;X3;K"Script\NPC\Xingpan-xingyiguan.s"
+C;X4;K"Active Energy Core"
+C;X5;K"Accept Chaotic Starry Night Quest"
+C;Y945;X1;K693
+C;X3;K"Script\NPC\Xingpan-huntianyi.s"
+C;X4;K"Accept Copernicus' Troubles Quest"
+C;Y947;X1;K2455
+C;X3;K"Script\Domain\Ectype-murushuijing-atk.s"
+C;X4;K"To North Gate"
+C;X5;K"To West Gate"
+C;X6;K"To East Gate"
+C;X7;K"Return to Guild Manor"
+C;Y948;X1;K2456
+C;X3;K"Script\Domain\Ectype-murushuijing-atk.s"
+C;X4;K"To North Gate"
+C;X5;K"To West Gate"
+C;X6;K"To East Gate"
+C;X7;K"Return to Guild Manor"
+C;Y949;X1;K2457
+C;X3;K"Script\Domain\Ectype-murushuijing-def.s"
+C;X4;K"To South Gate"
+C;X5;K"To West Gate"
+C;X6;K"To East Gate"
+C;X7;K"Return to Guild Manor"
+C;Y950;X1;K2458
+C;X3;K"Script\Domain\Ectype-murushuijing-def.s"
+C;X4;K"To South Gate"
+C;X5;K"To West Gate"
+C;X6;K"To East Gate"
+C;X7;K"Return to Guild Manor"
+C;Y952;X1;K1927
+C;X3;K"Script\Domain\Domain-shenyu.s"
+C;X4;K"Collect Oracle Reward - Guild Leader"
+C;Y953;X1;K2459
+C;X3;K"Script\Domain\Ectype-chejian-Atk.s"
+C;X4;K"Vessel Production - Magic Butcher"
+C;X5;K"Vessel Production - Tank Killer"
+C;X6;K"Check Vessel in Combat"
+C;Y954;X1;K2460
+C;X3;K"Script\Domain\Ectype-chejian-Def.s"
+C;X4;K"Vessel Production - Magic Butcher"
+C;X5;K"Vessel Production - Tank Killer"
+C;X6;K"Check Vessel in Combat"
+C;Y955;X1;K2464
+C;X3;K"Script\Domain\Ectype-chejian-left.s"
+C;X4;K"Vessel Production - Lord of Destruction"
+C;X5;K"Check Vessel in Combat"
+C;Y956;X1;K2465
+C;X3;K"Script\Domain\Ectype-chejian-right.s"
+C;X4;K"Vessel Production - Lord of Destruction"
+C;X5;K"Check Vessel in Combat"
+C;Y958;X1;K675
+C;X3;K"Script\Ectype\Dixialingmu\DXLM-NPC-675-Entrance.s"
+C;X4;K"Enter Pangaea Catacomb (Party Mode)"
+C;X5;K"Back to Pangaea Catacomb"
+C;X6;K"Back to Pangaea Catacomb - Ghostdom"
+C;X7;K"Enter Pangaea Catacomb (Single Mode)"
+C;X8;K"Enter Pangaea Catacomb (Scenario Mode)"
+C;X9;K"Release Scenario Mode Instance"
+C;Y959;X1;K678
+C;X3;K"Script\Ectype\Dixialingmu\DXLM-NPC-678-heal.s"
+C;X4;K"Heal - 1000 Coin"
+C;X5;K"Temporarily leave Pangaea Catacomb"
+C;X6;K"Teleport"
+C;Y960;X1;K679
+C;X3;K"Script\Ectype\Dixialingmu\DXLM-NPC-679-heal.s"
+C;X4;K"Heal - 1000 Coin"
+C;X5;K"Temporarily leave Pangaea Catacomb"
+C;X6;K"Teleport"
+C;Y961;X1;K641
+C;X3;K"Script\Ectype\Dixialingmu\DXLM-NPC-586.s"
+C;X4;K"Exchange for Wrath of the Earth"
+C;Y963;X1;K589
+C;X3;K"Script\Ectype\Dixialingmu\DXLM-CSNPC-Dundi-589.s"
+C;X4;K"To Lower Tomb Levels"
+C;Y964;X1;K590
+C;X3;K"Script\Ectype\Dixialingmu\DXLM-CSNPC-Tongtian-590.s"
+C;X4;K"To upper level"
+C;Y965;X1;K676
+C;X3;K"Script\Ectype\Dixialingmu\DXLM-CSNPC-Dundi-676.s"
+C;X4;K"To Lower Tomb Levels"
+C;Y966;X1;K677
+C;X3;K"Script\Ectype\Dixialingmu\DXLM-CSNPC-Tongtian-677.s"
+C;X4;K"To upper level"
+C;Y968;X1;K648
+C;X2;K"Ward of Inversion"
+C;X3;K"Script\Ectype\DXLM-Single\DXLMS-NPC-648.s"
+C;X4;K"Press it"
+C;X5;K"Press it (In cooldown)"
+C;Y969;X1;K649
+C;X2;K"Ward of Inversion"
+C;X3;K"Script\Ectype\DXLM-Single\DXLMS-NPC-649.s"
+C;X4;K"Press it"
+C;X5;K"Press it (In cooldown)"
+C;Y970;X1;K650
+C;X2;K"Watermirror Gate"
+C;X3;K"Script\Ectype\DXLM-Single\DXLMS-NPC-650.s"
+C;X4;K"Open the gate - requires Water Charm"
+C;Y971;X1;K651
+C;X2;K"Burial Chamber Door"
+C;X3;K"Script\Ectype\DXLM-Single\DXLMS-NPC-651.s"
+C;X4;K"Try to unlock it"
+C;Y972;X1;K652
+C;X2;K"Watermirror Platform"
+C;X3;K"Script\Ectype\DXLM-Single\DXLMS-NPC-652.s"
+C;X4;K"Take it"
+C;Y973;X1;K653
+C;X2;K"Watermirror Platform"
+C;X3;K"Script\Ectype\DXLM-Single\DXLMS-NPC-653.s"
+C;X4;K"Take it"
+C;Y974;X1;K654
+C;X2;K"Chest "
+C;X3;K"Script\Ectype\DXLM-Single\DXLMS-NPC-654.s"
+C;X4;K"Open the chest and take a look"
+C;Y975;X1;K655
+C;X2;K"Kind Ghost"
+C;X3;K"Script\Ectype\DXLM-Single\DXLMS-NPC-655.s"
+C;X4;K"A friend"
+C;X5;K"Your worst nightmare!"
+C;Y976;X1;K656
+C;X2;K"Rusty Lever"
+C;X3;K"Script\Ectype\DXLM-Single\DXLMS-NPC-656.s"
+C;X4;K"Pull the lever"
+C;Y977;X1;K657
+C;X2;K"Rusty Lever"
+C;X3;K"Script\Ectype\DXLM-Single\DXLMS-NPC-657.s"
+C;X4;K"Pull the lever"
+C;Y978;X1;K658
+C;X2;K"Weird Cave"
+C;X3;K"Script\Ectype\DXLM-Single\DXLMS-NPC-658.s"
+C;X4;K"Jump"
+C;X5;K"Nevermind"
+C;Y979;X1;K659
+C;X2;K"Dark Hole"
+C;X3;K"Script\Ectype\DXLM-Single\DXLMS-NPC-659.s"
+C;X4;K"Go in"
+C;Y980;X1;K660
+C;X2;K"Dark Hole"
+C;X3;K"Script\Ectype\DXLM-Single\DXLMS-NPC-660.s"
+C;X4;K"Go in"
+C;Y981;X1;K661
+C;X2;K"Stone Block"
+C;X3;K"Script\Ectype\DXLM-Single\DXLMS-NPC-661.s"
+C;X4;K"Jump to the other side"
+C;Y982;X1;K662
+C;X2;K"Stone Block"
+C;X3;K"Script\Ectype\DXLM-Single\DXLMS-NPC-662.s"
+C;X4;K"Jump to the other side"
+C;Y983;X1;K663
+C;X2;K"Soulbind Pillar"
+C;X3;K"Script\Ectype\DXLM-Single\DXLMS-NPC-663.s"
+C;X4;K"Release Seal"
+C;Y984;X1;K664
+C;X2;K"Grudgebind Pillar"
+C;X3;K"Script\Ectype\DXLM-Single\DXLMS-NPC-664.s"
+C;X4;K"Touch the pillar"
+C;Y985;X1;K665
+C;X2;K"Wind Hole"
+C;X3;K"Script\Ectype\DXLM-Single\DXLMS-NPC-665.s"
+C;X4;K"Jump"
+C;X5;K"Check the writing on the stone"
+C;Y986;X1;K666
+C;X2;K"Rusty Lever"
+C;X3;K"Script\Ectype\DXLM-Single\DXLMS-NPC-666.s"
+C;X4;K"Pull the lever"
+C;Y987;X1;K667
+C;X2;K"Tunnel"
+C;X3;K"Script\Ectype\DXLM-Single\DXLMS-NPC-667.s"
+C;X4;K"Go in"
+C;Y988;X1;K668
+C;X2;K"Tunnel"
+C;X3;K"Script\Ectype\DXLM-Single\DXLMS-NPC-668.s"
+C;X4;K"Go in"
+C;Y989;X1;K669
+C;X2;K"Ward of Inversion"
+C;X3;K"Script\Ectype\DXLM-Single\DXLMS-NPC-669.s"
+C;X4;K"Activate"
+C;X5;K"Activate (In Cooldown)"
+C;Y990;X1;K670
+C;X2;K"Ward of Inversion"
+C;X3;K"Script\Ectype\DXLM-Single\DXLMS-NPC-670.s"
+C;X4;K"Activate"
+C;X5;K"Activate (In Cooldown)"
+C;Y991;X1;K671
+C;X2;K"Light Beam"
+C;X3;K"Script\Ectype\DXLM-Single\DXLMS-NPC-671.s"
+C;X4;K"Step into the light"
+C;Y992;X1;K672
+C;X2;K"Chest "
+C;X3;K"Script\Ectype\DXLM-Single\DXLMS-NPC-672.s"
+C;X4;K"Open Chest"
+C;Y993;X1;K673
+C;X2;K"Idol of Earth"
+C;X3;K"Script\Ectype\DXLM-Single\DXLMS-NPC-673.s"
+C;X4;K"Offer Earth Soul Stone"
+C;Y994;X1;K674
+C;X2;K"Idol of Sky"
+C;X3;K"Script\Ectype\DXLM-Single\DXLMS-NPC-674.s"
+C;X4;K"Offer Heaven Soul Stone"
+C;Y995;X1;K630
+C;X2;K"Recovery Crystal"
+C;X3;K"Script\Ectype\DXLM-Single\DXLMS-NPC-630.s"
+C;X4;K"Heal - 1000 Coin"
+C;X5;K"Temporarily leave Pangaea Catacomb"
+C;Y997;X1;K579
+C;X3;K"Script\Ectype\Dixialingmu\579-DXLM1-NPC-lingyun.s"
+C;X4;K"Enter Pangaea Catacomb"
+C;Y998;X1;K580
+C;X3;K"Script\Ectype\Dixialingmu\580-DXLM1-NPC-Lingaohan.s"
+C;X4;K"Lead the way!"
+C;Y999;X1;K681
+C;X3;K"Script\Ectype\Dixialingmu\681-DXLM1-NPC-Lingxiao.s"
+C;X4;K"Instance Option - Ocksin's Treachery"
+C;X5;K"Instance Option"
+C;Y1000;X1;K685
+C;X3;K"Script\Ectype\Dixialingmu\685-DXLM1-NPC-Lingxiao.s"
+C;X4;K"Open the gate"
+C;Y1001;X1;K581
+C;X3;K"Script\Ectype\Dixialingmu\581-DXLM1-NPC-zhuangzhuang.s"
+C;X4;K"Open the front gate"
+C;Y1002;X1;K582
+C;X3;K"Script\Ectype\Dixialingmu\582-DXLM1-NPC-xiaoxiao.s"
+C;X4;K"Let's get started then"
+C;Y1003;X1;K583
+C;X3;K"Script\Ectype\Dixialingmu\583-DXLM1-NPC-Lingaohan.s"
+C;X4;K"Is this reality?"
+C;X5;K"Instance Option"
+C;Y1004;X1;K591
+C;X3;K"Script\Ectype\Dixialingmu\DXLM1-NPC-jitanjiguan-591.s"
+C;X4;K"Activate Seal"
+C;Y1005;X1;K689
+C;X3;K"Script\Ectype\Dixialingmu\689-DXLM1-NPC-Qimeng.s"
+C;X4;K"Clear your conscience"
+C;X5;K"Receive Nirvana Mirror"
+C;Y1006;X1;K623
+C;X3;K"Script\Ectype\Dixialingmu\DXLM1-JGNPC-Men-623.s"
+C;X4;K"Open Nirvana Gateway"
+C;Y1007;X1;K622
+C;X3;K"Script\Ectype\Dixialingmu\DXLM1-CSNPC-Midao-622.s"
+C;X4;K"Enter Palace Secret Passage"
+C;Y1008;X1;K624
+C;X3;K"Script\Ectype\Dixialingmu\DXLM1-NPC-jian-624.s"
+C;X4;K"Break the seal"
+C;X5;K"Break the seal (unavailable)"
+C;Y1009;X1;K625
+C;X3;K"Script\Ectype\Dixialingmu\DXLM1-NPC-jian-625.s"
+C;X4;K"Break the seal"
+C;X5;K"Break the seal (unavailable)"
+C;Y1010;X1;K626
+C;X3;K"Script\Ectype\Dixialingmu\DXLM1-NPC-jian-626.s"
+C;X4;K"Break the seal"
+C;X5;K"Break the seal (unavailable)"
+C;Y1011;X1;K627
+C;X3;K"Script\Ectype\Dixialingmu\DXLM1-NPC-jian-627.s"
+C;X4;K"Break the seal"
+C;X5;K"Break the seal (unavailable)"
+C;Y1012;X1;K682
+C;X3;K"Script\Ectype\Dixialingmu\DXLM1-JGNPC-MenJia-682.s"
+C;X4;K"Open Nirvana Gateway"
+C;Y1013;X1;K683
+C;X3;K"Script\Ectype\Dixialingmu\683-DXLM1-NPC-Chukou.s"
+C;X4;K"Leave Pangaea Catacomb"
+C;X5;K"Enter the Observatory"
+C;X6;K"Back to Astrology Room"
+C;Y1015;X1;K680
+C;X3;K"Script\Ectype\Dixialingmu\DXLM3-CSNPC-Feier-680.s"
+C;X4;K"Instance Option - The Chaos Tyrant"
+C;X5;K"Instance Option"
+C;Y1016;X1;K585
+C;X3;K"Script\Ectype\Dixialingmu\585-DXLM3-NPC-Yuntian.s"
+C;X4;K"Pledge your oath"
+C;X5;K"Prove your worth"
+C;X6;K"Receive Tiger Talisman"
+C;Y1017;X1;K584
+C;X3;K"Script\Ectype\Dixialingmu\DXLM3-CSNPC-Feier-584.s"
+C;X4;K"Open Torment Gate"
+C;X5;K"Enter Secret Pathway-Reach Aqua Room Lower Level"
+C;Y1018;X1;K597
+C;X3;K"Script\Ectype\Dixialingmu\DXLM3-CSNPC-Midao-597.s"
+C;X4;K"Enter Portal"
+C;Y1019;X1;K690
+C;X3;K"Script\Ectype\Dixialingmu\690-DXLM3-JGNPC-Fengyin.s"
+C;X4;K"Acquit of guilt"
+C;Y1020;X1;K621
+C;X3;K"Script\Ectype\Dixialingmu\DXLM3-JGNPC-Fengyinzhu-621.s"
+C;X4;K"Show humility"
+C;Y1022;X1;K598
+C;X3;K"Script\Ectype\Dixialingmu\DXLM3-JGNPC-Jian11-598.s"
+C;X4;K"Pledge your oath"
+C;X5;K"How to pledge your oath"
+C;Y1023;X1;K599
+C;X3;K"Script\Ectype\Dixialingmu\DXLM3-JGNPC-Jian12-599.s"
+C;X4;K"Pledge your oath"
+C;X5;K"Get Oath Sword"
+C;X6;K"How to pledge your oath"
+C;Y1024;X1;K600
+C;X3;K"Script\Ectype\Dixialingmu\DXLM3-JGNPC-Jian13-600.s"
+C;X4;K"Pledge your oath"
+C;X5;K"Get Oath Sword"
+C;X6;K"How to pledge your oath"
+C;Y1025;X1;K601
+C;X3;K"Script\Ectype\Dixialingmu\DXLM3-JGNPC-Jian14-601.s"
+C;X4;K"Pledge your oath"
+C;X5;K"Get Oath Sword"
+C;X6;K"How to pledge your oath"
+C;Y1026;X1;K602
+C;X3;K"Script\Ectype\Dixialingmu\DXLM3-JGNPC-Jian15-602.s"
+C;X4;K"Pledge your oath"
+C;X5;K"Get Oath Sword"
+C;X6;K"How to pledge your oath"
+C;Y1027;X1;K603
+C;X3;K"Script\Ectype\Dixialingmu\DXLM3-JGNPC-Jian16-603.s"
+C;X4;K"Pledge your oath"
+C;X5;K"Get Oath Sword"
+C;X6;K"How to pledge your oath"
+C;Y1028;X1;K604
+C;X3;K"Script\Ectype\Dixialingmu\DXLM3-JGNPC-Jian17-604.s"
+C;X4;K"Pledge your oath"
+C;X5;K"Get Oath Sword"
+C;X6;K"How to pledge your oath"
+C;Y1029;X1;K605
+C;X3;K"Script\Ectype\Dixialingmu\DXLM3-JGNPC-Jian18-605.s"
+C;X4;K"Pledge your oath"
+C;X5;K"Get Oath Sword"
+C;X6;K"How to pledge your oath"
+C;Y1030;X1;K606
+C;X3;K"Script\Ectype\Dixialingmu\DXLM3-JGNPC-Jian19-606.s"
+C;X4;K"Pledge your oath"
+C;X5;K"Get Oath Sword"
+C;X6;K"How to pledge your oath"
+C;Y1032;X1;K607
+C;X3;K"Script\Ectype\Dixialingmu\DXLM3-JGNPC-Jian11-598.s"
+C;X4;K"Pledge your oath"
+C;X5;K"How to pledge your oath"
+C;Y1033;X1;K608
+C;X3;K"Script\Ectype\Dixialingmu\DXLM3-JGNPC-Jian12-599.s"
+C;X4;K"Pledge your oath"
+C;X5;K"Get Oath Sword"
+C;X6;K"How to pledge your oath"
+C;Y1034;X1;K609
+C;X3;K"Script\Ectype\Dixialingmu\DXLM3-JGNPC-Jian13-600.s"
+C;X4;K"Pledge your oath"
+C;X5;K"Get Oath Sword"
+C;X6;K"How to pledge your oath"
+C;Y1035;X1;K610
+C;X3;K"Script\Ectype\Dixialingmu\DXLM3-JGNPC-Jian14-601.s"
+C;X4;K"Pledge your oath"
+C;X5;K"Get Oath Sword"
+C;X6;K"How to pledge your oath"
+C;Y1036;X1;K611
+C;X3;K"Script\Ectype\Dixialingmu\DXLM3-JGNPC-Jian15-602.s"
+C;X4;K"Pledge your oath"
+C;X5;K"Get Oath Sword"
+C;X6;K"How to pledge your oath"
+C;Y1037;X1;K612
+C;X3;K"Script\Ectype\Dixialingmu\DXLM3-JGNPC-Jian16-603.s"
+C;X4;K"Pledge your oath"
+C;X5;K"Get Oath Sword"
+C;X6;K"How to pledge your oath"
+C;Y1038;X1;K613
+C;X3;K"Script\Ectype\Dixialingmu\DXLM3-JGNPC-Jian17-604.s"
+C;X4;K"Pledge your oath"
+C;X5;K"Get Oath Sword"
+C;X6;K"How to pledge your oath"
+C;Y1039;X1;K614
+C;X3;K"Script\Ectype\Dixialingmu\DXLM3-JGNPC-Jian18-605.s"
+C;X4;K"Pledge your oath"
+C;X5;K"Get Oath Sword"
+C;X6;K"How to pledge your oath"
+C;Y1040;X1;K615
+C;X3;K"Script\Ectype\Dixialingmu\DXLM3-JGNPC-Jian19-606.s"
+C;X4;K"Pledge your oath"
+C;X5;K"Get Oath Sword"
+C;X6;K"How to pledge your oath"
+C;Y1042;X1;K616
+C;X3;K"Script\Ectype\Dixialingmu\DXLM3-JGNPC-ZhenyanRed-616.s"
+C;X4;K"Activate Five Color Seal Red- 1 Blue Aurora"
+C;Y1043;X1;K617
+C;X3;K"Script\Ectype\Dixialingmu\DXLM3-JGNPC-ZhenyanYellow-617.s"
+C;X4;K"Activate Five Color Seal Yellow- 1 Blue Aurora"
+C;Y1044;X1;K618
+C;X3;K"Script\Ectype\Dixialingmu\DXLM3-JGNPC-ZhenyanBlue-618.s"
+C;X4;K"Activate Five Color Seal Blue - 1 Blue Aurora"
+C;Y1045;X1;K619
+C;X3;K"Script\Ectype\Dixialingmu\DXLM3-JGNPC-ZhenyanGreen-619.s"
+C;X4;K"Activate Five Color Seal Green- 1 Blue Aurora"
+C;Y1046;X1;K620
+C;X3;K"Script\Ectype\Dixialingmu\DXLM3-JGNPC-ZhenyanBlack-620.s"
+C;X4;K"Reset Seal--2 Blue Aurora"
+C;X5;K"Prove your worth"
+C;Y1048;X1;K684
+C;X3;K"Script\Ectype\Dixialingmu\684-DXLM3-NPC-Chukou.s"
+C;X4;K"Leave Pangaea Catacomb"
+C;X5;K"Enter the Observatory"
+C;X6;K"Back to Astrology Room"
+C;Y1049;X1;K596
+C;X3;K"Script\Ectype\Dixialingmu\596-DXLM3-NPC-Zihuanhuwei.s"
+C;X4;K"Open Imperial Gate"
+C;Y1050;X1;K646
+C;X3;K"Script\Ectype\Dixialingmu\646-DXLM3-NPC-Jiangeshouwei.s"
+C;X4;K"Enter the Sword Vault"
+C;Y1051;X1;K628
+C;X3;K"Script\Ectype\Dixialingmu\628-DXLM3-NPC-JG-Mengchenzhijian.s"
+C;X4;K"Release the Pangaea Seal"
+C;Y1052;X1;K629
+C;X3;K"Script\Ectype\Dixialingmu\629-DXLM3-NPC-JG-Shenjian.s"
+C;X4;K"Obtain Pangaea Sword"
+C;Y1053;X1;K631
+C;X3;K"Script\Ectype\Dixialingmu\631-DXLM3-NPC-Ice.s"
+C;X4;K"Get Frost Protection"
+C;Y1054;X1;K632
+C;X3;K"Script\Ectype\Dixialingmu\632-DXLM3-NPC-Fire.s"
+C;X4;K"Get Flame Protection"
+C;Y1055;X1;K633
+C;X3;K"Script\Ectype\Dixialingmu\633-DXLM3-NPC-JG-Guidao.s"
+C;X4;K"Destroy Tao of Cunning"
+C;Y1056;X1;K634
+C;X3;K"Script\Ectype\Dixialingmu\634-DXLM3-NPC-JG-Badao.s"
+C;X4;K"Destroy Tao of Might"
+C;Y1057;X1;K635
+C;X3;K"Script\Ectype\Dixialingmu\635-DXLM3-NPC-JG-Wangdao.s"
+C;X4;K"Destroy Tao of Sovereignty"
+C;Y1058;X1;K636
+C;X3;K"Script\Ectype\Dixialingmu\636-DXLM3-NPC-JG-Zhengdao.s"
+C;X4;K"Destroy Imperial Tao"
+C;Y1059;X1;K637
+C;X3;K"Script\Ectype\Dixialingmu\DXLM3-NPC-MN-Tianji-637.s"
+C;X4;K"Open Gate of Betrayal"
+C;Y1060;X1;K638
+C;X3;K"Script\Ectype\Dixialingmu\DXLM3-NPC-Zhongshumen-638.s"
+C;X4;K"Open Torment Gate"
+C;Y1062;X1;K688
+C;X3;K"Script\Ectype\Dixialingmu\DXLM2-CSNPC-Chukou-688.s"
+C;X4;K"Leave Pangaea Catacomb"
+C;Y1064;X1;K1503
+C;X2;K"Carnival Returnee Diamond"
+C;X3;K"Script\Npc\VIP-Duihuan-NPC-1503.s"
+C;X4;K"Exchange Diamond VIP Card for LV5 Gem Coin"
+C;X5;K"Exchange Diamond VIP Card for Oracle Ring Pack"
+C;Y1066;X1;K2466
+C;X3;K"Script\Ectype\baicengta\Ectype-baicengta-NPC-2466enter.s"
+C;Y1067;X1;K2467
+C;X3;K"Script\Ectype\baicengta\Ectype-baicengta-npc-2467.s"
+C;X4;K"Collect Reward and Enter Next Level"
+C;X5;K"Collect Reward and Enter Next Level"
+C;X6;K"Heal (Costs 10,000 Coins)"
+C;X7;K"Heal (Costs 20,000 Coins)"
+C;X8;K"Heal (Costs 30,000 Coins)"
+C;X9;K"Heal (Costs 40,000 Coins)"
+C;X10;K"Heal (Costs 50,000 Coins)"
+C;X11;K"Heal (Costs 60,000 Coins)"
+C;X12;K"Heal (Costs 70,000 Coins)"
+C;X13;K"Heal (Costs 80,000 Coins)"
+C;X14;K"Heal (Costs 90,000 Coins)"
+C;X15;K"Heal (Costs 100,000 Coins)"
+C;X16;K"Leave Endless Stairs"
+C;Y1068;X1;K2468
+C;X3;K"Script\Ectype\baicengta\Ectype-baicengta-2468.s"
+C;X4;K"Open Chest"
+C;Y1069;X1;K767
+C;X3;K"Script\Ectype\baicengta\Ectype-baicengta-npc767.s"
+C;X4;K"Collect Reward and Enter Next Level"
+C;X5;K"Leave Endless Stairs"
+C;Y1071;X1;K1116
+C;X3;K"Script\Npc\Gushoudao-linna.s"
+C;X4;K"Enter Ancient Beast Island (Requires Ancient Beast Island Teleportation Scroll)"
+C;X5;K"Return to Ancient Beast Island"
+C;Y1073;X1;K721
+C;X2;K"The Sepulcher"
+C;X3;K"Script\Ectype\Anxizhidi\npc-731-Anxi-Entrance.s"
+C;X4;K"Enter the Sepulcher"
+C;X5;K"Return to the Sepulcher"
+C;X6;K"Reset the Sepulcher"
+C;X7;K"Enter the Sepulcher (Daily Mode)"
+C;X8;K"Daily Quest (Return to the Sepulcher)"
+C;Y1074;X1;K726
+C;X2;K"Lightflash Altar"
+C;X3;K"Script\Ectype\Anxizhidi\npc-726-light.s"
+C;X4;K"Receive the Force of Nature"
+C;Y1075;X1;K728
+C;X2;K"Sepulcher Exit"
+C;X3;K"Script\Ectype\Anxizhidi\npc-728-Exit.s"
+C;X4;K"Leave the Sepulcher"
+C;Y1077;X1;K1630
+C;X2;K"Buyback Transactions"
+C;X3;K"Script\Npc\NPC-1630.s"
+C;X4;K"Exchange Glowstone for 10 Major Fortify Crystals"
+C;X5;K"Exchange Advanced Blessing Stone for 16 Major Fortify Crystals"
+C;Y1079;X1;K746
+C;X2;K"Radiant Entrance"
+C;X3;K"Script\Ectype\Glory\746-Entrance-Glory.s"
+C;X4;K"Enter Radiant Temple"
+C;X5;K"Return to Radiant Temple"
+C;X6;K"Team Leader Reset Radiant Temple"
+C;Y1080;X1;K747
+C;X2;K"Radiant Exit"
+C;X3;K"Script\Ectype\Glory\747-Exit-Glory.s"
+C;X4;K"Leave Radiant Temple"
+C;X5;K"Enter Island of Reverie (Requires Angel Heart)"
+C;X6;K"Return to the Island of Reverie"
+C;Y1081;X1;K748
+C;X2;K"Radiant Gate"
+C;X3;K"Script\Ectype\Glory\748-Leave-Glory.s"
+C;X4;K"Leave Radiant Temple"
+C;Y1082;X1;K749
+C;X2;K"Radiant Gate"
+C;X3;K"Script\Ectype\Glory\748-Leave-Glory.s"
+C;X4;K"Leave Radiant Temple"
+C;Y1084;X1;K736
+C;X3;K"Script\Npc\NPC-736-aruiszh.s"
+C;X4;K"Accept Destroyed Heart Quest"
+C;X5;K"Exchange LV15 Exalted for Soul Belt"
+C;X6;K"Exchange LV15 Exalted for Soul Boots"
+C;X7;K"Exchange LV15 Exalted for Soul Gloves"
+C;X8;K"Exchange LV15 Exalted for Soul Helm"
+C;X9;K"Exchange LV15 Exalted for Soul Greaves"
+C;X10;K"Exchange LV15 Exalted for Soul Armor"
+C;X11;K"Exchange LV15 Exalted for Soul Pauldrons"
+C;X12;K"Exchange LV15 Exalted for Soul Weapon"
+C;X13;K"Exchange LV15 Exalted for Soul Shield"
+C;Y1085;X1;K737
+C;X3;K"Script\Npc\NPC-737-yimierzh.s"
+C;X4;K"Exchange LV15 Exalted for Soul Belt"
+C;X5;K"Exchange LV15 Exalted for Soul Boots"
+C;X6;K"Exchange LV15 Exalted for Soul Gloves"
+C;X7;K"Exchange LV15 Exalted for Soul Helm"
+C;X8;K"Exchange LV15 Exalted for Soul Greaves"
+C;X9;K"Exchange LV15 Exalted for Soul Armor"
+C;X10;K"Exchange LV15 Exalted for Soul Pauldrons"
+C;X11;K"Exchange LV15 Exalted for Soul Weapon"
+C;X12;K"Exchange LV15 Exalted for Soul Shield"
+C;Y1087;X1;K941
+C;X3;K"Script\Npc\NPC-941-tianyu30.s"
+C;X4;K"Exchange LV30 Exalted Soul Belt"
+C;X5;K"Exchange LV30 Exalted Soul Boots"
+C;X6;K"Exchange LV30 Exalted Soul Gloves"
+C;X7;K"Exchange LV30 Exalted Soul Helm"
+C;X8;K"Exchange LV30 Exalted Soul Greaves"
+C;X9;K"Exchange LV30 Exalted Soul Armor"
+C;X10;K"Exchange LV30 Exalted Soul Pauldrons"
+C;X11;K"Exchange LV30 Exalted Soul Weapon"
+C;X12;K"Exchange LV30 Exalted Soul Shield"
+C;Y1088;X1;K942
+C;X3;K"Script\Npc\NPC-942-tianyu30.s"
+C;X4;K"Exchange LV30 Exalted Soul Belt"
+C;X5;K"Exchange LV30 Exalted Soul Boots"
+C;X6;K"Exchange LV30 Exalted Soul Gloves"
+C;X7;K"Exchange LV30 Exalted Soul Helm"
+C;X8;K"Exchange LV30 Exalted Soul Greaves"
+C;X9;K"Exchange LV30 Exalted Soul Armor"
+C;X10;K"Exchange LV30 Exalted Soul Pauldrons"
+C;X11;K"Exchange LV30 Exalted Soul Weapon"
+C;X12;K"Exchange LV30 Exalted Soul Shield"
+C;Y1090;X1;K776
+C;X2;K"Exalted 20 Main Quest"
+C;X3;K"Script\Npc\npc776.s"
+C;X4;K"Take the Spinning Needle"
+C;Y1091;X1;K777
+C;X2;K"Exalted 20 Main Quest"
+C;X3;K"Script\Npc\npc777.s"
+C;X4;K"Take the Enchanted Bowl"
+C;Y1092;X1;K779
+C;X2;K"Exalted 20 Main Quest"
+C;X3;K"Script\Npc\npc779.s"
+C;X4;K"Enter Ruins of the Ark (Scenario)"
+C;X5;K"Return to Ruins of the Ark"
+C;X6;K"Reset Ruins of the Ark"
+C;Y1093;X1;K780
+C;X2;K"Exalted 20 Main Quest"
+C;X3;K"Script\Npc\npc780.s"
+C;X4;K"To Twilight Zone"
+C;Y1094;X1;K782
+C;X2;K"Exalted 20 Main Quest"
+C;X3;K"Script\Npc\npc782.s"
+C;X4;K"Leave Ruins of the Ark"
+C;Y1096;X1;K751
+C;X2;K"Radiant Trap Statue"
+C;X3;K"Script\Ectype\Glory\751-LeftValve-Glory.s"
+C;X4;K"Examine Statue"
+C;Y1097;X1;K752
+C;X2;K"Radiant Trap Statue"
+C;X3;K"Script\Ectype\Glory\752-RightValve-Glory.s"
+C;X4;K"Inspect Statue"
+C;Y1098;X1;K753
+C;X2;K"Spirit of the God of Light"
+C;X3;K"Script\Ectype\Glory\753-Baldur.s"
+C;X4;K"Open Rainbow Bridge"
+C;X5;K"Accept the blessing from the God of Light"
+C;Y1100;X1;K798
+C;X2;K"Acasha"
+C;X3;K"Script\Npc\NPC-akasha-798.s"
+C;X4;K"Exchange Nightlight Stone"
+C;Y1102;X1;K2319
+C;X2;K"Christmas Tree"
+C;X3;K"Script\HuoDong\2012xinnian\npc-2319-Xmastree.s"
+C;X4;K"Water Christmas Tree"
+C;X5;K"Collect Christmas Present"
+C;Y1103;X1;K2320
+C;X2;K"Christmas Tree"
+C;X3;K"Script\HuoDong\2012xinnian\npc-2319-Xmastree.s"
+C;X4;K"Water Christmas Tree"
+C;X5;K"Collect Christmas Present"
+C;Y1104;X1;K2321
+C;X2;K"Christmas Tree"
+C;X3;K"Script\HuoDong\2012xinnian\npc-2319-Xmastree.s"
+C;X4;K"Water Christmas Tree"
+C;X5;K"Collect Christmas Present"
+C;Y1106;X1;K1761
+C;X2;K"Golden Key Quest"
+C;X3;K"Script\HuoDong\HD-jinzita-NPC-1761.s"
+C;X4;K"[Quest] Eternal Soul"
+C;X5;K"[Quest] Queen's Legacy"
+C;Y1107;X1;K1762
+C;X2;K"Golden Key Quest"
+C;X3;K"Script\HuoDong\HD-jinzita-NPC-1762.s"
+C;X4;K"[Quest] Beautiful Hope"
+C;Y1108;X1;K1758
+C;X2;K"Golden Key Quest"
+C;X3;K"Script\HuoDong\HD-jinzita-NPC-1758.s"
+C;X4;K"[Quest] Revenge"
+C;X5;K"[Quest] Solar God's Plate"
+C;Y1109;X1;K1759
+C;X2;K"Golden Key Quest"
+C;X3;K"Script\HuoDong\HD-jinzita-NPC-1759.s"
+C;X4;K"[Quest] Pray"
+C;Y1110;X1;K1763
+C;X2;K"Golden Key Quest"
+C;X3;K"Script\HuoDong\HD-jinzita-NPC-1763.s"
+C;X4;K"[Quest] Key to the Hexagram Array"
+C;Y1112;X1;K2322
+C;X2;K"Spring Lantern"
+C;X3;K"Script\HuoDong\2012xinnian\npc-2322-denglong.s"
+C;X4;K"Collect Spring Daily Blessing"
+C;X5;K"Collect Large Skysoaring Firecracker (19:00-21:00)"
+C;X6;K"Collect CNY Festival Beast Prize (After 20:15)"
+C;Y1113;X1;K2323
+C;X2;K"Spring Lantern"
+C;X3;K"Script\HuoDong\2012xinnian\npc-2322-denglong.s"
+C;X4;K"Collect Spring Daily Blessing"
+C;X5;K"Collect Large Skysoaring Firecracker (19:00-21:00)"
+C;X6;K"Collect CNY Festival Beast Prize (After 20:15)"
+C;Y1114;X1;K2324
+C;X2;K"Spring Lantern"
+C;X3;K"Script\HuoDong\2012xinnian\npc-2322-denglong.s"
+C;X4;K"Collect Spring Daily Blessing"
+C;X5;K"Collect Large Skysoaring Firecracker (19:00-21:00)"
+C;X6;K"Collect CNY Festival Beast Prize (After 20:15)"
+C;Y1115;X1;K2325
+C;X2;K"Spring Lantern"
+C;X3;K"Script\HuoDong\2012xinnian\npc-2322-denglong.s"
+C;X4;K"Collect Spring Daily Blessing"
+C;X5;K"Collect Large Skysoaring Firecracker (19:00-21:00)"
+C;X6;K"Collect CNY Festival Beast Prize (After 20:15)"
+C;Y1116;X1;K2326
+C;X2;K"Spring Lantern"
+C;X3;K"Script\HuoDong\2012xinnian\npc-2322-denglong.s"
+C;X4;K"Collect Spring Daily Blessing"
+C;X5;K"Collect Large Skysoaring Firecracker (19:00-21:00)"
+C;X6;K"Collect CNY Festival Beast Prize (After 20:15)"
+C;Y1117;X1;K2327
+C;X2;K"Spring Lantern"
+C;X3;K"Script\HuoDong\2012xinnian\npc-2322-denglong.s"
+C;X4;K"Collect Spring Daily Blessing"
+C;X5;K"Collect Large Skysoaring Firecracker (19:00-21:00)"
+C;X6;K"Collect CNY Festival Beast Prize (After 20:15)"
+C;Y1118;X1;K2328
+C;X2;K"Spring Lantern"
+C;X3;K"Script\HuoDong\2012xinnian\npc-2322-denglong.s"
+C;X4;K"Collect Spring Daily Blessing"
+C;X5;K"Collect Large Skysoaring Firecracker (19:00-21:00)"
+C;X6;K"Collect CNY Festival Beast Prize (After 20:15)"
+C;Y1119;X1;K2329
+C;X2;K"Spring Lantern"
+C;X3;K"Script\HuoDong\2012xinnian\npc-2322-denglong.s"
+C;X4;K"Collect Spring Daily Blessing"
+C;X5;K"Collect Large Skysoaring Firecracker (19:00-21:00)"
+C;X6;K"Collect CNY Festival Beast Prize (After 20:15)"
+C;Y1121;X1;K783
+C;X2;K"Golden Entrance"
+C;X3;K"Script\Ectype\GoldCoast\783_Entrance.s"
+C;X4;K"Enter Golden Coast"
+C;X5;K"Return to Golden Coast"
+C;X6;K"Team Leader Reset Golden Coast"
+C;Y1122;X1;K784
+C;X2;K"Captain Hatha"
+C;X3;K"Script\Ectype\GoldCoast\784_npc_Captain.s"
+C;X4;K"Collect Gunpowder"
+C;Y1123;X1;K785
+C;X2;K"Slime Obstacle"
+C;X3;K"Script\Ectype\GoldCoast\785_npc_NorthMask.s"
+C;X4;K"Blow up Obstacle"
+C;Y1125;X1;K787
+C;X2;K"Seal Pillar"
+C;X3;K"Script\Ectype\GoldCoast\787_npc_NorthMagic.s"
+C;X4;K"Try to Remove Seal"
+C;X5;K"Use Book of Magic to Remove Seal"
+C;X6;K"Unseal"
+C;Y1127;X1;K799
+C;X2;K"Satha"
+C;X3;K"Script\Ectype\magicyard\npc-799-shasha.s"
+C;X4;K"Begin Magic Training"
+C;X5;K"Collect Graduation Diploma"
+C;X6;K"Back to Atlantis"
+C;X7;K"Abandon today's quest"
+C;Y1129;X1;K794
+C;X2;K"Mysterious Portal"
+C;X3;K"Script\Ectype\GoldCoast\794_exit.s"
+C;X4;K"Abandon Golden Coast"
+C;Y1130;X1;K795
+C;X2;K"Mysterious Portal"
+C;X3;K"Script\Ectype\GoldCoast\794_exit.s"
+C;X4;K"Abandon Golden Coast"
+C;Y1131;X1;K796
+C;X2;K"Mysterious Portal"
+C;X3;K"Script\Ectype\GoldCoast\796_SouthIsland_exit.s"
+C;X4;K"Abandon Golden Coast"
+C;X5;K"Return to Naga Queen"
+C;Y1133;X1;K791
+C;X2;K"Unknown Blackhole"
+C;X3;K"Script\Ectype\GoldCoast\791_npc_NorthTrans.s"
+C;X4;K"Enter the Blackhole"
+C;X5;K"Enter the Blackhole"
+C;Y1134;X1;K786
+C;X2;K"Block Obstacle"
+C;X3;K"Script\Ectype\GoldCoast\786_npc_SouthMask.s"
+C;X4;K"Blow up Obstacle"
+C;Y1135;X1;K788
+C;X2;K"Naga Queen"
+C;X3;K"Script\Ectype\GoldCoast\788_npc_SouthMagic.s"
+C;X4;K"Challenge the Strongest Warrior"
+C;X5;K"Challenge the Largest Warrior"
+C;X6;K"Challenge the Naga Warrior"
+C;X7;K"Summon Naga Magic"
+C;Y1136;X1;K792
+C;X2;K"Unknown Maelstrom"
+C;X3;K"Script\Ectype\GoldCoast\792_npc_SouthTrans.s"
+C;X4;K"Enter Whirlpool"
+C;X5;K"Enter Whirlpool"
+C;Y1137;X1;K793
+C;X2;K"Naga Queen"
+C;X3;K"Script\Ectype\GoldCoast\793_npc_h_Nvwang.s"
+C;X4;K"Return Cursed Magic Vial"
+C;Y1138;X1;K797
+C;X2;K"Alfheim"
+C;X3;K"Script\Ectype\GoldCoast\797_cure_trans.s"
+C;X4;K"Heal"
+C;Y1140;X1;K24
+C;X2;K"Misha"
+C;X3;K"Script\HuoDong\zhounianQ3\ZNQ3-npc-24.s"
+C;X4;K"Daily Sign-in"
+C;X5;K"Check Sign-in Days"
+C;X6;K"Check Sign-in Reward"
+C;X7;K"Accept Misha's Blessings"
+C;X8;K"Exchange Fortify Crystal (1 Elemental Card)"
+C;X9;K"Exchange Double EXP Stone (2 Elemental Cards)"
+C;X10;K"Exchange Major Fortify Crystal (3 Elemental Cards)"
+C;Y1142;X1;K800
+C;X2;K"Exchange 115 Set [mapid396]"
+C;X3;K"Script\Ectype\TiTan\Ectype-Titan-Npc-800.s"
+C;X4;K"I am"
+C;X5;K"sprout seller"
+C;X6;K"Accept Titan Aura Quest"
+C;X7;K"Infuse Soul into: Old Gods' Soul Gloves"
+C;X8;K"Infuse Soul into: Old Gods' Soul Belt"
+C;X9;K"Infuse Soul into: Old Gods' Soul Helm"
+C;X10;K"Infuse Soul into: Old Gods' Soul Armor"
+C;X11;K"Infuse Soul into: Old Gods' Soul Greaves"
+C;X12;K"Infuse Soul into: Old Gods' Soul Boots"
+C;X13;K"Infuse Soul into: Old Gods' Soul Pauldrons"
+C;X14;K"Infuse Soul into: Old Gods' Soul Weapon"
+C;X15;K"Infuse Soul into: Old Gods' Soul Shield"
+C;Y1143;X1;K762
+C;X2;K"Paidia - Exalted Guide"
+C;X3;K"Script\Npc\NPC-nana-762.s"
+C;X4;K"Trade 900 million EXP for 600,000 Exaltation"
+C;Y1145;X1;K953
+C;X2;K"Featuring: {#FF86040D=New Leveling Maps#}\n New Safe Zones: Fate's Expanse\n New Neutral Zone: Titan Estate"
+C;X3;K"Script\HuoDong\NPC-953-mila.s"
+C;X4;K"Egg Yolk Mooncake Exchange - Fortify Crystal x10"
+C;X5;K"Lotus Paste Mooncake Exchange - Fortify Crystal x10"
+C;X6;K"Ham Mooncake Exchange - Fortify Crystal x10"
+C;X7;K"Red Bean Mooncake Exchange - Fortify Crystal x10"
+C;X8;K"Mooncake Box Exchange - Major Fortify Crystal x1"
+C;X9;K"Combine Mid-Autumn Festival Gift Box (Grand Prize)"
+C;Y1146;X1;K1722
+C;X2;K"Atlantis' Revenge"
+C;X3;K"Script\HuoDong\HD-yatelandisidefuchou-NPC-1722.s"
+C;X4;K"Take Atlantis' Revenge Quest"
+C;X5;K"12 Overlord Proof Exchange for Vendetta Order"
+C;Y1148;X1;K1574
+C;X2;K"Summer Camp Treasure Exchange "
+C;X3;K"Script\HuoDong\2012Summer_npc_1574.s"
+C;X4;K"Exchange: Advanced Fortify Gem - Legendary Nocturnal Pearl (Unidentified)"
+C;X5;K"Exchange: Universe Emblem Fragment - Anubis' Judgment (Unidentified)"
+C;X6;K"Exchange: Universe Emblem Fragment - Conqueror's Gold Helm (Unidentified)"
+C;X7;K"Exchange: Seal Removal Stone Fragment - Nether Classics (Unidentified)"
+C;X8;K"Exchange: Seal Removal Stone Fragment - Death's Scythe (Unidentified)"
+C;X9;K"Exchange: Enhancement Fortify Stone - Horus' Piccolo(Unidentified)"
+C;X10;K"Exchange: Fortify Crystal - World Tree Branch (Unidentified)"
+C;Y1150;X1;K801
+C;X2;K"BOI DJ Tata"
+C;X3;K"Script\HuoDong\npc-801&802.s"
+C;X4;K"Take Quest - BOI DJ Treasure"
+C;X5;K"Satisfy DJ's Wish"
+C;Y1151;X1;K802
+C;X2;K"BOI DJ Dorry"
+C;X3;K"Script\HuoDong\npc-801&802.s"
+C;X4;K"Take Quest - BOI DJ Treasure"
+C;X5;K"Satisfy DJ's Wish"
+C;Y1153;X1;K803
+C;X3;K"Script\HuoDong\HD-caihongjiejie.s"
+C;X4;K"Teleport to Dream Rainbow Valley"
+C;X5;K"Return to Dream Rainbow Valley"
+C;X6;K"Rainbow Barrier"
+C;Y1154;X1;K804
+C;X3;K"Script\HuoDong\HD-caihongjiejie-zuanshi1.s"
+C;X4;K"Unlock Rainbow Barrier"
+C;Y1155;X1;K805
+C;X3;K"Script\HuoDong\HD-caihongjiejie-zuanshi2.s"
+C;X4;K"Unlock Rainbow Barrier"
+C;Y1156;X1;K806
+C;X3;K"Script\HuoDong\HD-caihongjiejie-zuanshi3.s"
+C;X4;K"Unlock Rainbow Barrier"
+C;Y1157;X1;K807
+C;X3;K"Script\HuoDong\HD-caihongjiejie-zuanshi4.s"
+C;X4;K"Unlock Rainbow Barrier"
+C;Y1158;X1;K808
+C;X3;K"Script\HuoDong\HD-caihongjiejie-zuanshi5.s"
+C;X4;K"Unlock Rainbow Barrier"
+C;Y1159;X1;K809
+C;X3;K"Script\HuoDong\HD-caihongjiejie-zuanshi6.s"
+C;X4;K"Unlock Rainbow Barrier"
+C;Y1160;X1;K810
+C;X3;K"Script\HuoDong\HD-caihongjiejie-zuanshi7.s"
+C;X4;K"Unlock Rainbow Barrier"
+C;Y1161;X1;K811
+C;X3;K"Script\HuoDong\HD-caihonggu.s"
+C;X4;K"Teleport to Rainbow Valley"
+C;X5;K"Rainbow Crystal"
+C;X6;K"Rainbow Protection"
+C;X7;K"Rainbow Seal"
+C;X8;K"Open Rainbow Chest"
+C;X9;K"Quit and get rewards"
+C;Y1162;X1;K812
+C;X3;K"Script\HuoDong\HD-caihongshuijing1.s"
+C;X4;K"Receive Rainbow Crystal"
+C;Y1163;X1;K813
+C;X3;K"Script\HuoDong\HD-caihongshuijing2.s"
+C;X4;K"Receive Rainbow Crystal"
+C;Y1164;X1;K814
+C;X3;K"Script\HuoDong\HD-caihongshuijing3.s"
+C;X4;K"Receive Rainbow Crystal"
+C;Y1165;X1;K815
+C;X3;K"Script\HuoDong\HD-caihongshuijing4.s"
+C;X4;K"Receive Rainbow Crystal"
+C;Y1166;X1;K816
+C;X3;K"Script\HuoDong\HD-caihongshuijing5.s"
+C;X4;K"Receive Rainbow Crystal"
+C;Y1167;X1;K817
+C;X3;K"Script\HuoDong\HD-caihongshuijing6.s"
+C;X4;K"Receive Rainbow Crystal"
+C;Y1168;X1;K818
+C;X3;K"Script\HuoDong\HD-caihongshuijing7.s"
+C;X4;K"Receive Rainbow Crystal"
+C;Y1169;X1;K880
+C;X3;K"Script\Npc\NPC-880.s"
+C;X4;K"Recover Treasure Secret"
+C;Y1170;X1;K891
+C;X2;K"?"
+C;X3;K"Script\HuoDong\mingyun\NPC-891.s"
+C;X4;K"Look for Treasure"
+C;Y1171;X1;K892
+C;X2;K"?"
+C;X3;K"Script\HuoDong\mingyun\NPC-892.s"
+C;X4;K"Look for Treasure"
+C;Y1172;X1;K893
+C;X2;K"?"
+C;X3;K"Script\HuoDong\mingyun\NPC-893.s"
+C;X4;K"Look for Treasure"
+C;Y1173;X1;K894
+C;X2;K"?"
+C;X3;K"Script\HuoDong\mingyun\NPC-894.s"
+C;X4;K"Look for Treasure"
+C;Y1174;X1;K895
+C;X2;K"?"
+C;X3;K"Script\HuoDong\mingyun\NPC-895.s"
+C;X4;K"Look for Treasure"
+C;Y1175;X1;K896
+C;X2;K"?"
+C;X3;K"Script\HuoDong\mingyun\NPC-896.s"
+C;X4;K"Look for Treasure"
+C;Y1176;X1;K897
+C;X2;K"?"
+C;X3;K"Script\HuoDong\mingyun\NPC-897.s"
+C;X4;K"Look for Treasure"
+C;Y1177;X1;K898
+C;X2;K"?"
+C;X3;K"Script\HuoDong\mingyun\NPC-898.s"
+C;X4;K"Look for Treasure"
+C;Y1178;X1;K899
+C;X2;K"?"
+C;X3;K"Script\HuoDong\mingyun\NPC-899.s"
+C;X4;K"Look for Treasure"
+C;Y1179;X1;K900
+C;X2;K"?"
+C;X3;K"Script\HuoDong\mingyun\NPC-900.s"
+C;X4;K"Look for Treasure"
+C;Y1180;X1;K901
+C;X2;K"?"
+C;X3;K"Script\HuoDong\mingyun\NPC-901.s"
+C;X4;K"Look for Treasure"
+C;Y1181;X1;K902
+C;X2;K"?"
+C;X3;K"Script\HuoDong\mingyun\NPC-902.s"
+C;X4;K"Look for Treasure"
+C;Y1183;X1;K2469
+C;X3;K"Script\Npc\NPC-Falake-2469.s"
+C;X4;K"Take Weekly Guild Honor Coin"
+C;X5;K"Exchange Radiance Crystal Pack"
+C;Y1185;X1;K1723
+C;X3;K"Script\Npc\datanbao-npc-1723.s"
+C;X4;K"Enter - Gate of Fate"
+C;X5;K"Return - Gate of Fate"
+C;Y1186;X1;K854
+C;X3;K"Script\Monster\mingyun\datanbao-npc-854.s"
+C;X4;K"Choose 1 as the lucky number"
+C;X5;K"Choose 2 as the lucky number"
+C;X6;K"Choose 3 as the lucky number"
+C;X7;K"Choose 4 as the lucky number"
+C;X8;K"Choose 5 as the lucky number"
+C;X9;K"Choose 6 as the lucky number"
+C;X10;K"Enter next stage"
+C;X11;K"Exit Gate of Fate"
+C;Y1187;X1;K905
+C;X3;K"Script\Monster\mingyun\datanbao-npc-905.s"
+C;X4;K"Enter the last stage"
+C;X5;K"Exit Instance"
+C;Y1189;X1;K856
+C;X2;K"Notus"
+C;X3;K"Script\Ectype\Cristalking\NPC-856-Mason.s"
+C;X4;K"Guild Registration for Throne of Boreas (Before 19:55)"
+C;X5;K"Summon Guild Members (19:55-20:05)"
+C;X6;K"Board The Zephyr (20:00-20:20)"
+C;X7;K"To Eurus' Wasteland (After 20:25)"
+C;X8;K"Check Your Guild's Ranking on The Zephyr"
+C;X9;K"Collect Participation Reward for The Zephyr"
+C;X10;K"Collect Throne of Boreas Champion Reward"
+C;X11;K"Return to Throne of Boreas"
+C;Y1190;X1;K857
+C;X2;K"Left Control Panel"
+C;X3;K"Script\Ectype\Cristalking\NPC-857-skycon-L.s"
+C;X4;K"Demonize Guards (1 Zephyr Point)"
+C;X5;K"Create Thundercloud (1 Zephyr Point)"
+C;X6;K"Create Blizzard (1 Zephyr Point)"
+C;X7;K"Summon High Score Guards (1 Zephyr Point)"
+C;X8;K"Summon Ancient Westerwind (1 Zephyr Point)"
+C;X9;K"Area A"
+C;X10;K"Area B"
+C;X11;K"Area C"
+C;X12;K"Area D"
+C;Y1191;X1;K858
+C;X2;K"Right Control Panel"
+C;X3;K"Script\Ectype\Cristalking\NPC-858-skycon-R.s"
+C;X4;K"Demonize Guards (1 Zephyr Point)"
+C;X5;K"Create Thundercloud (1 Zephyr Point)"
+C;X6;K"Create Blizzard (1 Zephyr Point)"
+C;X7;K"Summon High Score Guards (1 Zephyr Point)"
+C;X8;K"Summon Ancient Westerwind (1 Zephyr Point)"
+C;X9;K"Area A"
+C;X10;K"Area B"
+C;X11;K"Area C"
+C;X12;K"Area D"
+C;Y1192;X1;K859
+C;X2;K"Left Exit "
+C;X3;K"Script\Ectype\Cristalking\NPC-859-skyExit-L.s"
+C;X4;K"Back to Atlantis"
+C;X5;K"To Eurus' Wasteland (After 20:25)"
+C;Y1193;X1;K860
+C;X2;K"Right Exit "
+C;X3;K"Script\Ectype\Cristalking\NPC-860-skyExit-R.s"
+C;X4;K"Back to Atlantis"
+C;X5;K"To Eurus' Wasteland (After 20:25)"
+C;Y1194;X1;K861
+C;X2;K"Spawn Point Teleporter"
+C;X3;K"Script\Ectype\Cristalking\NPC-861-cstRev-L.s"
+C;X4;K"To the other Spawn Point"
+C;X5;K"Exit Throne of Boreas (No Return)"
+C;Y1195;X1;K862
+C;X2;K"Spawn Point Teleporter"
+C;X3;K"Script\Ectype\Cristalking\NPC-862-cstRev-R.s"
+C;X4;K"To the other Spawn Point"
+C;X5;K"Exit Throne of Boreas (No Return)"
+C;Y1196;X1;K863
+C;X2;K"Throne Teleportation"
+C;X3;K"Script\Ectype\Cristalking\NPC-863-cstKin-L.s"
+C;X4;K"Teleport to platform ahead"
+C;Y1197;X1;K864
+C;X2;K"Throne Teleportation"
+C;X3;K"Script\Ectype\Cristalking\NPC-864-cstKin-R.s"
+C;X4;K"Teleport to platform ahead"
+C;Y1198;X1;K865
+C;X2;K"Ruins Portal"
+C;X3;K"Script\Ectype\Cristalking\NPC-865-cstExit.s"
+C;X4;K"Exit Throne of Boreas"
+C;Y1199;X1;K866
+C;X2;K"Throne of Boreas Portal"
+C;X3;K"Script\Ectype\Cristalking\NPC-866-endDoor.s"
+C;X4;K"Take Key of Boreas (Party Leader)"
+C;X5;K"Enter Throne of Boreas (Party Leader)"
+C;Y1200;X1;K867
+C;X2;K"Exit"
+C;X3;K"Script\Ectype\Cristalking\NPC-867-endExit.s"
+C;X4;K"Leave Eurus' Wasteland"
+C;Y1202;X1;K887
+C;X3;K"Script\Npc\npc-887.s"
+C;X4;K"Exit Gaia's Dwelling"
+C;Y1203;X1;K883
+C;X3;K"Script\Ectype\Ectype-Npc-883.s"
+C;X4;K"Exit Gaia's Dwelling"
+C;Y1204;X1;K889
+C;X3;K"Script\Npc\NPC-889.s"
+C;X4;K"Enter Gaia's Dwelling Scenario Instance"
+C;X5;K"Return to Gaia's Dwelling Scenario Instance"
+C;X6;K"Reset Instance"
+C;Y1206;X1;K819
+C;X2;K"Fae Shrine EA Enter"
+C;X3;K"Script\Ectype\ElfAltar\819-Entrance.s"
+C;X4;K"Start Adventure (At least three members)"
+C;X5;K"Return to Fae Shrine"
+C;X6;K"Leader Reset Fae Shrine"
+C;Y1207;X1;K820
+C;X2;K"EA Exit & Heal"
+C;X3;K"Script\Ectype\ElfAltar\820-Leave-Cure.s"
+C;X4;K"Exit Fae Shrine"
+C;X5;K"Receive Healing"
+C;X6;K"Continue Adventuring"
+C;Y1208;X1;K821
+C;X2;K"EA Exit"
+C;X3;K"Script\Ectype\ElfAltar\821-Exit.s"
+C;X4;K"Exit Fae Shrine"
+C;Y1209;X1;K824
+C;X2;K"The 3rd Gate"
+C;X3;K"Script\Ectype\ElfAltar\824-Mask3.s"
+C;Y1210;X1;K825
+C;X2;K"BOSS1"
+C;X3;K"Script\Ectype\ElfAltar\825-Boss1.s"
+C;Y1211;X1;K826
+C;X2;K"BOSS2"
+C;X3;K"Script\Ectype\ElfAltar\826-Boss2.s"
+C;Y1212;X1;K827
+C;X2;K"BOSS3"
+C;X3;K"Script\Ectype\ElfAltar\827-Boss3.s"
+C;Y1213;X1;K828
+C;X2;K"Flame Teleportation"
+C;X3;K"Script\Ectype\ElfAltar\828-TransFire.s"
+C;Y1214;X1;K829
+C;X2;K"Close Magic Wall"
+C;X3;K"Script\Ectype\ElfAltar\829-MagicCloseWall.s"
+C;X4;K"Blow the Magic Horn"
+C;Y1215;X1;K830
+C;X2;K"Flame Teleportation (Return)"
+C;X3;K"Script\Ectype\ElfAltar\830-TransBackFire.s"
+C;Y1216;X1;K831
+C;X2;K"Goddess of Fate Listening to Confession"
+C;X3;K"Script\Ectype\ElfAltar\831-FateGoddess.s"
+C;X4;K"Need more coins"
+C;X5;K"Need more gems"
+C;X6;K"Need more crystals"
+C;Y1217;X1;K833
+C;X2;K"Goddess of Luck"
+C;X3;K"Script\Ectype\ElfAltar\833-FortuneGoddess.s"
+C;Y1219;X1;K868
+C;X2;K"Wasteland Healing"
+C;X3;K"Script\Ectype\Cristalking\NPC-868-endHeal.s"
+C;X4;K"Heal (Costs Coins)"
+C;Y1221;X1;K44
+C;X2;K"Divac's Soul"
+C;X3;K"Script\Card\NPC\NPC-44.s"
+C;Y1222;X1;K903
+C;X2;K"Arethusa"
+C;X3;K"Script\Card\NPC\NPC-903.s"
+C;X4;K"Accept Arethusa's Request"
+C;X5;K"Complete Arethusa's Request"
+C;Y1223;X1;K904
+C;X2;K"Rullamas"
+C;X3;K"Script\Card\NPC\NPC-904.s"
+C;X4;K"Accept Exile's Entreaty"
+C;X5;K"Complete Request and Take Reward"
+C;Y1224;X1;K906
+C;X2;K"Arethusa"
+C;X3;K"Script\Card\NPC\NPC-906.s"
+C;X4;K"Accept Arethusa's Request"
+C;X5;K"Complete Arethusa's Request"
+C;Y1225;X1;K907
+C;X2;K"Arethusa"
+C;X3;K"Script\Card\NPC\NPC-907.s"
+C;X4;K"Accept Arethusa's Request"
+C;X5;K"Complete Arethusa's Request"
+C;Y1226;X1;K908
+C;X2;K"Arethusa"
+C;X3;K"Script\Card\NPC\NPC-908.s"
+C;X4;K"Accept Arethusa's Request"
+C;X5;K"Complete Arethusa's Request"
+C;Y1227;X1;K909
+C;X2;K"Arethusa"
+C;X3;K"Script\Card\NPC\NPC-909.s"
+C;X4;K"Accept Arethusa's Request"
+C;X5;K"Complete Arethusa's Request"
+C;Y1229;X1;K910
+C;X3;K"Script\HuoDong\2012shengmingzhishu\NPC-shengmingzhiquan.s"
+C;X4;K"Gather Fountain Water"
+C;Y1230;X1;K911
+C;X3;K"Script\HuoDong\2012shengmingzhishu\NPC-shengmingzhiquan.s"
+C;X4;K"Gather Fountain Water"
+C;Y1231;X1;K912
+C;X3;K"Script\HuoDong\2012shengmingzhishu\NPC-shengmingzhiquan.s"
+C;X4;K"Gather Fountain Water"
+C;Y1232;X1;K913
+C;X3;K"Script\HuoDong\2012shengmingzhishu\NPC-shengmingzhiquan.s"
+C;X4;K"Gather Fountain Water"
+C;Y1233;X1;K914
+C;X3;K"Script\HuoDong\2012shengmingzhishu\NPC-shengmingzhiquan.s"
+C;X4;K"Gather Fountain Water"
+C;Y1234;X1;K915
+C;X3;K"Script\HuoDong\2012shengmingzhishu\NPC-shengmingzhiquan.s"
+C;X4;K"Gather Fountain Water"
+C;Y1235;X1;K916
+C;X3;K"Script\HuoDong\2012shengmingzhishu\NPC-shengmingzhiquan.s"
+C;X4;K"Gather Fountain Water"
+C;Y1236;X1;K917
+C;X3;K"Script\HuoDong\2012shengmingzhishu\NPC-shengmingzhiquan.s"
+C;X4;K"Gather Fountain Water"
+C;Y1237;X1;K918
+C;X3;K"Script\HuoDong\2012shengmingzhishu\NPC-shengmingzhiquan.s"
+C;X4;K"Gather Fountain Water"
+C;Y1238;X1;K919
+C;X3;K"Script\HuoDong\2012shengmingzhishu\NPC-shengmingzhishu.s"
+C;X4;K"Cannot gather Fountain Water during the collection event"
+C;Y1240;X1;K1538
+C;X2;K"Reis"
+C;X3;K"Script\HuoDong\petCarnival\NPC-1538-les.s"
+C;X4;K"Use Reis' Potion to alter Pet's personality"
+C;Y1241;X1;K928
+C;X2;K"Pumpkin Elder Brother"
+C;X3;K"Script\HuoDong\2012Halloween\928-NPC-Halloween.s"
+C;X4;K"Happy Halloween!"
+C;Y1242;X1;K929
+C;X2;K"Pumpkin Elder Sister"
+C;X3;K"Script\HuoDong\2012Halloween\929-NPC-Halloween.s"
+C;X4;K"Happy Halloween!"
+C;Y1243;X1;K930
+C;X2;K"Pumpkin Little Sister"
+C;X3;K"Script\HuoDong\2012Halloween\930-NPC-Halloween.s"
+C;X4;K"Happy Halloween!"
+C;Y1244;X1;K931
+C;X2;K"Pumpkin Little Brother"
+C;X3;K"Script\HuoDong\2012Halloween\931-NPC-Halloween.s"
+C;X4;K"Happy Halloween!"
+C;Y1245;X1;K932
+C;X2;K"Papa Pumpkin"
+C;X3;K"Script\HuoDong\2012Halloween\932-NPC-Halloween.s"
+C;X4;K"Participate in Parade Event"
+C;X5;K"Collect Event Prize"
+C;Y1246;X1;K927
+C;X2;K"Mysterious Pumpkin"
+C;X3;K"Script\HuoDong\2012Halloween\927-NPC-Halloween.s"
+C;X4;K"1 Incomplete Pumpkin (Halloween Gift Box)"
+C;X5;K"1 Incomplete Pumpkin (Halloween Hairstyle)"
+C;X6;K"10 Incomplete Pumpkins (Major Fortify Crystal)"
+C;X7;K"200 Incomplete Pumpkins (Deluxe Back Gear Fashion)"
+C;X8;K"Happy Halloween!"
+C;Y1248;X1;K945
+C;X3;K"Script\Npc\NPC-945.s"
+C;X4;K"Pilfer Strange Mask"
+C;Y1250;X1;K950
+C;X3;K"Script\Npc\NPC-950.s"
+C;X4;K"Enter Besieged Atlantis"
+C;X5;K"Return to Besieged Atlantis"
+C;X6;K"Reset Besieged Atlantis"
+C;Y1252;X1;K1710
+C;X2;K"Fairground of the Battle of The Immortals"
+C;X3;K"Script\Ectype\Disneyland\1710-Disneyland-Entrance.s"
+C;X4;K"Enter - BoI Wonderland"
+C;X5;K"Return to - BoI Wonderland"
+C;X6;K"Participate in Bang-Up Time"
+C;X7;K"Return to Bang-Up Time"
+C;Y1253;X1;K848
+C;X2;K"Portal"
+C;X3;K"Script\Ectype\Disneyland\848-Exit.s"
+C;X4;K"Leave Wonderland"
+C;Y1254;X1;K838
+C;X2;K"Portal of Penetralium"
+C;X3;K"Script\Ectype\Disneyland\848-Exit.s"
+C;X4;K"Leave Wonderland"
+C;Y1255;X1;K839
+C;X2;K"Arch Priest"
+C;X3;K"Script\Ectype\Disneyland\FireIntheHole\839_NPC_Exit_Start.s"
+C;X4;K"Return to Atlantis"
+C;X5;K"Start"
+C;Y1257;X1;K835
+C;X2;K"Castle Hartlis Entrance NPC"
+C;X3;K"Script\Ectype\NoMercy\835-Entrance.s"
+C;X4;K"Easy Mode (1 - 3 people)"
+C;X5;K"Normal Mode (2 - 6 people)"
+C;X6;K"Return to Castle Hartlis"
+C;X7;K"Reset Heartless Canyon"
+C;X8;K"Accept Holy Heart Quest"
+C;Y1258;X1;K836
+C;X2;K"Heartless Canyon Exit and Heal"
+C;X3;K"Script\Ectype\NoMercy\836-Leave-Cure.s"
+C;X4;K"Leave Castle Hartlis"
+C;X5;K"Receive Healing"
+C;X6;K"Continue Adventuring"
+C;Y1259;X1;K837
+C;X2;K"Castle Hartlis Exit"
+C;X3;K"Script\Ectype\NoMercy\837-Exit.s"
+C;X4;K"Leave Castle Hartlis"
+C;X5;K"Enter Keep - Use Heartless Seal"
+C;Y1260;X1;K840
+C;X2;K"Castle Hartlis Portal"
+C;X3;K"Script\Ectype\NoMercy\840-Exit.s"
+C;X4;K"Leave Castle Hartlis"
+C;Y1261;X1;K841
+C;X2;K"Castle Hartlis Portal"
+C;X3;K"Script\Ectype\NoMercy\841-Trans.s"
+C;X4;K"Through Portal"
+C;Y1263;X1;K2343
+C;X2;K"Pursuit of Rapture Guide"
+C;X3;K"Script\HuoDong\SpiralSacred\NPC-START.s"
+C;X4;K"Begin Pursuit of Rapture Journey"
+C;Y1264;X1;K2344
+C;X2;K"Thorny Wall"
+C;X3;K"Script\HuoDong\SpiralSacred\NPC-luzhang.s"
+C;X4;K"Set on top left-hand platform"
+C;X5;K"Set on top platform"
+C;X6;K"Set on top right-hand platform"
+C;X7;K"Set on right-hand platform"
+C;X8;K"Set on bottom right-hand platform"
+C;X9;K"Set on bottom platform"
+C;X10;K"Set on bottom left-hand platform"
+C;X11;K"Set on left-hand platform"
+C;Y1265;X1;K2345
+C;X2;K"Magic Landmine"
+C;X3;K"Script\HuoDong\SpiralSacred\NPC-dilei.s"
+C;X4;K"Set on top left-hand platform"
+C;X5;K"Set on top platform"
+C;X6;K"Set on top right-hand platform"
+C;X7;K"Set on right-hand platform"
+C;X8;K"Set on bottom right-hand platform"
+C;X9;K"Set on bottom platform"
+C;X10;K"Set on bottom left-hand platform"
+C;X11;K"Set on left-hand platform"
+C;Y1267;X1;K2330
+C;X2;K"Santa Claus"
+C;X3;K"Script\HuoDong\2012Xmas-newyear\npc-2330-XmasMan.s"
+C;X4;K"Merry Christmas!"
+C;X5;K"Collect Final Victory Gift Pack"
+C;Y1268;X1;K2331
+C;X2;K"Dada"
+C;X3;K"Script\HuoDong\2012Xmas-newyear\npc-2331-Run-Dada.s"
+C;X4;K"Collect Previous Quiz's Prize"
+C;X5;K"View Current Victories"
+C;X6;K"View Past Records"
+C;X7;K"Expired Lucky Jade Exchange Item"
+C;Y1269;X1;K2332
+C;X2;K"Pick - Emerald Dragon"
+C;X3;K"Script\HuoDong\2012Xmas-newyear\npc-2332-qinglong.s"
+C;X4;K"1 Blessing for Emerald Dragon"
+C;X5;K"10 Blessings for Emerald Dragon"
+C;X6;K"100 Blessings for Emerald Dragon"
+C;X7;K"All blessings to the Emerald Dragon!"
+C;X8;K"View My Blessings"
+C;X9;K"Purchase today's 2 Lucky Jades - 500,000 Coins"
+C;Y1270;X1;K2333
+C;X2;K"Pick - White Tiger"
+C;X3;K"Script\HuoDong\2012Xmas-newyear\npc-2333-baihu.s"
+C;X4;K"1 Blessing for White Tiger"
+C;X5;K"10 Blessings for White Tiger"
+C;X6;K"100 Blessings for White Tiger"
+C;X7;K"All blessings to the White Tiger!"
+C;X8;K"View My Blessings"
+C;X9;K"Purchase today's 2 Lucky Jades - 500,000 Coins"
+C;Y1271;X1;K2334
+C;X2;K"Pick - Scarlet Phoenix"
+C;X3;K"Script\HuoDong\2012Xmas-newyear\npc-2334-zhuque.s"
+C;X4;K"1 Blessing to the Scarlet Phoenix"
+C;X5;K"10 Blessings to the Scarlet Phoenix"
+C;X6;K"100 Blessings to the Scarlet Phoenix"
+C;X7;K"All blessings to the Scarlet Phoenix!"
+C;X8;K"View My Blessings"
+C;X9;K"Purchase today's 2 Lucky Jades - 500,000 Coins"
+C;Y1272;X1;K2335
+C;X2;K"Pick - Dark Tortoise"
+C;X3;K"Script\HuoDong\2012Xmas-newyear\npc-2335-xuanwu.s"
+C;X4;K"1 Blessing to the Dark Tortoise"
+C;X5;K"10 Blessings to the Dark Tortoise"
+C;X6;K"100 Blessings to the Dark Tortoise"
+C;X7;K"All blessings to the Dark Tortoise!"
+C;X8;K"View My Blessings"
+C;X9;K"Purchase today's 2 Lucky Jades - 500,000 Coins"
+C;Y1273;X1;K2336
+C;X2;K"Salute"
+C;X3;K"Script\HuoDong\2012Xmas-newyear\npc-2336-2341-lipao.s"
+C;X4;K"Preparing Fireworks"
+C;X5;K"Light Salute"
+C;Y1274;X1;K2337
+C;X2;K"Salute"
+C;X3;K"Script\HuoDong\2012Xmas-newyear\npc-2336-2341-lipao2.s"
+C;X4;K"Preparing Fireworks"
+C;X5;K"Light Salute"
+C;Y1275;X1;K2338
+C;X2;K"Salute"
+C;X3;K"Script\HuoDong\2012Xmas-newyear\npc-2336-2341-lipao3.s"
+C;X4;K"Preparing Fireworks"
+C;X5;K"Light Salute"
+C;Y1276;X1;K2339
+C;X2;K"Salute"
+C;X3;K"Script\HuoDong\2012Xmas-newyear\npc-2336-2341-lipao4.s"
+C;X4;K"Preparing Fireworks"
+C;X5;K"Light Salute"
+C;Y1277;X1;K2340
+C;X2;K"Salute"
+C;X3;K"Script\HuoDong\2012Xmas-newyear\npc-2336-2341-lipao5.s"
+C;X4;K"Preparing Fireworks"
+C;X5;K"Light Salute"
+C;Y1278;X1;K2341
+C;X2;K"Salute"
+C;X3;K"Script\HuoDong\2012Xmas-newyear\npc-2336-2341-lipao6.s"
+C;X4;K"Preparing Fireworks"
+C;X5;K"Light Salute"
+C;Y1280;X1;K1126
+C;X2;K"To the Last Bastion"
+C;X3;K"Script\Npc\NPC-1126.s"
+C;X4;K"Leave Besieged Atlantis"
+C;Y1281;X1;K1127
+C;X2;K"To Atlantis"
+C;X3;K"Script\Npc\NPC-1127.s"
+C;X4;K"To Atlantis"
+C;Y1283;X1;K1631
+C;X2;K"God of War's Fury"
+C;X3;K"Script\Ectype\baicengta\NPC-1hong.s"
+C;X4;K"Borrow Godforce from God of War"
+C;Y1284;X1;K1632
+C;X2;K"Divine Light"
+C;X3;K"Script\Ectype\baicengta\NPC-2huang.s"
+C;X4;K"Borrow Godforce from Lord of the Gods"
+C;Y1285;X1;K1633
+C;X2;K"Thor's Lightning"
+C;X3;K"Script\Ectype\baicengta\NPC-3lan.s"
+C;X4;K"Borrow Godforce from God of Thunder"
+C;Y1286;X1;K1634
+C;X2;K"Breath of Soulreaper"
+C;X3;K"Script\Ectype\baicengta\NPC-4lv.s"
+C;X4;K"Borrow Godforce from God of Death"
+C;Y1287;X1;K1635
+C;X2;K"Broken Seal"
+C;X3;K"Script\Ectype\baicengta\NPC-fengyin.s"
+C;X4;K"Remove Seal"
+C;Y1288;X1;K1636
+C;X2;K"Burning Altar"
+C;X3;K"Script\Ectype\baicengta\NPC-jitan.s"
+C;X4;K"Touch Altar"
+C;Y1290;X1;K213
+C;X2;K"Frado"
+C;X3;K"Script\Npc\NPC-213-fuladuo.s"
+C;X4;K"Exchange LV2 Celestial Might"
+C;X5;K"Exchange LV3 Celestial Might"
+C;X6;K"Exchange LV4 Celestial Might"
+C;X7;K"Exchange LV5 Celestial Might"
+C;X8;K"Exchange LV6 Celestial Might"
+C;Y1292;X1;K869
+C;X2;K"Frozen Tablet"
+C;X3;K"Script\Ectype\DFW-2\npc-869-bingdong.s"
+C;X4;K"Touch Stone Tablet"
+C;Y1293;X1;K870
+C;X2;K"Poisonous Tablet"
+C;X3;K"Script\Ectype\DFW-2\npc-870-judu.s"
+C;X4;K"Touch Stone Tablet"
+C;Y1294;X1;K871
+C;X2;K"Flaming Tablet"
+C;X3;K"Script\Ectype\DFW-2\npc-871-huoyan.s"
+C;X4;K"Touch Stone Tablet"
+C;Y1295;X1;K2342
+C;X2;K"Back to Atlantis"
+C;X3;K"Script\Ectype\DFW-2\npc-2342-Exit.s"
+C;X4;K"Return to active platform"
+C;X5;K"Back to Atlantis"
+C;Y1297;X1;K14
+C;X3;K"Script\HuoDong\2013Chunjie\14-NPC.s"
+C;X4;K"A new year, a new fortune!"
+C;Y1298;X1;K85
+C;X3;K"Script\HuoDong\2013Chunjie\85-NPC.s"
+C;X4;K"Have a safe and happy new year!"
+C;Y1299;X1;K182
+C;X3;K"Script\HuoDong\2013Chunjie\182-NPC.s"
+C;X4;K"Happy New Year!"
+C;Y1300;X1;K1129
+C;X2;K"Wishing Tree"
+C;X3;K"Script\HuoDong\2013Chunjie\1129-NPC.s"
+C;X4;K"Use 1 Mystical Springwater to make a wish"
+C;X5;K"Use all Mystical Springwaters to make a wish"
+C;X6;K"View amount of poured Springwaters and gifts"
+C;X7;K"Receive Wishing Gift"
+C;Y1302;X1;K1131
+C;X2;K"Lantern Festival Lantern"
+C;X3;K"Script\HuoDong\2010Chunjie\1131-NPC.s"
+C;X4;K"Option 1 - Lift a Finger"
+C;X5;K"Option 2 - Rest in Peace"
+C;X6;K"Option 3 - Doing it My Way"
+C;X7;K"Option 4 - Clear and Logical"
+C;Y1303;X1;K1132
+C;X2;K"Lantern Festival Lantern"
+C;X3;K"Script\HuoDong\2010Chunjie\1132-NPC.s"
+C;X4;K"N/A??1-?"
+C;X5;K"N/A??2-?"
+C;X6;K"N/A??3-?"
+C;X7;K"N/A??4-?"
+C;Y1304;X1;K1133
+C;X2;K"Lantern Festival Lantern"
+C;X3;K"Script\HuoDong\2010Chunjie\1133-NPC.s"
+C;X4;K"N/A??1-???"
+C;X5;K"N/A??2-??"
+C;X6;K"N/A??3-??"
+C;X7;K"N/A??4-??"
+C;Y1305;X1;K1134
+C;X2;K"Lantern Festival Lantern"
+C;X3;K"Script\HuoDong\2010Chunjie\1134-NPC.s"
+C;X4;K"N/A??1-??"
+C;X5;K"N/A??2-??"
+C;X6;K"N/A??3-??"
+C;X7;K"N/A??4-??"
+C;Y1306;X1;K1135
+C;X2;K"Lantern Festival Lantern"
+C;X3;K"Script\HuoDong\2010Chunjie\1135-NPC.s"
+C;X4;K"N/A??1-????"
+C;X5;K"N/A??2-????"
+C;X6;K"N/A??3-????"
+C;X7;K"N/A??4-????"
+C;Y1307;X1;K1136
+C;X2;K"Lantern Festival Lantern"
+C;X3;K"Script\HuoDong\2010Chunjie\1136-NPC.s"
+C;X4;K"N/A??1-?"
+C;X5;K"N/A??2-?"
+C;X6;K"N/A??3-?"
+C;X7;K"N/A??4-?"
+C;Y1308;X1;K1137
+C;X2;K"Lantern Festival Lantern"
+C;X3;K"Script\HuoDong\2010Chunjie\1137-NPC.s"
+C;X4;K"N/A??1-??"
+C;X5;K"N/A??2-??"
+C;X6;K"N/A??3-??"
+C;X7;K"N/A??4-???"
+C;Y1309;X1;K1138
+C;X2;K"Lantern Festival Lantern"
+C;X3;K"Script\HuoDong\2010Chunjie\1138-NPC.s"
+C;X4;K"N/A??1-??"
+C;X5;K"N/A??2-??"
+C;X6;K"N/A??3-???"
+C;X7;K"N/A??4-??"
+C;Y1310;X1;K1139
+C;X2;K"Lantern Festival Lantern"
+C;X3;K"Script\HuoDong\2010Chunjie\1139-NPC.s"
+C;X4;K"N/A??1-????"
+C;X5;K"N/A??2-????"
+C;X6;K"N/A??3-????"
+C;X7;K"N/A??4-????"
+C;Y1311;X1;K1140
+C;X2;K"Lantern Festival Lantern"
+C;X3;K"Script\HuoDong\2010Chunjie\1140-NPC.s"
+C;X4;K"N/A??1-?"
+C;X5;K"N/A??2-?"
+C;X6;K"N/A??3-?"
+C;X7;K"N/A??4-?"
+C;Y1312;X1;K1141
+C;X2;K"Lantern Festival Lantern"
+C;X3;K"Script\HuoDong\2010Chunjie\1141-NPC.s"
+C;X4;K"N/A??1-??"
+C;X5;K"N/A??2-??"
+C;X6;K"N/A??3-??"
+C;X7;K"N/A??4-??"
+C;Y1313;X1;K1142
+C;X2;K"Lantern Festival Lantern"
+C;X3;K"Script\HuoDong\2010Chunjie\1142-NPC.s"
+C;X4;K"N/A??1-??"
+C;X5;K"N/A??2-??"
+C;X6;K"N/A??3-??"
+C;X7;K"N/A??4-???"
+C;Y1314;X1;K1143
+C;X2;K"Lantern Festival Lantern"
+C;X3;K"Script\HuoDong\2010Chunjie\1143-NPC.s"
+C;X4;K"N/A??1-????"
+C;X5;K"N/A??2-????"
+C;X6;K"N/A??3-????"
+C;X7;K"N/A??4-????"
+C;Y1315;X1;K1144
+C;X2;K"Lantern Festival Lantern"
+C;X3;K"Script\HuoDong\2010Chunjie\1144-NPC.s"
+C;X4;K"N/A??1-?"
+C;X5;K"N/A??2-?"
+C;X6;K"N/A??3-?"
+C;X7;K"N/A??4-?"
+C;Y1316;X1;K1145
+C;X2;K"Lantern Festival Lantern"
+C;X3;K"Script\HuoDong\2010Chunjie\1145-NPC.s"
+C;X4;K"N/A??1-??"
+C;X5;K"N/A??2-??"
+C;X6;K"N/A??3-??"
+C;X7;K"N/A??4-??"
+C;Y1317;X1;K1146
+C;X2;K"Lantern Festival Lantern"
+C;X3;K"Script\HuoDong\2010Chunjie\1146-NPC.s"
+C;X4;K"N/A??1-???"
+C;X5;K"N/A??2-???"
+C;X6;K"N/A??3-??"
+C;X7;K"N/A??4-??"
+C;Y1318;X1;K1147
+C;X2;K"Lantern Festival Lantern"
+C;X3;K"Script\HuoDong\2010Chunjie\1147-NPC.s"
+C;X4;K"N/A??1-????"
+C;X5;K"N/A??2-????"
+C;X6;K"N/A??3-????"
+C;X7;K"N/A??4-????"
+C;Y1319;X1;K1148
+C;X2;K"Lantern Festival Lantern"
+C;X3;K"Script\HuoDong\2010Chunjie\1148-NPC.s"
+C;X4;K"N/A??1-?"
+C;X5;K"N/A??2-?"
+C;X6;K"N/A??3-?"
+C;X7;K"N/A??4-?"
+C;Y1320;X1;K1149
+C;X2;K"Lantern Festival Lantern"
+C;X3;K"Script\HuoDong\2010Chunjie\1149-NPC.s"
+C;X4;K"N/A??1-????"
+C;X5;K"N/A??2-??"
+C;X6;K"N/A??3-??"
+C;X7;K"N/A??4-??"
+C;Y1321;X1;K1150
+C;X2;K"Lantern Festival Lantern"
+C;X3;K"Script\HuoDong\2010Chunjie\1150-NPC.s"
+C;X4;K"N/A??1-???"
+C;X5;K"N/A??2-??"
+C;X6;K"N/A??3-???"
+C;X7;K"N/A??4-???"
+C;Y1322;X1;K1151
+C;X2;K"Lantern Festival Lantern"
+C;X3;K"Script\HuoDong\2010Chunjie\1151-NPC.s"
+C;X4;K"N/A??1-????"
+C;X5;K"N/A??2-????"
+C;X6;K"N/A??3-????"
+C;X7;K"N/A??4-????"
+C;Y1323;X1;K1152
+C;X2;K"Lantern Festival Lantern"
+C;X3;K"Script\HuoDong\2010Chunjie\1152-NPC.s"
+C;X4;K"N/A??1-?"
+C;X5;K"N/A??2-?"
+C;X6;K"N/A??3-?"
+C;X7;K"N/A??4-?"
+C;Y1324;X1;K1153
+C;X2;K"Lantern Festival Lantern"
+C;X3;K"Script\HuoDong\2010Chunjie\1153-NPC.s"
+C;X4;K"N/A??1-??"
+C;X5;K"N/A??2-??"
+C;X6;K"N/A??3-??"
+C;X7;K"N/A??4-??"
+C;Y1325;X1;K1154
+C;X2;K"Lantern Festival Lantern"
+C;X3;K"Script\HuoDong\2010Chunjie\1154-NPC.s"
+C;X4;K"N/A??1-??"
+C;X5;K"N/A??2-??"
+C;X6;K"N/A??3-??"
+C;X7;K"N/A??4-??"
+C;Y1326;X1;K1155
+C;X2;K"Lantern Festival Lantern"
+C;X3;K"Script\HuoDong\2010Chunjie\1155-NPC.s"
+C;X4;K"N/A??1-????"
+C;X5;K"N/A??2-????"
+C;X6;K"N/A??3-????"
+C;X7;K"N/A??4-????"
+C;Y1327;X1;K1156
+C;X2;K"Lantern Festival Lantern"
+C;X3;K"Script\HuoDong\2010Chunjie\1156-NPC.s"
+C;X4;K"N/A??1-?"
+C;X5;K"N/A??2-?"
+C;X6;K"N/A??3-?"
+C;X7;K"N/A??4-?"
+C;Y1328;X1;K1157
+C;X2;K"Lantern Festival Lantern"
+C;X3;K"Script\HuoDong\2010Chunjie\1157-NPC.s"
+C;X4;K"N/A??1-??"
+C;X5;K"N/A??2-????"
+C;X6;K"N/A??3-??"
+C;X7;K"N/A??4-????"
+C;Y1329;X1;K1158
+C;X2;K"Lantern Festival Lantern"
+C;X3;K"Script\HuoDong\2010Chunjie\1158-NPC.s"
+C;X4;K"N/A??1-???"
+C;X5;K"N/A??2-???"
+C;X6;K"N/A??3-??"
+C;X7;K"N/A??4-??"
+E

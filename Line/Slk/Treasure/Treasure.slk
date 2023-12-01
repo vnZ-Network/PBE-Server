@@ -1,0 +1,476 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;P"Yes";;"Yes";;"No"
+P;P"True";;"True";;"False"
+P;P"On";;"On";;"Off"
+P;P[$?-2]\ #,##0.00_);;[Red]\([$?-2]\ #,##0.00\)
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M180
+P;ETahoma;M180
+P;ETahoma;M210
+P;E??;M240;L11
+P;E??;M200
+P;E??;M200;L9
+P;EArial;M180
+P;E??;M240;SU;L13
+P;E??;M240;SU;L37
+F;P0;DG0G8;M285
+B;Y43;X6;D0 0 42 5
+O;L;S;D;V0;K47;T0;G100 0.001
+F;W2 2 13
+F;W4 4 9
+F;W5 5 13
+F;W6 6 12
+C;Y1;X5;Aadmin: :?????????????
+C;X1;K"Treasure ID"
+C;X2;K"Treasure Name"
+C;X3;K"Rarity"
+C;X4;K"Number limited"
+C;X5;K"Collection complete"
+C;X6;K"Voyage"
+C;Y2;X1;K"ID"
+C;X2;K"Name"
+C;X3;K"Rare"
+C;X4;K"MaxCount"
+C;X5;K"TreasureValue"
+C;X6;K"ExploreValue"
+F;SM12;Y3;X1
+C;K1000
+F;SM12;X2
+C;K"Moai's Body"
+C;X3;K1
+C;X4;K10
+C;X5;K10
+C;X6;K100
+F;SM12;Y4;X1
+C;K1001
+F;SM12;X2
+C;K"Moai's Soul"
+C;X3;K4
+C;X4;K10
+C;X5;K41
+C;X6;K100
+F;SM12;Y5;X1
+C;K1002
+F;SM12;X2
+C;K"Volcano Ash of Rano Kau "
+C;X3;K2
+C;X4;K10
+C;X5;K21
+C;X6;K100
+F;SM12;Y6;X1
+C;K1003
+F;SM12;X2
+C;K"Volcano Ash of Rano Raraku"
+C;X3;K2
+C;X4;K10
+C;X5;K21
+C;X6;K100
+F;SM12;Y7;X1
+C;K1004
+F;SM12;X2
+C;K"Volcano Ash of Rano Aru"
+C;X3;K2
+C;X4;K10
+C;X5;K21
+C;X6;K100
+F;SM12;Y8;X1
+C;K1010
+F;SM12;X2
+C;K"Catastrophe Classics"
+C;X3;K3
+C;X4;K10
+C;X5;K31
+C;X6;K100
+F;SM12;Y9;X1
+C;K1011
+F;SM12;X2
+C;K"Scepter of Disaster"
+C;X3;K4
+C;X4;K10
+C;X5;K41
+C;X6;K100
+F;SM12;Y10;X1
+C;K1012
+F;SM12;X2
+C;K"Doctrine of Ocean"
+C;X3;K2
+C;X4;K10
+C;X5;K21
+C;X6;K100
+F;SM12;Y11;X1
+C;K1013
+F;SM12;X2
+C;K"Zio Stone of the Sun"
+C;X3;K1
+C;X4;K10
+C;X5;K10
+C;X6;K100
+F;SM12;Y12;X1
+C;K1014
+F;SM12;X2
+C;K"Bimini Rock"
+C;X3;K1
+C;X4;K10
+C;X5;K10
+C;X6;K100
+F;SM12;Y13;X1
+C;K1015
+F;SM12;X2
+C;K"Poseidon's Spear"
+C;X3;K2
+C;X4;K10
+C;X5;K21
+C;X6;K100
+F;SM12;Y14;X1
+C;K1016
+F;SM12;X2
+C;K"Poseidon's Crown"
+C;X3;K4
+C;X4;K10
+C;X5;K41
+C;X6;K100
+F;SM12;Y15;X1
+C;K1020
+F;SM12;X2
+C;K"Harp of Storm"
+C;X3;K2
+C;X4;K10
+C;X5;K21
+C;X6;K100
+F;SM12;Y16;X1
+C;K1021
+F;SM12;X2
+C;K"Ocean Heart"
+C;X3;K1
+C;X4;K10
+C;X5;K10
+C;X6;K100
+F;SM12;Y17;X1
+C;K1022
+F;SM12;X2
+C;K"Seaserpent's Fury"
+C;X3;K2
+C;X4;K10
+C;X5;K21
+C;X6;K100
+F;SM12;Y18;X1
+C;K1023
+F;SM12;X2
+C;K"Talimis's Eye"
+C;X3;K4
+C;X4;K10
+C;X5;K41
+C;X6;K100
+F;SM12;Y19;X1
+C;K1024
+F;SM12;X2
+C;K"Siren's Eyering"
+C;X3;K3
+C;X4;K10
+C;X5;K32
+C;X6;K100
+F;SM12;Y20;X1
+C;K1025
+F;SM12;X2
+C;K"Schilla's Necklace"
+C;X3;K4
+C;X4;K10
+C;X5;K41
+C;X6;K100
+F;SM12;Y21;X1
+C;K1026
+F;SM12;X2
+C;K"Charybdis's Ring"
+C;X3;K4
+C;X4;K10
+C;X5;K41
+C;X6;K100
+F;SM12;Y22;X1
+C;K1030
+F;SM12;X2
+C;K"Forest Totem"
+C;X3;K1
+C;X4;K10
+C;X5;K10
+C;X6;K100
+F;SM12;Y23;X1
+C;K1031
+F;SM12;X2
+C;K"Mandala's Light"
+C;X3;K1
+C;X4;K10
+C;X5;K10
+C;X6;K100
+F;SM12;Y24;X1
+C;K1032
+F;SM12;X2
+C;K"Mystic Tome - the Wheel of Time"
+C;X3;K2
+C;X4;K10
+C;X5;K21
+C;X6;K100
+F;SM12;Y25;X1
+C;K1033
+F;SM12;X2
+C;K"Desperate Sword"
+C;X3;K4
+C;X4;K10
+C;X5;K41
+C;X6;K100
+F;SM12;Y26;X1
+C;K1034
+F;SM12;X2
+C;K"Pali-Bhasa Classics"
+C;X3;K3
+C;X4;K10
+C;X5;K31
+C;X6;K100
+F;SM12;Y27;X1
+C;K1035
+F;SM12;X2
+C;K"Sanskrit Classics"
+C;X3;K3
+C;X4;K10
+C;X5;K31
+C;X6;K100
+F;SM12;Y28;X1
+C;K1036
+F;SM12;X2
+C;K"Stone of Destruction"
+C;X3;K4
+C;X4;K10
+C;X5;K41
+C;X6;K100
+F;SM12;Y29;X1
+C;K1040
+F;SM12;X2
+C;K"Conqueror's Gold Helm"
+C;X3;K1
+C;X4;K10
+C;X5;K10
+C;X6;K100
+F;SM12;Y30;X1
+C;K1041
+F;SM12;X2
+C;K"Memphis Staff "
+C;X3;K3
+C;X4;K10
+C;X5;K31
+C;X6;K100
+F;SM12;Y31;X1
+C;K1042
+F;SM12;X2
+C;K"World Tree Branch"
+C;X3;K2
+C;X4;K10
+C;X5;K21
+C;X6;K100
+F;SM12;Y32;X1
+C;K1043
+F;SM12;X2
+C;K"Nether Classics"
+C;X3;K1
+C;X4;K10
+C;X5;K10
+C;X6;K100
+F;SM12;Y33;X1
+C;K1044
+F;SM12;X2
+C;K"Anubis's Judgement"
+C;X3;K3
+C;X4;K10
+C;X5;K31
+C;X6;K100
+F;SM12;Y34;X1
+C;K1045
+F;SM12;X2
+C;K"Horus' Piccolo"
+C;X3;K4
+C;X4;K10
+C;X5;K41
+C;X6;K100
+F;SM12;Y35;X1
+C;K1046
+F;SM12;X2
+C;K"Death's Scythe"
+C;X3;K3
+C;X4;K10
+C;X5;K31
+C;X6;K100
+F;SM12;Y36;X1
+C;K1050
+F;SM12;X2
+C;K"Queen's Crown"
+C;X3;K1
+C;X4;K10
+C;X5;K10
+C;X6;K100
+F;SM12;Y37;X1
+C;K1051
+F;SM12;X2
+C;K"Gungnir"
+C;X3;K4
+C;X4;K10
+C;X5;K41
+C;X6;K100
+F;SM12;Y38;X1
+C;K1052
+F;SM12;X2
+C;K"Sleipnir's Bell"
+C;X3;K3
+C;X4;K10
+C;X5;K31
+C;X6;K100
+F;SM12;Y39;X1
+C;K1053
+F;SM12;X2
+C;K"Draupnir's Ring"
+C;X3;K2
+C;X4;K10
+C;X5;K21
+C;X6;K100
+F;SM12;Y40;X1
+C;K1054
+F;SM12;X2
+C;K"Nibelungen's Ring"
+C;X3;K4
+C;X4;K10
+C;X5;K41
+C;X6;K100
+F;SM12;Y41;X1
+C;K1055
+F;SM12;X2
+C;K"Legendary Nocturnal Pearl"
+C;X3;K3
+C;X4;K10
+C;X5;K41
+C;X6;K100
+F;SM12;Y42;X1
+C;K1056
+F;SM12;X2
+C;K"Mermaid's Tears"
+C;X3;K3
+C;X4;K10
+C;X5;K41
+C;X6;K100
+F;SM12;Y43;X1
+C;K1057
+F;SM12;X2
+C;K"Orpheus' Lute"
+C;X3;K3
+C;X4;K10
+C;X5;K41
+C;X6;K100
+E
