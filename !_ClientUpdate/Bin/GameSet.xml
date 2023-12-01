@@ -1,0 +1,14 @@
+<GameSet BottomLow = "false" SoundVal = "0.888" MusicVal = "0.5" IsCloseSound = "false" IsCloseMusic = "true" fullscreen = "false" width = "1920" height = "1080" firstrun = "false" cameradistmode = "1">
+</GameSet>
+<GameSetDefault BottomLow = "false" SoundVal = "0.888" MusicVal = "0.5" IsCloseSound = "false" IsCloseMusic = "false" fullscreen = "false" width = "1024" height = "768" cameradistmode = "0">
+</GameSetDefault>
+<effectset window = "0" antialias = "2" waterlevel = "1" shadowlevel = "3" lightlevel = "1" enableplayerrenderlimit = "0" playercountlevel = "2" TerrainComplexLevel = "1" BuildingComplexLevel = "1" GrassComplexLevel = "1" enablescreengrow = "1" sync = "0" enablespecialeffect = "3" fullscreeneffect = "1" mathnormalforlight = "1" animquality = "1" removebuildinglevel = "3" visiblelevel = "1" loadsound = "1" bloom = "1" gammar = "0.999" gammag = "0.999" gammab = "0.999">
+</effectset>
+<effectsetbottomlow window = "0" antialias = "0" waterlevel = "1" shadowlevel = "0" lightlevel = "0" enableplayerrenderlimit = "0" playercountlevel = "0" TerrainComplexLevel = "1" BuildingComplexLevel = "0" GrassComplexLevel = "0" enablescreengrow = "0" sync = "0" enablespecialeffect = "0" fullscreeneffect = "0" mathnormalforlight = "0" animquality = "0" removebuildinglevel = "0" visiblelevel = "1" loadsound = "0" bloom = "1" gammar = "1" gammag = "1" gammab = "1">
+</effectsetbottomlow>
+<effectsetlow window = "0" antialias = "0" waterlevel = "1" shadowlevel = "1" lightlevel = "1" enableplayerrenderlimit = "0" playercountlevel = "0" TerrainComplexLevel = "1" BuildingComplexLevel = "0" GrassComplexLevel = "0" enablescreengrow = "1" sync = "0" enablespecialeffect = "1" fullscreeneffect = "0" mathnormalforlight = "1" animquality = "1" removebuildinglevel = "1" visiblelevel = "1" loadsound = "1" bloom = "1" gammar = "1" gammag = "1" gammab = "1">
+</effectsetlow>
+<effectsetmid window = "0" antialias = "1" waterlevel = "1" shadowlevel = "2" lightlevel = "1" enableplayerrenderlimit = "0" playercountlevel = "1" TerrainComplexLevel = "1" BuildingComplexLevel = "1" GrassComplexLevel = "1" enablescreengrow = "1" sync = "0" enablespecialeffect = "2" fullscreeneffect = "0" mathnormalforlight = "1" animquality = "1" removebuildinglevel = "2" visiblelevel = "1" loadsound = "1" bloom = "1" gammar = "1" gammag = "1" gammab = "1">
+</effectsetmid>
+<effectsethigh window = "0" antialias = "2" waterlevel = "1" shadowlevel = "3" lightlevel = "1" enableplayerrenderlimit = "0" playercountlevel = "2" TerrainComplexLevel = "1" BuildingComplexLevel = "1" GrassComplexLevel = "1" enablescreengrow = "1" sync = "0" enablespecialeffect = "3" fullscreeneffect = "0" mathnormalforlight = "1" animquality = "1" removebuildinglevel = "3" visiblelevel = "1" loadsound = "1" bloom = "1" gammar = "1" gammag = "1" gammab = "1">
+</effectsethigh>

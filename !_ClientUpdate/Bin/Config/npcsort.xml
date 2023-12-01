@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="gb123" standalone="yes" ?>
+<!-- iconid 
+	0 npc
+	1 transport
+	2 monster -->
+
+<root>
+<npc title="Map Connection Point" iconid="1" sortid="0" typeid="3" color="255,225,210,163" maincolor="255,255,180,0"/>
+<npc title="Teleporter" iconid="0" sortid="1" typeid="9" color="255,225,210,163" maincolor="255,255,180,0"/>
+<npc title="Daily Function NPC" iconid="0" sortid="2" typeid="0" color="255,225,210,163" maincolor="255,255,180,0"/>
+<npc title="Event Guide" iconid="0" sortid="3" typeid="1" color="255,225,210,163" maincolor="255,255,180,0"/>
+<npc title="Merchant" iconid="0" sortid="4" typeid="6" color="255,225,210,163" maincolor="255,255,180,0"/>
+<npc title="Gear Upgrade" iconid="0" sortid="5" typeid="2" color="255,225,210,163" maincolor="255,255,180,0"/>
+<npc title="Pet & Mount Upgrade" iconid="0" sortid="6" typeid="5" color="255,225,210,163" maincolor="255,255,180,0"/>
+<npc title="Soul Gear Exchange" iconid="0" sortid="7" typeid="7" color="255,225,210,163" maincolor="255,255,180,0"/>
+<npc title="Common Function NPC" iconid="0" sortid="8" typeid="8" color="255,225,210,163" maincolor="255,255,180,0"/>
+<npc title="Miscellaneous" iconid="2" sortid="9" typeid="4" color="255,225,210,163" maincolor="255,255,180,0"/>
+
+<npc title="Gear Events" iconid="0" sortid="10" typeid="10" color="255,225,210,163" maincolor="255,255,180,0"/>
+<npc title="Exp Events" iconid="0" sortid="11" typeid="11" color="255,225,210,163" maincolor="255,255,180,0"/>
+<npc title="Divine NPC" iconid="0" sortid="12" typeid="12" color="255,225,210,163" maincolor="255,255,180,0"/>
+<npc title="Skill Upgrade" iconid="0" sortid="13" typeid="13" color="255,225,210,163" maincolor="255,255,180,0"/>
+</root>

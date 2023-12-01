@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+ 
+   <!--Following is force update configueration: Version stander for user's client version, so it can update emergency by modify it-->
+    <EmergencyUpdate>
+      <LauncherZip URL="" ExeMD5="" />
+      <VersionForced version1="" version2="" version3=""/>
+    </EmergencyUpdate>
+
+    <!--Latest client version-->
+    <LatestVersion>1307100</LatestVersion>
+
+    <!--Following is bulletin Info-->
+    <BulletinText LatestVersion="" URL="" TestLatestVersion="" TestURL=""/>
+
+    <!--Following is Area List. Display order of Area list is same as following order. Index represent the area display what picture (current 5 pics)-->
+    <AreaList>
+        <Area name="~E§網" index="1" CurVersion="">
+        <PatchServer url="" port="" maxsize="1500" Clientdir="client/" Xmlfiledir="Versioncmpfiles/" /> 
+	      <Loginserver ip="14.186.25.3" port="30002" zoneid="1" name="Abyss"/>
+		<Loginserver ip="192.168.1.77" port="30002" zoneid="1" name="Local"/>
+        </Area>
+    </AreaList>
+</Root>
